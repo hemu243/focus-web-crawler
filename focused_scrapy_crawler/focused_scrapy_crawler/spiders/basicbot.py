@@ -2,35 +2,53 @@
 import logging
 
 import scrapy
-from scrapy.spiders import Rule
+import time
+
 
 class BasicbotSpider(scrapy.Spider):
+    """
+    Basic bot which crawl the web pages
+    """
     name = 'basicbot'
-    allowed_domains = ['newhomesource.com']
-    start_urls = ['http://www.newhomesource.com/']
 
-    '''def parse(self, response):
-        pass
-
-    rules = (
-        Rule(LinkExtractor(), callback='parse_item', follow=True),
-    )'''
+    def __init__(self, input_urls=None, allowed_domains=None, *args, **kwargs):
+        """
+        Initialized crawl
+        :param input_urls: comma separates list of uris
+        :param allowed_domains: allowed domains
+        :param agrs: list of args
+        :param kwargs: key value args
+        """
+        super(BasicbotSpider, self).__init__(*args, **kwargs)
+        self.start_urls = str(input_urls).split(',')
+        if allowed_domains:
+            self.allowed_domains = str(allowed_domains).split(',')
 
     def parse(self, response):
-        #item = dict()
-        #item['url'] = response.url
-        #item['title'] = response.meta['link_text']
-        # extracting basic body
-        #item['body'] = '\n'.join(response.xpath('//text()').extract())
-        #self.log('\n'.join(response.xpath('//text()').extract()), logging.INFO)
-        self.log('\n'.join(response.xpath('//body//p//text()').extract()), logging.INFO)
-        # or better just save whole source
-        #item['source'] = response.body
-        #yield item
-        for href in response.xpath('//a/@href').extract():
-            # Handle relative uri
-            if href.startswith("/"):
-                href = response.url + href
-            self.log("Crawling url=" + href, logging.INFO)
-            #yield response.follow(href, callback=self.parse)
+        item = dict()
+        body = '\n'.join(response.xpath('//body//p//text()').extract())
+        if isinstance(body, basestring):
+            # Remove spaces
+            body.lstrip()
+            body.rstrip()
+        # Get all links
+        for anchor in response.xpath('//a'):
+            if not anchor.root:
+                continue
+            href = anchor.root.attrib.get('href')
+            text = anchor.root.text
+            # Convert relative href to full uri
+            if href and href.startswith("/"):
+                href = response.urljoin(href)
+            else:
+                continue
+            self.log("Crawling url="+ href, logging.INFO)
+            item['link'] = href
+            item['text'] = text
+            # TODO - tokenizer body here so we can easily construct features
+            item['body'] = body
+            item['page_title'] = '\n'.join(response.xpath("//h1/text()").extract())
+            item['last_updated'] = time.time()
+            yield item
+            yield response.follow(href, callback=self.parse)
 
