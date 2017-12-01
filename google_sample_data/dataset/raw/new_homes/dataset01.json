@@ -1,0 +1,591 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search -  new homes",
+                "totalResults": "1360000000",
+                "searchTerms": " new homes",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search -  new homes",
+                "totalResults": "1360000000",
+                "searchTerms": " new homes",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ]
+    },
+    "context": {
+        "title": "News Home Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.523227,
+        "formattedSearchTime": "0.52",
+        "totalResults": "1360000000",
+        "formattedTotalResults": "1,360,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "New Homes | Search Home Builders and New Homes for Sale",
+            "htmlTitle": "<b>New Homes</b> | Search Home Builders and <b>New Homes</b> for Sale",
+            "link": "https://www.newhomesource.com/",
+            "displayLink": "www.newhomesource.com",
+            "snippet": "Search Over 10000 New Home Communities - the World's Largest New Home \nDatabase. Compare Pricing, Pictures, and Floor Plans for New Homes for Sale.",
+            "htmlSnippet": "Search Over 10000 New Home Communities - the World&#39;s Largest New Home <br>\nDatabase. Compare Pricing, Pictures, and Floor Plans for <b>New Homes</b> for Sale.",
+            "cacheId": "4E4sCTdbxRMJ",
+            "formattedUrl": "https://www.newhomesource.com/",
+            "htmlFormattedUrl": "https://www.<b>newhomes</b>ource.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "275",
+                        "height": "183",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFoBNRvhxP9k-gMUPjptvHht2NbAlkm37CqBtxWbO__xAm52j38QxLEis"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "fb:app_id": "192575227523860",
+                        "og:description": "Search Over 10,000 New Home Communities - the World's Largest New Home Database. Compare Pricing, Pictures, and Floor Plans for New Homes for Sale.",
+                        "og:title": "New Homes | Search Home Builders and New Homes for Sale",
+                        "referrer": "unsafe-url",
+                        "servername": "BDXW6",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "msvalidate.01": "0E7EF56DE675CD7FDB798E284CAC2DB4",
+                        "botify-site-verification": "nTtyoiwv1p1bGg4VzaFFJyRXqTkhoQpD"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://nhg.secure.footprint.net/-/media/Project/BDX/NHG/How-Much-Does-It-Cost-to-Build-a-House-w1024-h680121.jpg?t=20170912T140923Z"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Homes Guide: New Homes For Sale In VA, MD, WV, DC & PA",
+            "htmlTitle": "<b>New Homes</b> Guide: <b>New Homes</b> For Sale In VA, MD, WV, DC &amp; PA",
+            "link": "https://www.newhomesguide.com/",
+            "displayLink": "www.newhomesguide.com",
+            "snippet": "Search thousands of new home communities - Mid-Atlantic Region's largest \nselection of builders, single family homes, townhomes & condos. Browse and \ncompare pricing, floorplans, photos, videos and model homes.",
+            "htmlSnippet": "Search thousands of <b>new</b> home communities - Mid-Atlantic Region&#39;s largest <br>\nselection of builders, single family <b>homes</b>, townhomes &amp; condos. Browse and <br>\ncompare pricing, floorplans, photos, videos and model <b>homes</b>.",
+            "cacheId": "HEXMmK098RIJ",
+            "formattedUrl": "https://www.newhomesguide.com/",
+            "htmlFormattedUrl": "https://www.<b>newhomes</b>guide.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "30",
+                        "height": "20",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxSa8SEHpPQfVtRBetYYNnpfMUxR9gPSC3OA_Zd3fdn110tLTUYxZD"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "csrf-param": "authenticity_token",
+                        "csrf-token": "urNqEgCsnlALH0BX8JECO9QW7CQictqTL69jEywJfuU=",
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.newhomesguide.com/assets/structure3x2-21721ce80ac44216c8bd439b46c8f3f7.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "US new home sales surge unexpectedly, hitting 10-year high in ...",
+            "htmlTitle": "US <b>new</b> home sales surge unexpectedly, hitting 10-year high in ...",
+            "link": "https://www.cnbc.com/2017/11/27/october-new-home-sales.html",
+            "displayLink": "www.cnbc.com",
+            "snippet": "3 days ago ... Sales of new U.S. single-family homes unexpectedly rose in October, hitting their \nhighest level in 10 years amid robust demand across the country.",
+            "htmlSnippet": "3 days ago <b>...</b> Sales of <b>new</b> U.S. single-family <b>homes</b> unexpectedly rose in October, hitting their <br>\nhighest level in 10 years amid robust demand across the country.",
+            "cacheId": "WS7JhFmNUZkJ",
+            "formattedUrl": "https://www.cnbc.com/2017/11/27/october-new-home-sales.html",
+            "htmlFormattedUrl": "https://www.cnbc.com/2017/11/27/october-<b>new</b>-home-sales.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "310",
+                        "height": "162",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZZMROqCytZrbPm_PP4k2lu7gcKpqjJmmTZlGKARGPJ8Uu0_SeViCk3A0"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "image": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2016/03/23/103492620-GettyImages-457674561.jpg?v=1466538309",
+                        "width": "width='530'",
+                        "height": "height='298'",
+                        "datepublished": "2016-03-23T15:56:21-0400",
+                        "datecreated": "2016-03-23T15:54:45-0400",
+                        "datemodified": "2016-06-21T15:46:49-0400",
+                        "uploaddate": "2016-03-23T15:54:45-0400",
+                        "expires": "2099-12-31",
+                        "encodingformat": "jpg",
+                        "author": "Matthew Staver | Bloomberg | Getty Images",
+                        "publisher": "CNBC",
+                        "caption": "Prospective buyers with their real estate agent survey the kitchen of a new home in Denver."
+                    },
+                    {
+                        "image": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/11/30/104871246-GettyImages-862874382.jpg?v=1512058156",
+                        "width": "width='160'",
+                        "height": "height='105'",
+                        "datepublished": "2017-11-30T11:09:16-0500",
+                        "datecreated": "2017-11-30T11:08:53-0500",
+                        "datemodified": "2017-11-30T11:09:09-0500",
+                        "uploaddate": "2017-11-30T11:08:53-0500",
+                        "expires": "2099-12-31",
+                        "encodingformat": "jpg",
+                        "author": "Getty Images",
+                        "publisher": "CNBC",
+                        "caption": "Sen. John McCain (R-AZ) talks to reporters as he walks to the Senate chamber."
+                    },
+                    {
+                        "image": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/11/30/104872220-GettyImages-881222154.jpg?v=1512080886",
+                        "width": "width='160'",
+                        "height": "height='105'",
+                        "datepublished": "2017-11-30T17:28:06-0500",
+                        "datecreated": "2017-11-30T17:27:33-0500",
+                        "datemodified": "2017-11-30T17:27:59-0500",
+                        "uploaddate": "2017-11-30T17:27:33-0500",
+                        "expires": "2099-12-31",
+                        "encodingformat": "jpg",
+                        "author": "Andrew Harrer | Bloomberg | Getty Images",
+                        "publisher": "CNBC",
+                        "caption": "Senator Bob Corker, a Republican from Tennessee, speaks to members of the media after a weekly GOP luncheon meeting at the U.S. Capitol in Washington, D.C., U.S., on Tuesday, Nov. 28, 2017."
+                    },
+                    {
+                        "image": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/01/25/104239737-RTSXB3Y.jpg?v=1485356728",
+                        "width": "width='160'",
+                        "height": "height='105'",
+                        "datepublished": "2017-01-25T10:05:28-0500",
+                        "datecreated": "2017-01-25T10:04:24-0500",
+                        "datemodified": "2017-01-25T10:05:33-0500",
+                        "uploaddate": "2017-01-25T10:04:24-0500",
+                        "expires": "2099-12-31",
+                        "encodingformat": "jpg",
+                        "author": "Brendan McDermid | Reuters",
+                        "publisher": "CNBC",
+                        "caption": "Traders celebrate on the main trading floor of the New York Stock Exchange (NYSE) as the Dow Jones Industrial Average passes the 20,000 mark shortly after the opening of the trading session..."
+                    },
+                    {
+                        "image": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/11/03/104819324-GettyImages-869824588-1.jpg?v=1509731523",
+                        "width": "width='160'",
+                        "height": "height='105'",
+                        "datepublished": "2017-11-03T13:52:03-0400",
+                        "datecreated": "2017-11-03T13:51:28-0400",
+                        "datemodified": "2017-11-03T13:51:56-0400",
+                        "uploaddate": "2017-11-03T13:51:28-0400",
+                        "expires": "2099-12-31",
+                        "encodingformat": "jpg",
+                        "author": "Justin Sullivan | Getty Images",
+                        "publisher": "CNBC",
+                        "caption": "Apple CEO Tim Cook (L) takes a picture with David Casarez (R) who just purchased the new iPhone X at an Apple Store on November 3, 2017 in Palo Alto, California."
+                    },
+                    {
+                        "image": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/11/30/104871613-GettyImages-507623484-randi-zuckerberg.jpg?v=1512066658",
+                        "width": "width='160'",
+                        "height": "height='105'",
+                        "datepublished": "2017-11-30T13:30:58-0500",
+                        "datecreated": "2017-11-30T13:30:18-0500",
+                        "datemodified": "2017-11-30T13:30:51-0500",
+                        "uploaddate": "2017-11-30T13:30:18-0500",
+                        "expires": "2099-12-31",
+                        "encodingformat": "jpg",
+                        "author": "Udit Kulshrestha | Bloomberg | Getty Images",
+                        "publisher": "CNBC",
+                        "caption": "Randi Zuckerberg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "assettype": "cnbcnewsstory",
+                        "pagenodeid": "104863847",
+                        "og:type": "article",
+                        "og:url": "https://www.cnbc.com/2017/11/27/october-new-home-sales.html",
+                        "og:site_name": "CNBC",
+                        "og:image": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2016/03/23/103492620-GettyImages-457674561.1910x1000.jpg",
+                        "og:title": "US new home sales surge unexpectedly, hitting 10-year high in October",
+                        "og:description": "Sales of new U.S. single-family homes unexpectedly rose in October, hitting their highest level in 10 years amid robust demand across the country.",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "@CNBC",
+                        "twitter:url": "https://www.cnbc.com/2017/11/27/october-new-home-sales.html",
+                        "twitter:title": "US new home sales surge unexpectedly, hitting 10-year high in October",
+                        "twitter:description": "Sales of new U.S. single-family homes unexpectedly rose in October, hitting their highest level in 10 years amid robust demand across the country.",
+                        "twitter:image": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2016/03/23/103492620-GettyImages-457674561.1910x1000.jpg",
+                        "article:publisher": "https://www.facebook.com/cnbc",
+                        "article:published_time": "2017-11-27T10:01:12-0500",
+                        "article:modified_time": "2017-11-28T12:25:30-0500",
+                        "article:author": "https://www.facebook.com/CNBC",
+                        "author": "CNBC",
+                        "article:section": "Real Estate",
+                        "article:tag": "Economic Reports",
+                        "news_keywords": "economy, US economy, data, new home sales, real estate, housing",
+                        "tp:preferredruntimes": "universal",
+                        "tp:preferredformats": "M3U,MPEG4",
+                        "tp:initialize": "false",
+                        "apple-itunes-app": "app-id=398018310",
+                        "al:ios:app_name": "CNBC Business News and Finance",
+                        "al:ios:app_store_id": "398018310",
+                        "parsely-metadata": "{\"nodeid\": \"104863847\",\"originalImage\": \"https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2016/03/23/103492620-GettyImages-457674561.jpg\"}",
+                        "referrer": "unsafe-url"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "name": "US new home sales surge unexpectedly, hitting 10-year high in October",
+                        "description": "Sales of new U.S. single-family homes unexpectedly rose in October, hitting their highest level in 10 years amid robust demand across the country.",
+                        "keywords": "Real Estate, Economic Reports, U.S. Markets, Real Estate, Housing, Economy, US: News, business news",
+                        "image": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2016/03/23/103492620-GettyImages-457674561.1910x1000.jpg",
+                        "datecreated": "2017-11-27T10:01:12-0500",
+                        "datemodified": "2017-11-28T12:25:30-0500",
+                        "lastreviewed": "2017-11-28T12:25:30-0500",
+                        "sourceorganization": "CNBC",
+                        "inlanguage": "en-US",
+                        "specialty": "economy, US economy, data, new home sales, real estate, housing",
+                        "primaryimageofpage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2016/03/23/103492620-GettyImages-457674561.1910x1000.jpg",
+                        "isfamilyfriendly": "true",
+                        "contentrating": "NR",
+                        "url": "https://www.cnbc.com/2017/11/27/october-new-home-sales.html"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2016/03/23/103492620-GettyImages-457674561.1910x1000.jpg"
+                    }
+                ],
+                "newsarticle": [
+                    {
+                        "name": "US new home sales surge unexpectedly, hitting 10-year high in October",
+                        "datepublished": "2017-11-27T10:01:12-0500",
+                        "datemodified": "2017-11-28T12:25:30-0500",
+                        "sourceorganization": "Reuters",
+                        "articlebody": "Sales of new U.S. single-family homes unexpectedly rose in October, hitting their highest level in 10 years amid robust demand across the country. The Commerce Department said on Monday new..."
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The New Home Company: Home Page",
+            "htmlTitle": "The <b>New</b> Home Company: Home Page",
+            "link": "https://thenewhomecompany.com/",
+            "displayLink": "thenewhomecompany.com",
+            "snippet": "Not an offer or solicitation to sell real property. Offers to sell real property may \nonly be made and accepted at the sales center for individual New Home \ncommunities. Promotional offers are typically limited to specific homes and \ncommunities and are subject to terms and conditions. For additional legal \ndisclaimers please click ...",
+            "htmlSnippet": "Not an offer or solicitation to sell real property. Offers to sell real property may <br>\nonly be made and accepted at the sales center for individual <b>New</b> Home <br>\ncommunities. Promotional offers are typically limited to specific <b>homes</b> and <br>\ncommunities and are subject to terms and conditions. For additional legal <br>\ndisclaimers please click&nbsp;...",
+            "cacheId": "zKlIE3YUI8sJ",
+            "formattedUrl": "https://thenewhomecompany.com/",
+            "htmlFormattedUrl": "https://the<b>new</b>homecompany.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "275",
+                        "height": "183",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShFT9Z2I8EF2dnrmJir9aiZoBwW1wN8_Owvaxh6CEWgE7z-i81ruMNnA0"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msvalidate.01": "17274616EDD9A47C580A333CAC1A6F7F",
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.5"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://thenewhomecompany.com/sites/default/files/home-images/16NHC1352_2016_NWHM_HolidayWebsite_Thumbnails_C014.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "U.S. New-Home Sales Unexpectedly Rise to Highest in a Decade ...",
+            "htmlTitle": "U.S. <b>New</b>-Home Sales Unexpectedly Rise to Highest in a Decade ...",
+            "link": "https://www.bloomberg.com/news/articles/2017-11-27/u-s-new-home-sales-unexpectedly-climb-to-highest-in-a-decade",
+            "displayLink": "www.bloomberg.com",
+            "snippet": "3 days ago ... U.S. purchases of new homes unexpectedly advanced in broad fashion last \nmonth, reaching the strongest pace in a decade and offering an encouraging \nsignal for residential construction, according to government data released \nMonday.",
+            "htmlSnippet": "3 days ago <b>...</b> U.S. purchases of <b>new homes</b> unexpectedly advanced in broad fashion last <br>\nmonth, reaching the strongest pace in a decade and offering an encouraging <br>\nsignal for residential construction, according to government data released <br>\nMonday.",
+            "cacheId": "5SefaosuSXgJ",
+            "formattedUrl": "https://www.bloomberg.com/news/.../u-s-new-home-sales-unexpectedly- climb-to-highest-in-a-decade",
+            "htmlFormattedUrl": "https://www.bloomberg.com/<b>new</b>s/.../u-s-<b>new</b>-home-sales-unexpectedly- climb-to-highest-in-a-decade",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "275",
+                        "height": "183",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbB0rFIoD1Mi4zP_-JueEYAjqKoaaBqboyGMFgIn1iMQyGQkd0_XmccQ0"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width,initial-scale=1",
+                        "iso-8601-publish-date": "2017-11-27T15:00:02.141Z",
+                        "checksum": "c58fb2d4d10ba94b263692466d01d627",
+                        "validatedat": "2017-11-29T11:53:00.379Z",
+                        "referrer": "unsafe-url",
+                        "al:android:url": "bloomberg://www.bloomberg.com/news/articles/2017-11-27/u-s-new-home-sales-unexpectedly-climb-to-highest-in-a-decade?utm_medium=applink&utm_source=facebook",
+                        "al:android:package": "com.bloomberg.android.plus",
+                        "al:android:app_name": "Bloomberg",
+                        "og:description": "U.S. purchases of new homes unexpectedly advanced in broad fashion last month, reaching the strongest pace in a decade and offering an encouraging signal for residential construction, according to government data released Monday.",
+                        "og:image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilF3cU53y5Is/v1/1200x800.jpg",
+                        "og:site_name": "Bloomberg.com",
+                        "og:title": "U.S. New-Home Sales Unexpectedly Rise to Highest in a Decade",
+                        "og:type": "article",
+                        "og:url": "https://www.bloomberg.com/news/articles/2017-11-27/u-s-new-home-sales-unexpectedly-climb-to-highest-in-a-decade",
+                        "fb:status": "U.S. purchases of new homes unexpectedly advanced in broad fashion last month, reaching the strongest pace in a decade and offering an encouraging signal for residential construction, according to government data released Monday.",
+                        "twitter:card": "summary",
+                        "twitter:description": "U.S. purchases of new homes unexpectedly advanced in broad fashion last month, reaching the strongest pace in a decade and offering an encouraging signal for residential construction, according to government data released Monday.",
+                        "twitter:image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilF3cU53y5Is/v1/1200x800.jpg",
+                        "twitter:site": "@markets",
+                        "twitter:title": "U.S. New-Home Sales Unexpectedly Rise to Highest in a Decade",
+                        "parsely-title": "U.S. New-Home Sales Unexpectedly Rise to Highest in a Decade",
+                        "parsely-link": "https://www.bloomberg.com/news/articles/2017-11-27/u-s-new-home-sales-unexpectedly-climb-to-highest-in-a-decade",
+                        "parsely-type": "post",
+                        "parsely-image-url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilF3cU53y5Is/v1/1200x800.jpg",
+                        "parsely-pub-date": "2017-11-27T15:00:02.141Z",
+                        "parsely-section": "markets",
+                        "parsely-tags": "Construction,Real Estate,Luxury,Personal Finance,Infrastructure,Secondary Brand: markets,Region: Global,Page: article",
+                        "parsely-post-id": "P030C2T0AFBI01",
+                        "parsely-author": "Sho Chandra",
+                        "apple-mobile-web-app-capable": "no",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "apple-itunes-app": "app-id=281941097, affiliate-data=ct=smartbanner_mobileweb&pt=8949&utm_source=smart_banner",
+                        "sailthru.title": "U.S. New-Home Sales Unexpectedly Rise to Highest in a Decade",
+                        "sailthru.author": "Sho Chandra",
+                        "sailthru.tags": "Construction,Real Estate,Luxury,Personal Finance,Infrastructure,markets",
+                        "sailthru.description": "U.S. purchases of new homes unexpectedly advanced in broad fashion last month, reaching the strongest pace in a decade and offering an encouraging signal for residential construction, according to government data released Monday.",
+                        "sailthru.date": "2017-11-27T15:00:02.141Z"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilF3cU53y5Is/v1/1200x800.jpg"
+                    }
+                ],
+                "article": [
+                    {
+                        "datepublished": "2017-11-27T15:00:02.141Z",
+                        "datemodified": "2017-11-27T15:09:32.345Z"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Homes | Search Home Builders and New Homes for Sale ...",
+            "htmlTitle": "<b>New Homes</b> | Search Home Builders and <b>New Homes</b> for Sale ...",
+            "link": "http://www.newhomelistings.com/",
+            "displayLink": "www.newhomelistings.com",
+            "snippet": "Search Over 10000 New Home Communities - the World's Largest New Home \nDatabase. Compare Pricing, Pictures, and Floor Plans for New Homes for Sale.",
+            "htmlSnippet": "Search Over 10000 New Home Communities - the World&#39;s Largest New Home <br>\nDatabase. Compare Pricing, Pictures, and Floor Plans for <b>New Homes</b> for Sale.",
+            "cacheId": "bwW3D3cjBOMJ",
+            "formattedUrl": "www.newhomelistings.com/",
+            "htmlFormattedUrl": "www.<b>new</b>homelistings.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "379",
+                        "height": "133",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjtR8f43rePsyktjVjyYtyExpNOzvb94DzAhyXnQxFHzGgKpN9bJDp_Xs"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "fb:app_id": "192575227523860",
+                        "og:description": "Search Over 10,000 New Home Communities - the World's Largest New Home Database. Compare Pricing, Pictures, and Floor Plans for New Homes for Sale.",
+                        "og:title": "New Homes | Search Home Builders and New Homes for Sale",
+                        "referrer": "unsafe-url",
+                        "servername": "BDXW2",
+                        "viewport": "width=device-width, maximum-scale=1.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://nhs-static.secure.footprint.net//GlobalResourcesMvc/NewHomeListings/images/slideshow/homegallery5.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Home Guide: New Homes for Sale | Home Builders and New ...",
+            "htmlTitle": "New Home Guide: <b>New Homes</b> for Sale | Home Builders and New ...",
+            "link": "https://www.newhomeguide.com/",
+            "displayLink": "www.newhomeguide.com",
+            "snippet": "Browse new homes, houses and communities by state, city, county or zip code on \nNewHomeGuide.com See pictures, floor plans, neighborhood information and \nmuch more.",
+            "htmlSnippet": "Browse <b>new homes</b>, houses and communities by state, city, county or zip code on <br>\nNewHomeGuide.com See pictures, floor plans, neighborhood information and <br>\nmuch more.",
+            "cacheId": "kdXhU7WSus8J",
+            "formattedUrl": "https://www.newhomeguide.com/",
+            "htmlFormattedUrl": "https://www.<b>new</b>homeguide.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "142",
+                        "height": "46",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRP4quOYbl2Sbt7OzejzM7iVY9F0Nk0wWisyStcislICPPGf2jVbyKzSQ"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "New Home Guide new construction builders and new home communities",
+                        "description": "Search new homes for sale from new home construction builders and new home communities.",
+                        "image": "https://www.newhomeguide.com/images/newhomeguide.png"
+                    },
+                    {
+                        "url": "https://www.newhomeguide.com/",
+                        "logo": "https://www.newhomeguide.com/images/logo.png"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0",
+                        "referrer": "origin",
+                        "author": "New Home Guide",
+                        "copyright": "Copyright (c) 2017 New Home Guide",
+                        "apple-mobile-web-app-capable": "yes",
+                        "apple-mobile-web-app-status-bar-style": "black-translucent",
+                        "og:locale": "en_US",
+                        "og:site_name": "NewHomeGuide.com",
+                        "og:type": "website",
+                        "og:url": "https://www.newhomeguide.com",
+                        "og:title": "New Homes for Sale | Home Builders and New Home Construction - NewHomeGuide.com",
+                        "og:image": "https://www.newhomeguide.com/images/newhomeguide.png",
+                        "og:description": "Find new homes for sale, new house construction and custom home builders at New Home Guide."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.newhomeguide.com/images/newhomeguide.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Homes & Communities",
+            "htmlTitle": "<b>New Homes</b> &amp; Communities",
+            "link": "https://www.realtor.com/newhomes",
+            "displayLink": "www.realtor.com",
+            "snippet": "Search real estate property records, houses, condos, land and more on realtor.\ncom®. Find property info from the most comprehensive source of home data \nonline.",
+            "htmlSnippet": "Search real estate property records, <b>houses</b>, condos, land and more on realtor.<br>\ncom®. Find property info from the most comprehensive source of home data <br>\nonline.",
+            "cacheId": "htA60UZGSC0J",
+            "formattedUrl": "https://www.realtor.com/newhomes",
+            "htmlFormattedUrl": "https://www.realtor.com/<b>newhomes</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "275",
+                        "height": "183",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNZbzz3Fz7eushBxbFS1ATNInbwaGN4vU5bYEGRDs7roCLuIPl9Gb9UiuJ"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "google-play-app": "app-id=com.move.realtor",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "theme-color": "#d92228",
+                        "fb:pages": "35368227870",
+                        "csrf-param": "authenticity_token",
+                        "csrf-token": "9ZgjdZY8bIBt8bJQDWK82+8O47/3Kwd8LV0jaex7mLybdB9FFO86mOujEPBZ0RwnPHZAYYbnyy4wW4lKhxdieQ=="
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://an.rdcpix.com/1165870050/80622f4c036dd65ff13d4e03e24b6d0fc-f0xd-w480_h480_q80.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Decor | New Home Decor | Kirklands",
+            "htmlTitle": "<b>New</b> Decor | <b>New</b> Home Decor | Kirklands",
+            "link": "http://www.kirklands.com/thumbnail/Collections-New-Arrivals/New-Arrivals/Home-Decor-NEW/pc/2384/c/3027/2723.uts",
+            "displayLink": "www.kirklands.com",
+            "snippet": "Browse the stunning new home decor and styles in trendy home decor that \nKirkland's has for your home! We have the stylish home decor accents for every \nroom.",
+            "htmlSnippet": "Browse the stunning <b>new</b> home decor and styles in trendy home decor that <br>\nKirkland&#39;s has for your home! We have the stylish home decor accents for every <br>\nroom.",
+            "cacheId": "NaF3VJY5mMQJ",
+            "formattedUrl": "www.kirklands.com/thumbnail/...New.../New...NEW/pc/.../2723.uts",
+            "htmlFormattedUrl": "www.kirklands.com/thumbnail/...<b>New</b>.../<b>New</b>...<b>NEW</b>/pc/.../2723.uts",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjBTjYofUquGlqO35pialZdI7gDeGjlfVOw7T9aLw9IXlFbXnhl5JcnuaT"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msvalidate.01": "97DE2C717E68AB864D897DF3FD94F7F2"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://s7d5.scene7.com/is/image/Kirklands/172135?hei=245&qlt=85,1&wid=245&fmt=jpeg&resMode=bicub&op_sharpen=1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "View New Homes for Sale in Stapleton Denver",
+            "htmlTitle": "View <b>New Homes</b> for Sale in Stapleton Denver",
+            "link": "http://www.stapletondenver.com/find-your-home/",
+            "displayLink": "www.stapletondenver.com",
+            "snippet": "Explore new homes for sale at Stapleton Denver. Designs range from timeless to \nmodern, with townhomes, affordable housing and energy-efficient options.",
+            "htmlSnippet": "Explore <b>new homes</b> for sale at Stapleton Denver. Designs range from timeless to <br>\nmodern, with townhomes, affordable housing and energy-efficient options.",
+            "cacheId": "pbvgoLcaLvwJ",
+            "formattedUrl": "www.stapletondenver.com/find-your-home/",
+            "htmlFormattedUrl": "www.stapletondenver.com/find-your-home/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "275",
+                        "height": "183",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcST2bH3JNTnyZ-S6uxSfkG6wKqUGUMDy1GPq_3_5fmfxrJWSr0RiiBWvGrq"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",
+                        "og:locale": "en_US",
+                        "og:type": "article",
+                        "og:title": "View New Homes for Sale in Stapleton Denver",
+                        "og:description": "Explore new homes for sale at Stapleton Denver. Designs range from timeless to modern, with townhomes, affordable housing and energy-efficient options.",
+                        "og:url": "http://www.stapletondenver.com/find-your-home/",
+                        "og:site_name": "Stapleton Denver",
+                        "article:publisher": "https://www.facebook.com/StapletonDenver"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.stapletondenver.com/wp-content/uploads/Wonderland-Prospect-Townhomes.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,636 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - home",
+                "totalResults": "2220000000",
+                "searchTerms": "home",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - home",
+                "totalResults": "2220000000",
+                "searchTerms": "home",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ]
+    },
+    "context": {
+        "title": "News Home Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.48216,
+        "formattedSearchTime": "0.48",
+        "totalResults": "2220000000",
+        "formattedTotalResults": "2,220,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "The Home Depot",
+            "htmlTitle": "The <b>Home</b> Depot",
+            "link": "https://www.homedepot.com/",
+            "displayLink": "www.homedepot.com",
+            "snippet": "Shop online for all your home improvement needs: appliances, bathroom \ndecorating ideas, kitchen remodeling, patio furniture, power tools, bbq grills, \ncarpeting, lumber, concrete, lighting, ceiling fans and more at The Home Depot.",
+            "htmlSnippet": "Shop online for all your <b>home</b> improvement needs: appliances, bathroom <br>\ndecorating ideas, kitchen remodeling, patio furniture, power tools, bbq grills, <br>\ncarpeting, lumber, concrete, lighting, ceiling fans and more at The <b>Home</b> Depot.",
+            "cacheId": "RP6pBKmHpi0J",
+            "formattedUrl": "https://www.homedepot.com/",
+            "htmlFormattedUrl": "https://www.<b>home</b>depot.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "272",
+                        "height": "185",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD82eM-Bflsm8bGKYQThc_MBc2iriMHKjUkjG3RplqU_uNcwjZxhuD4uo"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "appversion": "0.72.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.homedepot.com/hdus/en_US/DTCCOMNEW/fetch/Events/Black_Friday_Savings/CS-DSK-Split-SBOTD-11-30.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "At Home | The Home Decor Superstore | At Home",
+            "htmlTitle": "At <b>Home</b> | The <b>Home</b> Decor Superstore | At <b>Home</b>",
+            "link": "http://www.athome.com/",
+            "displayLink": "www.athome.com",
+            "snippet": "See what makes us the home decor superstore. Shop for every room, every style, \nand every budget.",
+            "htmlSnippet": "See what makes us the <b>home</b> decor superstore. Shop for every room, every style, <br>\nand every budget.",
+            "cacheId": "Z76Md9fsPzYJ",
+            "formattedUrl": "www.athome.com/",
+            "htmlFormattedUrl": "www.at<b>home</b>.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "398",
+                        "height": "127",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwLJ60vjeBl1e5esgb4g3-9y3WQAVhuezHZoxZ5L05L1K0HzHlpawz6w"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.athome.com/on/demandware.static/-/Library-Sites-AtHomeLibrary/default/dw8772f01b/AH_Logo_Holiday.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Home - Design & Decor Shopping",
+            "htmlTitle": "<b>Home</b> - Design &amp; Decor Shopping",
+            "link": "https://home.wish.com/",
+            "displayLink": "home.wish.com",
+            "snippet": "Shopping Made Fun. Join over 300 million others that have made their shopping \nmore smart, fun, and rewarding.",
+            "htmlSnippet": "Shopping Made Fun. Join over 300 million others that have made their shopping <br>\nmore smart, fun, and rewarding.",
+            "cacheId": "7WPUrAAThLgJ",
+            "formattedUrl": "https://home.wish.com/",
+            "htmlFormattedUrl": "https://<b>home</b>.wish.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgBYc7TBYc8KFyN0rLWK37JTTGklbbIVZVIFDBtHvi5xIvBYwGa4k_1fG-"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msvalidate.01": "718A2000E7F077A8717A9B6316298D34",
+                        "google-signin-clientid": "515512317641-bc526m0h1c3ll8etv8ap5ol7jh6tbedk.apps.googleusercontent.com",
+                        "google-signin-scope": "https://www.googleapis.com/auth/plus.login email",
+                        "google-signin-cookiepolicy": "single_host_origin",
+                        "al:android:url": "whome://",
+                        "al:android:package": "com.contextlogic.home",
+                        "al:android:app_name": "Home",
+                        "al:iphone:url": "whome://",
+                        "al:iphone:app_store_id": "1035837482",
+                        "al:iphone:app_name": "Home",
+                        "title": "Home - Design & Decor Shopping"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://contestimg.wish.com/api/webimage/59570b65c503fb76bde87194-large.jpg?cache_buster=449fe3b844dff176c287206fac924318"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Home - Wikipedia",
+            "htmlTitle": "<b>Home</b> - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Home",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "A home or domicile is a dwelling-place used as a permanent or semi-permanent \nresidence for an individual, family, household or several families in a tribe. It is \noften a house, apartment, or other building, or alternatively a mobile home, \nhouseboat, yurt or any other portable shelter. A principle of constitutional law in \nmany ...",
+            "htmlSnippet": "A <b>home</b> or domicile is a dwelling-place used as a permanent or semi-permanent <br>\nresidence for an individual, family, household or several families in a tribe. It is <br>\noften a house, apartment, or other building, or alternatively a mobile <b>home</b>, <br>\nhouseboat, yurt or any other portable shelter. A principle of constitutional law in <br>\nmany&nbsp;...",
+            "cacheId": "eECCKs69CfAJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/Home",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Home</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "216",
+                        "height": "234",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQx1Lx0uQZrG_EnAVFXTNUTRwKZpO1SbeybHUAETubPqIgtNlRB5MGNbcg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin-when-cross-origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/SearsHouse115.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/SearsHouse115.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Google Home - Smart Speaker & Home Assistant - Google Store",
+            "htmlTitle": "Google <b>Home</b> - Smart Speaker &amp; <b>Home</b> Assistant - Google Store",
+            "link": "https://store.google.com/product/google_home",
+            "displayLink": "store.google.com",
+            "snippet": "Google Home is a powerful speaker and voice Assistant. Play your music. Call \nyour friends. Ask it questions. Control your home. It's your own Google, always \nready to help.",
+            "htmlSnippet": "Google <b>Home</b> is a powerful speaker and voice Assistant. Play your music. Call <br>\nyour friends. Ask it questions. Control your <b>home</b>. It&#39;s your own Google, always <br>\nready to help.",
+            "formattedUrl": "https://store.google.com/product/google_home",
+            "htmlFormattedUrl": "https://store.google.com/product/google_<b>home</b>",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "79",
+                        "pricecurrency": "USD",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGO2eEMIE2rMMMtZfMmFDJHmmjMKOeAxILcWiwU71cYTe-Fh6gAtB39E"
+                    }
+                ],
+                "product": [
+                    {
+                        "description": "Google Home is a powerful speaker and voice Assistant. Play your music. Call your friends. Ask it questions. Control your home. It's your own Google, always ready to help.",
+                        "name": "Google Home"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tileimage": "https://www.gstatic.com/images/branding/product/1x/googleg_96dp.png",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",
+                        "og:type": "website",
+                        "og:site_name": "Google Store",
+                        "og:url": "https://store.google.com/product/google_home",
+                        "og:title": "Google Home",
+                        "og:description": "Ask it questions. Tell it to do things. It's your own Google, always ready to help.",
+                        "og:image": "https://lh3.googleusercontent.com/igThvoKwToXtZOfTANWbgp2ZoLnPBV2KDt9oJuaK419yIHQIo24eIcsCbgWcnfwlFjs=w1000",
+                        "twitter:card": "summary",
+                        "twitter:site": "“@madebygoogle”",
+                        "twitter:title": "Google Home",
+                        "twitter:description": "Ask it questions. Tell it to do things. It's your own Google, always ready to help.",
+                        "twitter:image": "https://lh3.googleusercontent.com/igThvoKwToXtZOfTANWbgp2ZoLnPBV2KDt9oJuaK419yIHQIo24eIcsCbgWcnfwlFjs=w1000",
+                        "twitter:image:alt": "Google Home",
+                        "msvalidate.01": "5B96ACB2BFE6A95B22143473B8763663"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://lh3.googleusercontent.com/igThvoKwToXtZOfTANWbgp2ZoLnPBV2KDt9oJuaK419yIHQIo24eIcsCbgWcnfwlFjs=w1000"
+                    }
+                ],
+                "hproduct": [
+                    {
+                        "description": "Google Home is a powerful speaker and voice Assistant. Play your music. Call your friends. Ask it questions. Control your home. It's your own Google, always ready to help.",
+                        "fn": "Google Home",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Home (2015) - IMDb",
+            "htmlTitle": "<b>Home</b> (2015) - IMDb",
+            "link": "http://www.imdb.com/title/tt2224026/",
+            "displayLink": "www.imdb.com",
+            "snippet": "Animation · An alien on the run from his own people makes friends with a girl. He \ntries to help her on her quest, but can be an interference.",
+            "htmlSnippet": "Animation &middot; An alien on the run from his own people makes friends with a girl. He <br>\ntries to help her on her quest, but can be an interference.",
+            "cacheId": "69H4nitw-WwJ",
+            "formattedUrl": "www.imdb.com/title/tt2224026/",
+            "htmlFormattedUrl": "www.imdb.com/title/tt2224026/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "163",
+                        "height": "310",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvGvxvFhKdGIeaIWB9C-Vo4BbsQ-ez1iA_8u8XUa3Q8VC-MYgywTIMiXg"
+                    }
+                ],
+                "audience": [
+                    {
+                        "url": "View content advisory"
+                    }
+                ],
+                "movie": [
+                    {
+                        "name": "Home (2015)",
+                        "contentrating": "PG",
+                        "duration": "PT94M",
+                        "genre": "Animation",
+                        "datepublished": "2015-03-27",
+                        "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExOTQ4MDMyMV5BMl5BanBnXkFtZTgwMTE3NDM2MzE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+                        "trailer": "http://www.imdb.com/video/imdb/vi2222961433?playlistId=tt2224026&ref_=tt_ov_vi",
+                        "description": "An alien on the run from his own people makes friends with a girl. He tries to help her on her quest, but can be an interference.",
+                        "headline": "‘Home’ Lifts DreamWorks Animation Earnings, Stock Soars",
+                        "provider": "Variety - Film News",
+                        "url": "Show HTML",
+                        "awards": "2 wins & 9 nominations.",
+                        "thumbnailurl": "http://www.imdb.com/title/tt2224026/mediaviewer/rm3040800768?context=default&ref_=tt_pv_md_1",
+                        "keywords": "Plot Keywords: mother daughter relationship | flying car | australia | alien invasion | alien friendship | See All (39) »"
+                    }
+                ],
+                "person": [
+                    {
+                        "url": "Tim Johnson",
+                        "name": "Tim Johnson"
+                    },
+                    {
+                        "url": "Tom J. Astle",
+                        "name": "Tom J. Astle"
+                    },
+                    {
+                        "url": "Matt Ember",
+                        "name": "Matt Ember"
+                    },
+                    {
+                        "url": "Jim Parsons",
+                        "name": "Jim Parsons"
+                    },
+                    {
+                        "url": "Rihanna",
+                        "name": "Rihanna"
+                    },
+                    {
+                        "url": "Steve Martin",
+                        "name": "Steve Martin"
+                    },
+                    {
+                        "url": "Jim Parsons",
+                        "name": "Jim Parsons"
+                    },
+                    {
+                        "url": "Rihanna",
+                        "name": "Rihanna"
+                    },
+                    {
+                        "url": "Steve Martin",
+                        "name": "Steve Martin"
+                    },
+                    {
+                        "url": "Jennifer Lopez",
+                        "name": "Jennifer Lopez"
+                    },
+                    {
+                        "url": "Matt Jones",
+                        "name": "Matt Jones"
+                    },
+                    {
+                        "url": "Brian Stepanek",
+                        "name": "Brian Stepanek"
+                    },
+                    {
+                        "url": "April Lawrence",
+                        "name": "April Lawrence"
+                    },
+                    {
+                        "url": "Stephen Kearin",
+                        "name": "Stephen Kearin"
+                    },
+                    {
+                        "url": "Lisa Stewart",
+                        "name": "Lisa Stewart"
+                    },
+                    {
+                        "url": "April Winchell",
+                        "name": "April Winchell"
+                    }
+                ],
+                "review": [
+                    {
+                        "name": "Great Animation, adventure and comedy .",
+                        "author": "Open-mindedMuslimWoman",
+                        "datepublished": "2015-03-31",
+                        "reviewbody": "Assalum Alaykum. This is a great animation,adventure and comedy movie. I am not surprised it is number 1 in most countries around the world. Escaping from their enemy the Gorgs, the Boov have..."
+                    }
+                ],
+                "aggregaterating": [
+                    {
+                        "ratingvalue": "6.7",
+                        "bestrating": "10",
+                        "ratingcount": "80,007",
+                        "reviewcount": "220 user"
+                    }
+                ],
+                "organization": [
+                    {
+                        "url": "DreamWorks Animation",
+                        "name": "DreamWorks Animation"
+                    }
+                ],
+                "rating": [
+                    {
+                        "worstrating": "1",
+                        "ratingvalue": "10",
+                        "bestrating": "10"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=342792525, app-argument=imdb:///title/tt2224026?src=mdot",
+                        "og:url": "http://www.imdb.com/title/tt2224026/",
+                        "theme-color": "#000000",
+                        "pageid": "tt2224026",
+                        "pagetype": "title",
+                        "subpagetype": "main",
+                        "og:image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExOTQ4MDMyMV5BMl5BanBnXkFtZTgwMTE3NDM2MzE@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
+                        "og:type": "video.movie",
+                        "fb:app_id": "115109575169727",
+                        "og:title": "Home (2015)",
+                        "og:site_name": "IMDb",
+                        "title": "Home (2015) - IMDb",
+                        "og:description": "Directed by Tim Johnson.  With Jim Parsons, Rihanna, Steve Martin, Jennifer Lopez. An alien on the run from his own people makes friends with a girl. He tries to help her on her quest, but can be an interference.",
+                        "request_id": "1Y4KFGFPTJS1J8M5DKVJ"
+                    }
+                ],
+                "videoobject": [
+                    {
+                        "duration": "T52S",
+                        "url": "http://www.imdb.com/title/tt2224026/videoplayer/vi3454578969?ref_=tt_pv_vi_aiv_1",
+                        "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5Nzg5NjE1M15BMl5BanBnXkFtZTgwMzY1MDI5NDE@._V1_SP229,229,0,C,0,0,0_CR45,62,139,105_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,139,105_PIimdb-bluebutton-big,BottomRight,-1,-1_ZAClip,2,76,16,137,verdenab,8,255,255,255,1_ZAon%2520IMDb,2,1,14,137,verdenab,7,255,255,255,1_ZA00%253A52,103,1,14,36,verdenab,7,255,255,255,1_.jpg"
+                    },
+                    {
+                        "duration": "T2M23S",
+                        "url": "http://www.imdb.com/title/tt2224026/videoplayer/vi4158566681?ref_=tt_pv_vi_aiv_2",
+                        "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3NTQ4ODE3N15BMl5BanBnXkFtZTgwMzQxMjAwNTE@._V1_SP229,229,0,C,0,0,0_CR45,62,139,105_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,139,105_PIimdb-bluebutton-big,BottomRight,-1,-1_ZAFeaturette,2,76,16,137,verdenab,8,255,255,255,1_ZAon%2520IMDb,2,1,14,137,verdenab,7,255,255,255,1_ZA02%253A23,103,1,14,36,verdenab,7,255,255,255,1_.jpg"
+                    }
+                ],
+                "moviereview": [
+                    {
+                        "ratingstars": "3.5",
+                        "best": "10",
+                        "originalrating": "6.7",
+                        "votes": "80,007",
+                        "ratingcount": "220 user",
+                        "image_href": "https://images-na.ssl-images-amazon.com/images/M/MV5BMWRkYTY1ZmItOGViNy00MjU4LTg0ODMtMjIwY2YzZTc3ZWUxXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._CR68,10,871,652_UX614_UY460._SY230_SX307_AL_.jpg",
+                        "name": "Home (2015)",
+                        "release_date": "2015-03-27",
+                        "release_year": "2015",
+                        "runtime": "PT94M",
+                        "genre": "Animation/Adventure",
+                        "directed_by": "Tim Johnson",
+                        "starring": "Jim Parsons, Rihanna, Steve Martin",
+                        "summary": "When Oh, a loveable misfit from another planet, lands on Earth and finds himself on the run from his own people, he forms an unlikely friendship with..."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExOTQ4MDMyMV5BMl5BanBnXkFtZTgwMTE3NDM2MzE@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Google Home Mini - Smart Speaker for Any Room - Google Store",
+            "htmlTitle": "Google <b>Home</b> Mini - Smart Speaker for Any Room - Google Store",
+            "link": "https://store.google.com/us/product/google_home_mini?hl=en-US",
+            "displayLink": "store.google.com",
+            "snippet": "Buy Google Home Mini for $29. Google Home Mini is Google Assistant anywhere \nyou want it. Ask it questions. Tell it to do things. It's your own Google, always \nready to help.",
+            "htmlSnippet": "Buy Google <b>Home</b> Mini for $29. Google <b>Home</b> Mini is Google Assistant anywhere <br>\nyou want it. Ask it questions. Tell it to do things. It&#39;s your own Google, always <br>\nready to help.",
+            "formattedUrl": "https://store.google.com/us/product/google_home_mini?hl=en-US",
+            "htmlFormattedUrl": "https://store.google.com/us/product/google_<b>home</b>_mini?hl=en-US",
+            "pagemap": {
+                "offer": [
+                    {
+                        "price": "29",
+                        "pricecurrency": "USD",
+                        "availability": "http://schema.org/InStock"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8uP4LWFpVxcFAzeiGVQpDBwA69u68ZL27xVYboI7h0mzTGszCMGogbbA"
+                    }
+                ],
+                "product": [
+                    {
+                        "description": "Buy Google Home Mini for $29. Google Home Mini is Google Assistant anywhere you want it. Ask it questions. Tell it to do things. It's your own Google, always ready to help.",
+                        "brand": "Google",
+                        "name": "Google Home Mini"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tileimage": "https://www.gstatic.com/images/branding/product/1x/googleg_96dp.png",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",
+                        "og:type": "website",
+                        "og:site_name": "Google Store",
+                        "og:url": "https://store.google.com/product/google_home_mini",
+                        "og:title": "Google Home Mini",
+                        "og:description": "Google Home Mini is Google Assistant anywhere you want it.",
+                        "og:image": "https://lh3.googleusercontent.com/24CwgVJohsJb8FOzDLljoauEuQd3Lk1d6ZYiDMAj8CMIAlXhx2pY5nmNnApovQFF-IM=w1000",
+                        "twitter:card": "summary",
+                        "twitter:site": "“@madebygoogle”",
+                        "twitter:title": "Google Home Mini",
+                        "twitter:description": "Google Home Mini is Google Assistant anywhere you want it.",
+                        "twitter:image": "https://lh3.googleusercontent.com/24CwgVJohsJb8FOzDLljoauEuQd3Lk1d6ZYiDMAj8CMIAlXhx2pY5nmNnApovQFF-IM=w1000",
+                        "twitter:image:alt": "Smart Small Speaker",
+                        "msvalidate.01": "5B96ACB2BFE6A95B22143473B8763663"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://lh3.googleusercontent.com/24CwgVJohsJb8FOzDLljoauEuQd3Lk1d6ZYiDMAj8CMIAlXhx2pY5nmNnApovQFF-IM=w1000"
+                    }
+                ],
+                "hproduct": [
+                    {
+                        "description": "Buy Google Home Mini for $29. Google Home Mini is Google Assistant anywhere you want it. Ask it questions. Tell it to do things. It's your own Google, always ready to help.",
+                        "fn": "Google Home Mini",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Merger – Maintenance",
+            "htmlTitle": "Merger – Maintenance",
+            "link": "http://maintenance.waypointhomes.com/merger/",
+            "displayLink": "maintenance.waypointhomes.com",
+            "snippet": "Waypoint Homes and Invitation Homes combine to bring you the best in home \nleasing. We are pleased to announce that Waypoint Homes and Invitation Homes \nhave combined as of November 16, 2017, with the continued goal of providing \nyou a great living experience. This merger will mean more homes, more choices\n ...",
+            "htmlSnippet": "Waypoint <b>Homes</b> and Invitation <b>Homes</b> combine to bring you the best in <b>home</b> <br>\nleasing. We are pleased to announce that Waypoint <b>Homes</b> and Invitation <b>Homes</b> <br>\nhave combined as of November 16, 2017, with the continued goal of providing <br>\nyou a great living experience. This merger will mean more <b>homes</b>, more choices<br>\n&nbsp;...",
+            "cacheId": "mTPHjVuZIykJ",
+            "formattedUrl": "maintenance.waypointhomes.com/merger/",
+            "htmlFormattedUrl": "maintenance.waypoint<b>homes</b>.com/merger/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "338",
+                        "height": "149",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS567Tykj-uE8mMRIo9R28fezjLuwBXK1KImfIwG10GDD_snQ1EVNgcfYOU"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "image": "http://maintenance.waypointhomes.com/wp-content/uploads/sites/9/2016/09/Logo-151w.png"
+                    },
+                    {
+                        "image": "http://maintenance.waypointhomes.com/wp-content/uploads/sites/9/2016/09/Logo-151w.png"
+                    },
+                    {
+                        "image": "http://maintenance.waypointhomes.com/wp-content/uploads/sites/9/2017/11/WPH-IH-Logos2.png"
+                    },
+                    {
+                        "image": "http://maintenance.waypointhomes.com/wp-content/uploads/sites/9/2017/11/MergerFAQ-Banner.jpg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "msapplication-tileimage": "http://maintenance.colonystarwood.wpengine.com/wp-content/uploads/sites/9/2017/11/ih_favicon.jpg"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "maincontentofpage": "Waypoint Homes and Invitation Homes combine to bring you the best in home leasing. We are pleased to announce that Waypoint Homes and Invitation Homes have combined as of November 16, 2017,..."
+                    }
+                ],
+                "creativework": [
+                    {
+                        "text": "Waypoint Homes and Invitation Homes combine to bring you the best in home leasing. We are pleased to announce that Waypoint Homes and Invitation Homes have combined as of November 16, 2017,..."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://maintenance.waypointhomes.com/wp-content/uploads/sites/9/2017/11/MergerFAQ-Banner.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Google Home Mini Gray GA00210-US - Best Buy",
+            "htmlTitle": "Google <b>Home</b> Mini Gray GA00210-US - Best Buy",
+            "link": "https://www.bestbuy.com/site/google-home-mini-chalk/6082194.p?skuId=6082194",
+            "displayLink": "www.bestbuy.com",
+            "snippet": "Get hands-free help in any room. Google Home Mini is powered by the Google \nAssistant, so you can ask it questions and tell it to do things. Just start with \"Ok \nGoogle\" to get answers from Google, tackle your day, enjoy your entertainment, \nand control your smart home. And when you ask for help, it can tell your voice \nfrom ...",
+            "htmlSnippet": "Get hands-free help in any room. Google <b>Home</b> Mini is powered by the Google <br>\nAssistant, so you can ask it questions and tell it to do things. Just start with &quot;Ok <br>\nGoogle&quot; to get answers from Google, tackle your day, enjoy your entertainment, <br>\nand control your smart <b>home</b>. And when you ask for help, it can tell your voice <br>\nfrom&nbsp;...",
+            "cacheId": "oVXnBmgHS5cJ",
+            "formattedUrl": "https://www.bestbuy.com/site/google-home-mini.../6082194.p?...",
+            "htmlFormattedUrl": "https://www.bestbuy.com/site/google-<b>home</b>-mini.../6082194.p?...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "143",
+                        "height": "210",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuf1t8vYE4IQhcgbWHzUpx0j8RJMXK_hf1XjjGUwidfeD9wGHAl_pFk3tK"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=1024",
+                        "format-detection": "telephone=no",
+                        "og:title": "Google - Home Mini - Chalk",
+                        "og:type": "product",
+                        "og:url": "/site/google-home-mini-chalk/6082194.p?skuId=6082194",
+                        "og:image": "https://pisces.bbystatic.com//image2/BestBuy_US/images/products/6082/6082194_sa.jpg;maxHeight=210;maxWidth=210",
+                        "og:site_name": "Best Buy",
+                        "og:description": "Google Home Mini: Compatible with smart devices; voice-activated; powered by the Google Assistant; get answers from Google; manage your everyday tasks",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "@BestBuy",
+                        "twitter:creator": "@BestBuy",
+                        "twitter:title": "Google - Home Mini - Chalk",
+                        "twitter:description": "Google Home Mini: Compatible with smart devices; voice-activated; powered by the Google Assistant; get answers from Google; manage your everyday tasks",
+                        "twitter:image": "https://pisces.bbystatic.com//image2/BestBuy_US/images/products/6082/6082194_sa.jpg;maxHeight=210;maxWidth=210"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://pisces.bbystatic.com//image2/BestBuy_US/images/products/6082/6082194_sa.jpg;maxHeight=210;maxWidth=210"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "H&M HOME - SALE | H&M US",
+            "htmlTitle": "H&amp;M <b>HOME</b> - SALE | H&amp;M US",
+            "link": "http://www.hm.com/us/products/sale/home",
+            "displayLink": "www.hm.com",
+            "snippet": "HOME. Filter. Color. Purple. Red. Pink. Orange. Yellow. Copper. Blue. Turquoise. \nGreen. Brown. Gold. Black. Gray. Beige. Silver. White. Clear filters. Apply. Sort by, \nBest match, New in, Price low to high, Price high to low. 173 Items. Scented \nCandle in Holder. $14.99 $17.99. Shop Now. Glittery Cotton Rug. $29.99 $39.99.",
+            "htmlSnippet": "<b>HOME</b>. Filter. Color. Purple. Red. Pink. Orange. Yellow. Copper. Blue. Turquoise. <br>\nGreen. Brown. Gold. Black. Gray. Beige. Silver. White. Clear filters. Apply. Sort by, <br>\nBest match, New in, Price low to high, Price high to low. 173 Items. Scented <br>\nCandle in Holder. $14.99 $17.99. Shop Now. Glittery Cotton Rug. $29.99 $39.99.",
+            "cacheId": "hghNxpuTdI0J",
+            "formattedUrl": "www.hm.com/us/products/sale/home",
+            "htmlFormattedUrl": "www.hm.com/us/products/sale/<b>home</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "207",
+                        "height": "243",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGxlxs3hjHATgzS7WyGE1gW3XtB7x78YLbckMYBcACsfVFnXScwTtdYAI"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width,initial-scale=1,maximum-scale=1.0,user-scalable=no",
+                        "og:title": "H&M HOME - SALE"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://lp.hm.com/hmprod?set=key[source],value[/model/2017/F00%200504821%20002%2070%200420.jpg]&set=key[rotate],value[]&set=key[width],value[]&set=key[height],value[]&set=key[x],value[]&set=key[y],value[]&set=key[type],value[STILL_LIFE_FRONT]&set=key[hmver],value[1]&set=key[quality],value[80]&set=key[size],value[346x405]&call=url[file:/mobile/v2/product]"
+                    }
+                ]
+            }
+        }
+    ]
+}

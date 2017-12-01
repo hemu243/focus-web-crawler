@@ -1,0 +1,427 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - careers",
+                "totalResults": "309000000",
+                "searchTerms": "careers",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - careers",
+                "totalResults": "309000000",
+                "searchTerms": "careers",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ]
+    },
+    "context": {
+        "title": "News Home Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.241642,
+        "formattedSearchTime": "0.24",
+        "totalResults": "309000000",
+        "formattedTotalResults": "309,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Careers.org | Career Resources, Career Guide, Online Education ...",
+            "htmlTitle": "<b>Careers</b>.org | <b>Career</b> Resources, <b>Career</b> Guide, Online Education ...",
+            "link": "http://www.careers.org/",
+            "displayLink": "www.careers.org",
+            "snippet": "Careers.org is the #1 guide to career resources, jobs and occupations, online \neducation and degree programs from online schools and universities in the US \nand Canada.",
+            "htmlSnippet": "<b>Careers</b>.org is the #1 guide to <b>career</b> resources, jobs and occupations, online <br>\neducation and degree programs from online schools and universities in the US <br>\nand Canada.",
+            "cacheId": "2MXegAZ6w7IJ",
+            "formattedUrl": "www.careers.org/",
+            "htmlFormattedUrl": "www.<b>careers</b>.org/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "137",
+                        "height": "200",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9gWc1b7efSznmUzJOUTGheYmOqE-xDpSyY3JVBDSDt1k316SVrDVsx68n"
+                    }
+                ],
+                "service": [
+                    {
+                        "name": "Job Search",
+                        "description": "CAREERS.org taps into a powerful job database with more than one million available jobs in virtually every town, city and country."
+                    },
+                    {
+                        "name": "Salary Calculator",
+                        "description": "CAREERS.org will show you where you stand against your industry's standards."
+                    },
+                    {
+                        "name": "Career Changer",
+                        "description": "CAREERS.org has the resources to help you learn about hundreds of new careers."
+                    },
+                    {
+                        "name": "Education Center",
+                        "description": "CAREERS.org has thousands of pages of resources to find the best schools and learning opportunities for your next big step."
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Careers.org",
+                        "url": "Careers.org",
+                        "description": "CAREERS.org wants to be your go-to resource for job search and career advice. We offer insights on jobs, careers, entrepreneurial opportunities and online degrees and training. Find in-depth...",
+                        "itemlistelement": "Architecture and Engineering",
+                        "title": "Architecture and Engineering"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "msvalidate.01": "ACD68811D01546549BEA642F64DF9FAD"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.careers.org/assets/img/pso_image.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Research the Best Job Rankings, Salaries, Reviews, Career Advice ...",
+            "htmlTitle": "Research the Best Job Rankings, Salaries, Reviews, <b>Career</b> Advice ...",
+            "link": "https://money.usnews.com/careers",
+            "displayLink": "money.usnews.com",
+            "snippet": "Check the best job rankings, get career, salary, and workplace advice at US \nNews & World Report.",
+            "htmlSnippet": "Check the best job rankings, get <b>career</b>, salary, and workplace advice at US <br>\nNews &amp; World Report.",
+            "cacheId": "KzhVrF0dQU4J",
+            "formattedUrl": "https://money.usnews.com/careers",
+            "htmlFormattedUrl": "https://money.usnews.com/<b>careers</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "328",
+                        "height": "154",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4Y503dh21xQ-Fnoc8tx8m6aKYGcBmckZ1o7QiaqA7cfYhTpcKBrMRPvDs"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "site": "money",
+                        "zone": "careers",
+                        "og:title": "The 100 Best Jobs in America, Ranked",
+                        "og:description": "U.S. News ranks the best occupations in America.",
+                        "og:image": "https://www.usnews.com/dims4/USNEWS/875e1dc/2147483647/thumbnail/1280x600/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F4e%2F17%2F1ed55d7e489eaccb9659a5ec4a5c%2F140619-nope-stock.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.usnews.com/dims4/USNEWS/875e1dc/2147483647/thumbnail/1280x600/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F4e%2F17%2F1ed55d7e489eaccb9659a5ec4a5c%2F140619-nope-stock.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Career.com",
+            "htmlTitle": "<b>Career</b>.com",
+            "link": "https://www.career.com/",
+            "displayLink": "www.career.com",
+            "snippet": "SEARCH FOR JOBS. With all of these words. With the exact phrase. With at lest \none of these words. With none of these words. With these words in the title. From \nthis company. Show jobs of type. All job types, Full-time, Part-time, Contract, \nInternship, Temporary. Show jobs from. All web sites, Job boards only, Employer \nweb ...",
+            "htmlSnippet": "SEARCH FOR JOBS. With all of these words. With the exact phrase. With at lest <br>\none of these words. With none of these words. With these words in the title. From <br>\nthis company. Show jobs of type. All job types, Full-time, Part-time, Contract, <br>\nInternship, Temporary. Show jobs from. All web sites, Job boards only, Employer <br>\nweb&nbsp;...",
+            "cacheId": "mRc8JsU5B7IJ",
+            "formattedUrl": "https://www.career.com/",
+            "htmlFormattedUrl": "https://www.<b>career</b>.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "393",
+                        "height": "128",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAvUjcC755qA19k_HZoLrThFO4hxdjoYR3I4fh3nJsatUTgl7WTqiC60o"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.career.com/Career/Graphics/Home_Page_Bottom_update.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "CareerBuilder: Your Job Finder and Career Resource",
+            "htmlTitle": "CareerBuilder: Your Job Finder and <b>Career</b> Resource",
+            "link": "https://www.careerbuilder.com/",
+            "displayLink": "www.careerbuilder.com",
+            "snippet": "CareerBuilder is the most trusted source for job opportunities & advice. Access \ncareer resources, personalized salary tools & insights. Find your dream job now!",
+            "htmlSnippet": "CareerBuilder is the most trusted source for job opportunities &amp; advice. Access <br>\n<b>career</b> resources, personalized salary tools &amp; insights. Find your dream job now!",
+            "cacheId": "9tIYHmSMW8IJ",
+            "formattedUrl": "https://www.careerbuilder.com/",
+            "htmlFormattedUrl": "https://www.<b>career</b>builder.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "236",
+                        "height": "213",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtMc8zqetNTBNxWzG07kiMv4yZdgjfsiq_yvuRMuQjneQRb1IatJStUjY"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                        "google-play-app": "app-id=com.careerbuilder.SugarDrone",
+                        "apple-itunes-app": "app-id=524123670",
+                        "blitz": "mu-a2a0832f-10763ae9-170d6c87-70e4a59c",
+                        "csrf-param": "authenticity_token",
+                        "csrf-token": "2VdGEmpjx9p0G1bTXcCKzkVSjtLannmYPAcFnd05XZ/RbraesUpmY/X1R4sxeGUYVObpVAWYtrf5N/hZj2q1kQ==",
+                        "msvalidate.01": "BE23C567FB94093388AE7437EDDD3872",
+                        "og:title": "Your Job Finder and Career Resource | CareerBuilder",
+                        "og:type": "website",
+                        "og:image": "https://www.careerbuilder.com/assets/logomark-a99bb2c789ac2091952d25260a6e47acb0be932f1238438727ffe786724ef3bb.png",
+                        "og:site_name": "CareerBuilder",
+                        "og:image:secure_url": "https://www.careerbuilder.com/assets/logomark-a99bb2c789ac2091952d25260a6e47acb0be932f1238438727ffe786724ef3bb.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.careerbuilder.com/assets/logomark-a99bb2c789ac2091952d25260a6e47acb0be932f1238438727ffe786724ef3bb.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "CareerOneStop: Careers and Career Information",
+            "htmlTitle": "CareerOneStop: <b>Careers</b> and <b>Career</b> Information",
+            "link": "https://www.careeronestop.org/",
+            "displayLink": "www.careeronestop.org",
+            "snippet": "Learn about careers, find career information, and locate career resources and \nadvice with CareerOneStop.",
+            "htmlSnippet": "Learn about <b>careers</b>, find <b>career</b> information, and locate <b>career</b> resources and <br>\nadvice with CareerOneStop.",
+            "cacheId": "mRoUrE6KP-EJ",
+            "formattedUrl": "https://www.careeronestop.org/",
+            "htmlFormattedUrl": "https://www.<b>career</b>onestop.org/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "317",
+                        "height": "159",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9pd1VzJqA5nsUpwEMFQCTZG0oaCJFB2iHYctYaWG2bUmpAp2uFsjEMsgT"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "title": "Careers and Career Information - CareerOneStop",
+                        "language": "en",
+                        "dc.title": "Careers and Career Information - CareerOneStop",
+                        "dc.description": "Learn about careers, find career information, and locate career resources and advice with CareerOneStop.",
+                        "dc.createddate": "2014-11-07T17:02:24",
+                        "dc.modifieddate": "2014-11-07T17:02:41",
+                        "og:title": "Careers and Career Information - CareerOneStop",
+                        "og:type": "website",
+                        "og:image": "https://www.careeronestop.org//TridionMultimedia/tcm24-21806_85446658-Diverse-Architect-and-Construction-Workers.jpg",
+                        "og:description": "Learn about careers, find career information, and locate career resources and advice with CareerOneStop",
+                        "fb:app_id": "688055324594983"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.careeronestop.org//TridionMultimedia/tcm24-21806_85446658-Diverse-Architect-and-Construction-Workers.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Careers - TechnipFMC plc",
+            "htmlTitle": "<b>Careers</b> - TechnipFMC plc",
+            "link": "https://www.technipfmc.com/careers",
+            "displayLink": "www.technipfmc.com",
+            "snippet": "Careers. Join us in driving the change the energy industry needs. We're looking \nfor the next generation of talent to help us transform project economics. By joining \none of the world's largest oil and gas project, technologies, systems and services \ncompanies, you'll have limitless opportunities to learn from some of the ...",
+            "htmlSnippet": "<b>Careers</b>. Join us in driving the change the energy industry needs. We&#39;re looking <br>\nfor the next generation of talent to help us transform project economics. By joining <br>\none of the world&#39;s largest oil and gas project, technologies, systems and services <br>\ncompanies, you&#39;ll have limitless opportunities to learn from some of the&nbsp;...",
+            "cacheId": "q48-9Syu3icJ",
+            "formattedUrl": "https://www.technipfmc.com/careers",
+            "htmlFormattedUrl": "https://www.technipfmc.com/<b>careers</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "Careers",
+                        "og:url": "https://www.technipfmc.com:443/en/careers",
+                        "og:image": "https://www.technipfmc.com:443/assets/img/logo.png",
+                        "og:site_name": "TechnipFMC PLC",
+                        "og:description": "Join TechnipFMC in driving the change the energy industry needs"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.technipfmc.com:443/assets/img/logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Search and apply for healthcare career opportunities.",
+            "htmlTitle": "Search and apply for healthcare <b>career</b> opportunities.",
+            "link": "https://www.dignityhealthcareers.org/careers/Search-Jobs/",
+            "displayLink": "www.dignityhealthcareers.org",
+            "snippet": "Training at Dignity Health will give you the experience you need for any \nhealthcare career opportunity, expected and unexpected.",
+            "htmlSnippet": "Training at Dignity Health will give you the experience you need for any <br>\nhealthcare <b>career</b> opportunity, expected and unexpected.",
+            "cacheId": "PtrCxdTKLXkJ",
+            "formattedUrl": "https://www.dignityhealthcareers.org/careers/Search-Jobs/",
+            "htmlFormattedUrl": "https://www.dignityhealth<b>careers</b>.org/<b>careers</b>/Search-Jobs/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "380",
+                        "height": "132",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXXzoddB7qH7F13go1gJy1HsTDf2mT9ARUczQ5WPo_cuI1Ts52S0KI_pQ"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "author": "Dignity Health"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.dignityhealthcareers.org/assets/images/pre-taleo-header.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Forbes - Career Information and Career News - Forbes.com",
+            "htmlTitle": "Forbes - <b>Career</b> Information and <b>Career</b> News - Forbes.com",
+            "link": "http://www.forbes.com/careers/",
+            "displayLink": "www.forbes.com",
+            "snippet": "Forbes is a leading source for reliable news and updated analysis on Careers. \nRead the breaking Careers coverage and top headlines on Forbes.com.",
+            "htmlSnippet": "Forbes is a leading source for reliable news and updated analysis on <b>Careers</b>. <br>\nRead the breaking <b>Careers</b> coverage and top headlines on Forbes.com.",
+            "cacheId": "qzknNMEO73wJ",
+            "formattedUrl": "www.forbes.com/careers/",
+            "htmlFormattedUrl": "www.forbes.com/<b>careers</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "150",
+                        "height": "150",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjfUSdGePYWsJNY_X_U24qROFzDr-8IE6_1wbCpEBFMi8Hh-T0qgfUfDk"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin-when-cross-origin",
+                        "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",
+                        "apple-itunes-app": "app-id=588647136",
+                        "og:title": "Forbes - Career Information and Career News - Forbes.com",
+                        "og:site_name": "Forbes",
+                        "og:url": "http://www.forbes.com/careers/",
+                        "og:image": "http://i.forbesimg.com/media/logos/channels/leadership_150x150.jpg",
+                        "og:image:type": "image/jpeg,image/gif,image/png",
+                        "og:description": "Forbes is a leading source for reliable news and updated analysis on Careers. Read the breaking Careers coverage and top headlines on Forbes.com",
+                        "article:publisher": "https://www.facebook.com/forbes",
+                        "fb:app_id": "123694841080850",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "@forbes",
+                        "twitter:title": "Forbes - Career Information and Career News - Forbes.com",
+                        "twitter:description": "Forbes is a leading source for reliable news and updated analysis on Careers. Read the breaking Careers coverage and top headlines on Forbes.com",
+                        "twitter:image": "http://i.forbesimg.com/media/logos/channels/leadership_150x150.jpg",
+                        "og:type": "website",
+                        "news_keywords": "careers, career, job, career center, job search, career builder, career plan, career education"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://i.forbesimg.com/media/logos/channels/leadership_150x150.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Career - Wikipedia",
+            "htmlTitle": "<b>Career</b> - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Career",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "A career is an individual's metaphorical \"journey\" through learning, work and \nother aspects of life. There are a number of ways to define a career and the term \nis used in a variety of ways. Contents. [hide]. 1 Definitions and etymology; 2 \nHistoric changes in careers; 3 Career management. 3.1 Career choice; 3.2 \nCareer ...",
+            "htmlSnippet": "A <b>career</b> is an individual&#39;s metaphorical &quot;journey&quot; through learning, work and <br>\nother aspects of life. There are a number of ways to define a <b>career</b> and the term <br>\nis used in a variety of ways. Contents. [hide]. 1 Definitions and etymology; 2 <br>\nHistoric changes in <b>careers</b>; 3 <b>Career</b> management. 3.1 <b>Career</b> choice; 3.2 <br>\n<b>Career</b>&nbsp;...",
+            "cacheId": "80CRgrafxEwJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/Career",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Career</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "referrer": "origin-when-cross-origin"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Careers at Target: Current Job Openings | Target Corporate",
+            "htmlTitle": "<b>Careers</b> at Target: Current Job Openings | Target Corporate",
+            "link": "https://corporate.target.com/careers/",
+            "displayLink": "corporate.target.com",
+            "snippet": "Search our current job openings to see if there is a career at Target waiting for \nyou!",
+            "htmlSnippet": "Search our current job openings to see if there is a <b>career</b> at Target waiting for <br>\nyou!",
+            "cacheId": "A4-qyOuXwLsJ",
+            "formattedUrl": "https://corporate.target.com/careers/",
+            "htmlFormattedUrl": "https://corporate.target.com/<b>careers</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "71",
+                        "height": "71",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ842csSKkPlFWEO6JWlol4FstbvRko4poXDWDmvgQbg9O6rh-zYfiRMA"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "title": "Careers at Target: Current Job Openings | Target Corporate",
+                        "og:description": "Search our current job openings to see if there is a career at Target waiting for you!",
+                        "twitter:description": "Search our current job openings to see if there is a career at Target waiting for you!",
+                        "og:locale": "en_US",
+                        "og:site_name": "Target Corporate",
+                        "og:type": "article",
+                        "og:title": "Careers at Target: Current Job Openings | Target Corporate",
+                        "og:image": "https://corporate.target.com/assets/corporate/img/global/target-bullseye.png",
+                        "og:url": "http://corporate.target.com/careers/",
+                        "fb:app_id": "185807461602598",
+                        "twitter:card": "summary",
+                        "twitter:creator": "@targetnews",
+                        "twitter:site": "@targetnews",
+                        "twitter:title": "Careers at Target: Current Job Openings | Target Corporate",
+                        "twitter:image:src": "https://corporate.target.com/assets/corporate/img/global/target-bullseye.png",
+                        "msapplication-tilecolor": "#f01d4f",
+                        "msapplication-tileimage": "/win8-tile-icon.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://corporate.target.com/assets/corporate/img/global/target-bullseye.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

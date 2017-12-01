@@ -1,0 +1,547 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search -  new homes",
+                "totalResults": "1360000000",
+                "searchTerms": " new homes",
+                "count": 10,
+                "startIndex": 61,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "previousPage": [
+            {
+                "title": "Google Custom Search -  new homes",
+                "totalResults": "1360000000",
+                "searchTerms": " new homes",
+                "count": 10,
+                "startIndex": 51,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search -  new homes",
+                "totalResults": "1360000000",
+                "searchTerms": " new homes",
+                "count": 10,
+                "startIndex": 71,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ]
+    },
+    "context": {
+        "title": "News Home Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.362607,
+        "formattedSearchTime": "0.36",
+        "totalResults": "1360000000",
+        "formattedTotalResults": "1,360,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "At Totokaelo's New Home, the Fitting Rooms Are Bank Vaults - The ...",
+            "htmlTitle": "At Totokaelo&#39;s <b>New</b> Home, the Fitting Rooms Are Bank Vaults - The ...",
+            "link": "https://www.nytimes.com/2017/10/03/fashion/190-bowery-jay-maisel-totokaelo-germania-bank.html",
+            "displayLink": "www.nytimes.com",
+            "snippet": "Oct 3, 2017 ... Recognizable to most New Yorkers as “that graffiti-covered building on the corner \nof Spring,” 190 Bowery has maintained a mysterious facade since the \nphotographer Jay Maisel bought it in 1966 for $102,000 and converted the former \nGermania Bank into a six-story, 72-room home and studio for himself, ...",
+            "htmlSnippet": "Oct 3, 2017 <b>...</b> Recognizable to most <b>New</b> Yorkers as “that graffiti-covered building on the corner <br>\nof Spring,” 190 Bowery has maintained a mysterious facade since the <br>\nphotographer Jay Maisel bought it in 1966 for $102,000 and converted the former <br>\nGermania Bank into a six-story, 72-room home and studio for himself,&nbsp;...",
+            "formattedUrl": "https://www.nytimes.com/.../190-bowery-jay-maisel-totokaelo-germania- bank.html",
+            "htmlFormattedUrl": "https://www.nytimes.com/.../190-bowery-jay-maisel-totokaelo-germania- bank.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "275",
+                        "height": "183",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAEHIdT2_mx7ClUCCHj77KpmnyGIMh0BEvLrylogn2XphjVEvT7pzqE1m1"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://static01.nyt.com/images/2017/10/05/fashion/05TOTOKAELO1/05TOTOKAELO1-superJumbo.jpg",
+                        "height": "1365",
+                        "width": "2048",
+                        "caption": "Totokaelo now resides at 190 Bowery, a landmark building that was once Germania Bank; its Credit Winnie Au for The New York Times",
+                        "description": "Totokaelo now resides at 190 Bowery, a landmark building that was once Germania Bank; its Credit Winnie Au for The New York Times",
+                        "copyrightholder": "Credit Winnie Au for The New York Times"
+                    },
+                    {
+                        "url": "https://static01.nyt.com/images/2017/10/05/fashion/05TOTOKAELO3/05TOTOKAELO3-superJumbo.jpg",
+                        "height": "1365",
+                        "width": "2048",
+                        "caption": "The converted lobby has a wood floor, the remnants of a basketball court installed by Jay Maisel, one of the building’s earlier occupants. Credit Winnie Au for The New York Times",
+                        "description": "The converted lobby has a wood floor, the remnants of a basketball court installed by Jay Maisel, one of the building’s earlier occupants. Credit Winnie Au for The New York Times",
+                        "copyrightholder": "Credit Winnie Au for The New York Times"
+                    },
+                    {
+                        "url": "https://static01.nyt.com/images/2017/10/05/fashion/05TOTOKAELO4/05TOTOKAELO4-master675.jpg",
+                        "height": "450",
+                        "width": "675",
+                        "caption": "Next to the stairs leading to the basement is a long cage with a swinging door, its original purpose a mystery. Credit Winnie Au for The New York Times",
+                        "description": "Next to the stairs leading to the basement is a long cage with a swinging door, its original purpose a mystery. Credit Winnie Au for The New York Times",
+                        "copyrightholder": "Credit Winnie Au for The New York Times"
+                    },
+                    {
+                        "url": "https://static01.nyt.com/images/2017/10/05/style/05TOTOKAELO9/05TOTOKAELO9-superJumbo.jpg",
+                        "height": "953",
+                        "width": "2048",
+                        "caption": "A set of four doors leads into a vault where shoes are displayed. Credit Winnie Au for The New York Times",
+                        "description": "A set of four doors leads into a vault where shoes are displayed. Credit Winnie Au for The New York Times",
+                        "copyrightholder": "Credit Winnie Au for The New York Times"
+                    },
+                    {
+                        "url": "https://static01.nyt.com/images/2017/10/05/fashion/05TOTOKAELO7/05TOTOKAELO7-master675.jpg",
+                        "height": "450",
+                        "width": "675",
+                        "caption": "A jewelry case occupies a room that was once used by bank customers to try on the prized possessions they stored in the vault. Credit Winnie Au for The New York Times",
+                        "description": "A jewelry case occupies a room that was once used by bank customers to try on the prized possessions they stored in the vault. Credit Winnie Au for The New York Times",
+                        "copyrightholder": "Credit Winnie Au for The New York Times"
+                    },
+                    {
+                        "url": "https://static01.nyt.com/images/2017/10/05/fashion/05TOTOKAELO9/05TOTOKAELO9-master675.jpg",
+                        "height": "450",
+                        "width": "675",
+                        "caption": "One side of the vault is blocked off with a large cage where Totokaelo has put in a light installation. Credit Winnie Au for The New York Times",
+                        "description": "One side of the vault is blocked off with a large cage where Totokaelo has put in a light installation. Credit Winnie Au for The New York Times",
+                        "copyrightholder": "Credit Winnie Au for The New York Times"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "VALERIYA SAFRONOVA"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "The New York Times Company",
+                        "tickersymbol": "NYSE NYT"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "sourceapp": "nyt-v5",
+                        "applicationname": "article",
+                        "al:android:url": "nytimes://reader/id/100000005473484",
+                        "al:android:package": "com.nytimes.android",
+                        "al:android:app_name": "NYTimes",
+                        "twitter:app:name:googleplay": "NYTimes",
+                        "twitter:app:id:googleplay": "com.nytimes.android",
+                        "twitter:app:url:googleplay": "nytimes://reader/id/100000005473484",
+                        "al:iphone:url": "nytimes://www.nytimes.com/2017/10/03/fashion/190-bowery-jay-maisel-totokaelo-germania-bank.html",
+                        "al:iphone:app_store_id": "284862083",
+                        "al:iphone:app_name": "NYTimes",
+                        "al:ipad:url": "nytimes://www.nytimes.com/2017/10/03/fashion/190-bowery-jay-maisel-totokaelo-germania-bank.html",
+                        "al:ipad:app_store_id": "357066198",
+                        "al:ipad:app_name": "NYTimes",
+                        "hdl_p": "Totokaelo Embraces the Layered History of Its New Home",
+                        "genre": "News",
+                        "articleid": "100000005473484",
+                        "usageterms": "https://www.nytimes.com/content/help/rights/sale/terms-of-sale.html",
+                        "hdl": "At Totokaelo’s New Home, the Fitting Rooms Are Bank Vaults",
+                        "pdate": "20171003",
+                        "utime": "20171005095940",
+                        "ptime": "20171003152714",
+                        "displaydate": "Oct. 3, 2017",
+                        "dat": "Oct. 3, 2017",
+                        "lp": "The cool-kid store from Seattle will open on the bottom two floors of the landmark Germania Bank on the Bowery.",
+                        "msapplication-starturl": "http://www.nytimes.com",
+                        "cre": "The New York Times",
+                        "slug": "05TOTOKAELO",
+                        "article:collection": "https://static01.nyt.com/services/json/sectionfronts/fashion/index.jsonp",
+                        "sectionfront_jsonp": "https://static01.nyt.com/services/json/sectionfronts/fashion/index.jsonp",
+                        "og:url": "https://www.nytimes.com/2017/10/03/fashion/190-bowery-jay-maisel-totokaelo-germania-bank.html",
+                        "og:type": "article",
+                        "og:title": "At Totokaelo’s New Home, the Fitting Rooms Are Bank Vaults",
+                        "og:description": "The cool-kid store from Seattle will open on the bottom two floors of the landmark Germania Bank on the Bowery.",
+                        "article:published": "2017-10-03T15:27:14-04:00",
+                        "article:modified": "2017-10-05T09:59:40-04:00",
+                        "article:section": "Fashion & Style",
+                        "article:section-taxonomy-id": "B3DFBD82-F298-43B3-9458-219B4F6AA2A5",
+                        "article:section_url": "https://www.nytimes.com/section/fashion",
+                        "article:top-level-section": "fashion",
+                        "fb:app_id": "9869919170",
+                        "twitter:url": "https://www.nytimes.com/2017/10/03/fashion/190-bowery-jay-maisel-totokaelo-germania-bank.html",
+                        "twitter:title": "At Totokaelo’s New Home, the Fitting Rooms Are Bank Vaults",
+                        "twitter:description": "The cool-kid store from Seattle will open on the bottom two floors of the landmark Germania Bank on the Bowery.",
+                        "author": "Valeriya Safronova",
+                        "tone": "feature",
+                        "byl": "By VALERIYA SAFRONOVA",
+                        "pt": "article",
+                        "cg": "fashion"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static01.nyt.com/images/2017/10/05/fashion/05TOTOKAELO1/05TOTOKAELO1-superJumbo.jpg"
+                    }
+                ],
+                "newsarticle": [
+                    {
+                        "alternativeheadline": "Totokaelo Embraces the Layered History of Its New Home",
+                        "description": "The cool-kid store from Seattle will open on the bottom two floors of the landmark Germania Bank on the Bowery.",
+                        "genre": "News",
+                        "identifier": "100000005473484",
+                        "usageterms": "https://www.nytimes.com/content/help/rights/sale/terms-of-sale.html",
+                        "inlanguage": "en-US",
+                        "datepublished": "2017-10-03T15:27:14-04:00",
+                        "datemodified": "2017-10-05T09:59:40-04:00",
+                        "articlesection": "Fashion & Style",
+                        "thumbnailurl": "https://static01.nyt.com/images/2017/10/05/fashion/05TOTOKAELO1/05TOTOKAELO1-thumbStandard.jpg",
+                        "headline": "At Totokaelo’s New Home, the Fitting Rooms Are Bank Vaults",
+                        "printedition": "New York edition",
+                        "copyrightnotice": "© 2017 The New York Times Company",
+                        "copyrightyear": "2017"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Homes | Griffin Residential",
+            "htmlTitle": "<b>New Homes</b> | Griffin Residential",
+            "link": "http://www.griffin-residential.com/new-homes.cfm",
+            "displayLink": "www.griffin-residential.com",
+            "snippet": "New Homes. At Griffin Residential, we think of homebuilding as more than a \nbusiness. To us, it's a way of life; a dedication to honor and uphold the Griffin \nfamily's legacy of integrity and respect. With over a century of experience, our \nhomes are a reflection of our understanding about the way people aspire to live. \nIn building ...",
+            "htmlSnippet": "<b>New Homes</b>. At Griffin Residential, we think of homebuilding as more than a <br>\nbusiness. To us, it&#39;s a way of life; a dedication to honor and uphold the Griffin <br>\nfamily&#39;s legacy of integrity and respect. With over a century of experience, our <br>\nhomes are a reflection of our understanding about the way people aspire to live. <br>\nIn building&nbsp;...",
+            "cacheId": "PzFUF-PatGYJ",
+            "formattedUrl": "www.griffin-residential.com/new-homes.cfm",
+            "htmlFormattedUrl": "www.griffin-residential.com/<b>new</b>-<b>homes</b>.cfm",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "164",
+                        "height": "175",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsjvoYd50rp6UMOQ1utduFW1mPbmPGeVCom5q9LLJeIIZA9a-RAkGuEnoc"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://maps.gstatic.com/mapfiles/api-3/images/sv9.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Lake Ridge | New Homes in Santee by Award-Winning Home Builders",
+            "htmlTitle": "Lake Ridge | <b>New Homes</b> in Santee by Award-Winning Home Builders",
+            "link": "https://www.pardeehomes.com/san-diego/lake-ridge/",
+            "displayLink": "www.pardeehomes.com",
+            "snippet": "New Homes in Santee, CA Coming Fall 2017 | Join the Interest List for the Lake \nRidge Neighborhood in Weston by Award-Winning Home Builders Pardee \nHomes.",
+            "htmlSnippet": "<b>New Homes</b> in Santee, CA Coming Fall 2017 | Join the Interest List for the Lake <br>\nRidge Neighborhood in Weston by Award-Winning Home Builders Pardee <br>\nHomes.",
+            "cacheId": "alWDNw8tcI4J",
+            "formattedUrl": "https://www.pardeehomes.com/san-diego/lake-ridge/",
+            "htmlFormattedUrl": "https://www.pardee<b>homes</b>.com/san-diego/lake-ridge/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "275",
+                        "height": "183",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrJqzc2n1QqenVdpHzyKhucCCmvZ6PJCqBygvb6RaVf1UpK0D3bkgPbU18"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "og:locale": "en_US",
+                        "og:type": "article",
+                        "og:title": "Lake Ridge | New Homes in Santee by Award-Winning Home Builders",
+                        "og:description": "New Homes in Santee, CA Coming Fall 2017 | Join the Interest List for the Lake Ridge Neighborhood in Weston by Award-Winning Home Builders Pardee Homes.",
+                        "og:url": "https://www.pardeehomes.com/san-diego/lake-ridge/",
+                        "og:site_name": "Pardee Homes",
+                        "og:image": "https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/03/Lakeridge-4B-1.jpg",
+                        "og:image:width": "1500",
+                        "og:image:height": "1000",
+                        "twitter:card": "summary",
+                        "twitter:description": "New Homes in Santee, CA Coming Fall 2017 | Join the Interest List for the Lake Ridge Neighborhood in Weston by Award-Winning Home Builders Pardee Homes.",
+                        "twitter:title": "Lake Ridge | New Homes in Santee by Award-Winning Home Builders",
+                        "twitter:image": "https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/03/Lakeridge-4B-1.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.pardeehomes.com/wp-content/uploads/sites/3/2017/03/Lakeridge-4B-1.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Ohio New Homes for Sale - New Houses in OH - cleveland.com",
+            "htmlTitle": "Ohio <b>New Homes</b> for Sale - <b>New Houses</b> in OH - cleveland.com",
+            "link": "http://realestate.cleveland.com/new-homes/",
+            "displayLink": "realestate.cleveland.com",
+            "snippet": "Browse thousands of new homes for sale in Ohio / Northeast OH. Find new \nhomes and new houses for sale in Cleveland, OH. Search our local real estate \nlistings for new homes, new houses and new apartment homes at cleveland.com.",
+            "htmlSnippet": "Browse thousands of <b>new homes</b> for sale in Ohio / Northeast OH. Find <b>new</b> <br>\n<b>homes</b> and <b>new houses</b> for sale in Cleveland, OH. Search our local real estate <br>\nlistings for <b>new homes</b>, <b>new houses</b> and new apartment homes at cleveland.com.",
+            "cacheId": "dBpb9LY_z28J",
+            "formattedUrl": "realestate.cleveland.com/new-homes/",
+            "htmlFormattedUrl": "realestate.cleveland.com/<b>new</b>-<b>homes</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "68",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSP2tfUE6PBGBBShsjVUrxNyCnMVQZ8xml8sKf-rQ6QdAyCjWLl7EOi6U"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msvalidate.01": "DEED285EAEFADF4AB65769CE0E8DE106",
+                        "apple-itunes-app": "app-id=1023758323",
+                        "google-play-app": "app-id=com.cleveland.realestate",
+                        "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no",
+                        "og:image": "http://static.advance.net/static/cleve/static/img/logos/logo_main_2x.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://static.advance.net/static/cleve/static/img/logos/logo_main_2x.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Homes for Sale in Colorado | Century Communities",
+            "htmlTitle": "<b>New Homes</b> for Sale in Colorado | Century Communities",
+            "link": "https://www.centurycommunities.com/find-your-home/colorado",
+            "displayLink": "www.centurycommunities.com",
+            "snippet": "New construction homes, townhomes, condos and more for sale in Colorado. \nContact a sales professional at 877-869-6748 for additional information on \nlocations.",
+            "htmlSnippet": "<b>New</b> construction <b>homes</b>, townhomes, condos and more for sale in Colorado. <br>\nContact a sales professional at 877-869-6748 for additional information on <br>\nlocations.",
+            "cacheId": "R28QDO7nsAwJ",
+            "formattedUrl": "https://www.centurycommunities.com/find-your-home/colorado",
+            "htmlFormattedUrl": "https://www.centurycommunities.com/find-your-home/colorado",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "279",
+                        "height": "180",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLCsPfnHFHBirTZV9WW-2AV72A9dvRsKc3HuqlvkWQbHpIdK8pEpiReEiU"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:type": "website",
+                        "og:title": "New Homes for Sale in Colorado | Century Communities",
+                        "og:description": "New construction homes, townhomes, condos and more for sale in Colorado. Contact a sales professional at 877-869-6748 for additional information on locations.",
+                        "og:url": "https://www.centurycommunities.com/find-your-home/colorado",
+                        "viewport": "width=device-width,minimum-scale=1,maximum-scale=1"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.centurycommunities.com/images/blog/5020-Exterior.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Homes and Townhomes Atlanta | New Home Builder Atlanta ...",
+            "htmlTitle": "<b>New Homes</b> and Townhomes Atlanta | New Home Builder Atlanta ...",
+            "link": "https://www.jwhomes.com/Find-Your-Home/Georgia/Neighborhoods-in-the-Atlanta-GA-Area",
+            "displayLink": "www.jwhomes.com",
+            "snippet": "Distinctive New Homes and New Neighborhoods in Atlanta, GA from the \nSoutheast's Most Preferred Luxury Home Builder, John Wieland Homes and \nNeighborhoods.",
+            "htmlSnippet": "Distinctive <b>New Homes</b> and New Neighborhoods in Atlanta, GA from the <br>\nSoutheast&#39;s Most Preferred Luxury Home Builder, John Wieland Homes and <br>\nNeighborhoods.",
+            "cacheId": "v8aNM27sWvYJ",
+            "formattedUrl": "https://www.jwhomes.com/.../Neighborhoods-in-the-Atlanta-GA-Area",
+            "htmlFormattedUrl": "https://www.jw<b>homes</b>.com/.../Neighborhoods-in-the-Atlanta-GA-Area",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "297",
+                        "height": "170",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSM_CcZEYDc4Kh9bC7Nw-0_HAxATcqgMbwz2QcU8p83jeVR1goLhK1cpKs"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "vs_defaultclientscript": "JavaScript",
+                        "vs_targetschema": "http://schemas.microsoft.com/intellisense/ie5"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.jwhomes.com/~/media/JW%20Homes/Georgia/Atlanta/Duluth/Enclave%20at%20Stonehaven/Wallace%20Designer%20Model%20Presentation/The_Wallace_Designer_Model_GreatRoom_Enclave_at_Stonehaven_by_John_Wieland_MM.ashx?h=172&w=300"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Michigan New Homes for Sale - New Homes in MI - MLive.com",
+            "htmlTitle": "Michigan <b>New Homes</b> for Sale - <b>New Homes</b> in MI - MLive.com",
+            "link": "http://realestate.mlive.com/new-homes/",
+            "displayLink": "realestate.mlive.com",
+            "snippet": "Browse thousands of new homes for sale in Michigan. Find new homes and new \nhouses for sale in MI. Search our local real estate listings for new homes, new \nhouses and new apartment homes at MLive.com.",
+            "htmlSnippet": "Browse thousands of <b>new homes</b> for sale in Michigan. Find <b>new homes</b> and <b>new</b> <br>\n<b>houses</b> for sale in MI. Search our local real estate listings for <b>new homes</b>, <b>new</b> <br>\n<b>houses</b> and new apartment homes at MLive.com.",
+            "cacheId": "ehTorn64ipUJ",
+            "formattedUrl": "realestate.mlive.com/new-homes/",
+            "htmlFormattedUrl": "realestate.mlive.com/<b>new</b>-<b>homes</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "92",
+                        "height": "90",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7kYPvwMDUj9zj9qIdx9Lv9gf9hLEgFBr8mC46kaRV0UStucO15S6IoA"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msvalidate.01": "DEED285EAEFADF4AB65769CE0E8DE106",
+                        "apple-itunes-app": "app-id=1049431802",
+                        "google-play-app": "app-id=com.mlive.realestate",
+                        "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no",
+                        "og:image": "http://static.advance.net/static/mlive/static/img/logos/logo_main_2x.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://static.advance.net/static/mlive/static/img/logos/logo_main_2x.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "TRI Pointe Homes: Find New Homes in California & Colorado",
+            "htmlTitle": "TRI Pointe Homes: Find <b>New Homes</b> in California &amp; Colorado",
+            "link": "https://www.tripointehomes.com/",
+            "displayLink": "www.tripointehomes.com",
+            "snippet": "New Homes For Sale by TRI Pointe Homes -TRI Pointe Homes is a leading \nbuilder of new homes in Southern/Northern California and Colorado.",
+            "htmlSnippet": "<b>New Homes</b> For Sale by TRI Pointe Homes -TRI Pointe Homes is a leading <br>\nbuilder of <b>new homes</b> in Southern/Northern California and Colorado.",
+            "cacheId": "S-OqnXIF6aAJ",
+            "formattedUrl": "https://www.tripointehomes.com/",
+            "htmlFormattedUrl": "https://www.tripointe<b>homes</b>.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "345",
+                        "height": "146",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqmhinM8nGU23YKJUYW-kzaHztZfwU4Xw_lWuJRNzHruo3Bl0sa-bDuK8"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "og:locale": "en_US",
+                        "og:type": "website",
+                        "og:title": "Find New Homes in California & Colorado - TRI Pointe Homes",
+                        "og:description": "New Homes For Sale by TRI Pointe Homes -TRI Pointe Homes is a leading builder of new homes in Southern/Northern California and Colorado.",
+                        "og:url": "https://www.tripointehomes.com/",
+                        "og:site_name": "TRI Pointe Homes",
+                        "og:image": "https://2il2c53g37ql2xsdts41jnir-wpengine.netdna-ssl.com/wp-content/uploads/sites/2/2015/06/TPH-default-hero-main.jpg",
+                        "og:image:width": "2880",
+                        "og:image:height": "1224",
+                        "twitter:card": "summary",
+                        "twitter:description": "New Homes For Sale by TRI Pointe Homes -TRI Pointe Homes is a leading builder of new homes in Southern/Northern California and Colorado.",
+                        "twitter:title": "Find New Homes in California & Colorado - TRI Pointe Homes",
+                        "twitter:image": "https://2il2c53g37ql2xsdts41jnir-wpengine.netdna-ssl.com/wp-content/uploads/sites/2/2015/06/TPH-default-hero-main.jpg",
+                        "msvalidate.01": "EA146C43C4DD713554DEFFF54EA5002A"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://2il2c53g37ql2xsdts41jnir-wpengine.netdna-ssl.com/wp-content/uploads/sites/2/2015/06/TPH-default-hero-main.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Find Your New Home in Menifee, CA | Audie Murphy Ranch",
+            "htmlTitle": "Find Your <b>New</b> Home in Menifee, CA | Audie Murphy Ranch",
+            "link": "http://audiemurphyranch.com/new-homes/",
+            "displayLink": "audiemurphyranch.com",
+            "snippet": "Explore six new home collections with spacious home designs and stunning \nmountain vista views. Visit today!",
+            "htmlSnippet": "Explore six <b>new</b> home collections with spacious home designs and stunning <br>\nmountain vista views. Visit today!",
+            "cacheId": "rrT6UDIpd7IJ",
+            "formattedUrl": "audiemurphyranch.com/new-homes/",
+            "htmlFormattedUrl": "audiemurphyranch.com/<b>new</b>-<b>homes</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "264",
+                        "height": "191",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrahm14sJhe8vxqdVEWoSE9Y5W4mmaEY16QY3GyVrR6816Kg1v7fxKF8Gb"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "Find Your New Home in Menifee, CA | Audie Murphy Ranch  -",
+                        "og:type": "article",
+                        "og:url": "http://audiemurphyranch.com/new-homes/",
+                        "og:description": "Explore six new home collections with spacious home designs and stunning mountain vista views. Visit today!",
+                        "og:site_name": "HoneyHole",
+                        "twitter:card": "summary",
+                        "twitter:site": "@_setwise",
+                        "twitter:title": "Find Your New Home in Menifee, CA | Audie Murphy Ranch  - Setwise",
+                        "twitter:description": "Explore six new home collections with spacious home designs and stunning mountain vista views. Visit today!",
+                        "twitter:creator": "@_setwise"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://audiemurphyranch.com/persistent/resources/neighborhoods/Willow_Tree_2.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Homes in Sacramento, California - Taylor Morrison",
+            "htmlTitle": "<b>New Homes</b> in Sacramento, California - Taylor Morrison",
+            "link": "http://www.taylormorrison.com/new-homes/california/sacramento",
+            "displayLink": "www.taylormorrison.com",
+            "snippet": "Find new Sacramento homes for sale from home builder Taylor Morrison. Browse \nhouses for sale in Sacramento, view photos, compare schools and more.",
+            "htmlSnippet": "Find <b>new</b> Sacramento <b>homes</b> for sale from home builder Taylor Morrison. Browse <br>\n<b>houses</b> for sale in Sacramento, view photos, compare schools and more.",
+            "cacheId": "UnkwWL8oo-cJ",
+            "formattedUrl": "www.taylormorrison.com/new-homes/california/sacramento",
+            "htmlFormattedUrl": "www.taylormorrison.com/<b>new</b>-<b>homes</b>/california/sacramento",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "164",
+                        "height": "175",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQFC9xEuUAP2b5hdMZIqQoT-jpctGEY5BcwjXXYqxSAG9DYjF1DT5oFAc"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://maps.gstatic.com/mapfiles/api-3/images/sv9.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

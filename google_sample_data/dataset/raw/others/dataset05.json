@@ -1,0 +1,444 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - university",
+                "totalResults": "362000000",
+                "searchTerms": "university",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - university",
+                "totalResults": "362000000",
+                "searchTerms": "university",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ]
+    },
+    "context": {
+        "title": "News Home Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.610829,
+        "formattedSearchTime": "0.61",
+        "totalResults": "362000000",
+        "formattedTotalResults": "362,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "University - Wikipedia",
+            "htmlTitle": "<b>University</b> - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/University",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "A university (Latin: universitas, \"a whole\") is an institution of higher (or tertiary) \neducation and research which awards academic degrees in various academic \ndisciplines. Universities typically provide undergraduate education and \npostgraduate education. The word \"university\" is derived from the Latin \nuniversitas ...",
+            "htmlSnippet": "A <b>university</b> (Latin: universitas, &quot;a whole&quot;) is an institution of higher (or tertiary) <br>\neducation and research which awards academic degrees in various academic <br>\ndisciplines. <b>Universities</b> typically provide undergraduate education and <br>\npostgraduate education. The word &quot;<b>university</b>&quot; is derived from the Latin <br>\nuniversitas&nbsp;...",
+            "cacheId": "dWcBbGVD4SUJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/University",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>University</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259",
+                        "height": "194",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDcNIIUAUzTsYioGytO8HzDW4_g2x9S8wNi0TBTdZGjHcfE_Ka2eTUdLo"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin-when-cross-origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Oxfordceremony.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Oxfordceremony.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The University of Utah",
+            "htmlTitle": "The <b>University</b> of Utah",
+            "link": "https://www.utah.edu/",
+            "displayLink": "www.utah.edu",
+            "snippet": "Founded in 1850, The University of Utah is the flagship institution of higher \nlearning in Utah, and offers over 100 undergraduate and more than 90 graduate \ndegree programs to over 30000 students. As a preeminent research and \nteaching institution, the University cultivates an academic environment in which \nthe highest ...",
+            "htmlSnippet": "Founded in 1850, The <b>University</b> of Utah is the flagship institution of higher <br>\nlearning in Utah, and offers over 100 undergraduate and more than 90 graduate <br>\ndegree programs to over 30000 students. As a preeminent research and <br>\nteaching institution, the <b>University</b> cultivates an academic environment in which <br>\nthe highest&nbsp;...",
+            "cacheId": "yi1TE-sOWFoJ",
+            "formattedUrl": "https://www.utah.edu/",
+            "htmlFormattedUrl": "https://www.utah.edu/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "268",
+                        "height": "188",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRbDogxaIORwEzucszZkGS0pJ-mp2Lra3OrmpDYwvgFWumGjeFFU3MxcQ"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://plan.cap.utah.edu/inc/img/u-only.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "University of Phoenix: Online Colleges, Schools & Classes",
+            "htmlTitle": "<b>University</b> of Phoenix: Online Colleges, Schools &amp; Classes",
+            "link": "http://www.phoenix.edu/",
+            "displayLink": "www.phoenix.edu",
+            "snippet": "University of Phoenix offers campus and online degree programs, certificate \ncourses, and individual online classes. Learn more about admissions, \naccreditation, tuition and financial aid options, or get started with your enrollment \ntoday.",
+            "htmlSnippet": "<b>University</b> of Phoenix offers campus and online degree programs, certificate <br>\ncourses, and individual online classes. Learn more about admissions, <br>\naccreditation, tuition and financial aid options, or get started with your enrollment <br>\ntoday.",
+            "cacheId": "F3L2r9X-qHkJ",
+            "formattedUrl": "www.phoenix.edu/",
+            "htmlFormattedUrl": "www.phoenix.edu/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "135",
+                        "height": "135",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQF9sfhWawLXsL8dTDCjqosxdLDRbdqGL2I_l3qjp289W9Je39c0hss4Go"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",
+                        "og:description": "University of Phoenix offers campus and online degree programs, certificate courses, and individual online classes. Learn more about admissions, accreditation, tuition and financial aid options, or get started with your enrollment today.",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.phoenix.edu/etc/designs/uopx/images/logo-vertical-white-mark-only.9-0-0-73387.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The University of Memphis - UofM - University of Memphis",
+            "htmlTitle": "The <b>University</b> of Memphis - UofM - <b>University</b> of Memphis",
+            "link": "http://www.memphis.edu/",
+            "displayLink": "www.memphis.edu",
+            "snippet": "The University of Memphis, also called the UofM, is an American public research \nuniversity located in the Normal Station neighborhood of Memphis, Tennessee. \nFounded in 1912, the university has an enrollment of more than 22000 students.",
+            "htmlSnippet": "The <b>University</b> of Memphis, also called the UofM, is an American public research <br>\n<b>university</b> located in the Normal Station neighborhood of Memphis, Tennessee. <br>\nFounded in 1912, the <b>university</b> has an enrollment of more than 22000 students.",
+            "cacheId": "INVUHOlSbzMJ",
+            "formattedUrl": "www.memphis.edu/",
+            "htmlFormattedUrl": "www.memphis.edu/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "227",
+                        "height": "222",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5wDxVwbjV7_UdwA_uJhs5ocLZ2mD2nUTk-WSRkpiWmEHWUdwePQY7ORQ"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "msapplication-tilecolor": "#ffffff",
+                        "msapplication-tileimage": "/_uofm_resources/favicons/mstile-144x144.png",
+                        "theme-color": "#00498f",
+                        "copyright": "Copyright 2017 University of Memphis",
+                        "og:type": "website",
+                        "og:locale": "en_US",
+                        "og:site_name": "The University of Memphis",
+                        "og:title": "The University of Memphis - UofM",
+                        "og:description": "The University of Memphis, also called the UofM, is an American public research university located in the Normal Station neighborhood of Memphis, Tennessee. Founded in 1912, the university has an enrollment of more than 22,000 students.",
+                        "og:url": "http://www.memphis.edu/",
+                        "og:image": "http://www.memphis.edu/_uofm_resources/img/govboard.jpg",
+                        "twitter:card": "summary",
+                        "twitter:site": "@uofmemphis",
+                        "twitter:title": "The University of Memphis - UofM",
+                        "twitter:description": "The University of Memphis, also called the UofM, is an American public research university located in the Normal Station neighborhood of Memphis, Tennessee. Founded in 1912, the university has an enrollment of more than 22,000 students.",
+                        "twitter:url": "http://www.memphis.edu/",
+                        "twitter:image": "http://www.memphis.edu/_uofm_resources/img/govboard.jpg",
+                        "twitter:image:alt": "UofM - The University of Memphis"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.memphis.edu/_uofm_resources/img/govboard.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The University of Arizona, Tucson, Arizona",
+            "htmlTitle": "The <b>University</b> of Arizona, Tucson, Arizona",
+            "link": "http://www.arizona.edu/",
+            "displayLink": "www.arizona.edu",
+            "snippet": "The University of Arizona is the state's land-grant university and a member of the \nprestigious, invitation-only Association of American Universities—made up of just \n62 universities in the country. Rising from the sands of the Sonoran desert in \n1885, the institution is transforming science fiction into scientific fact, \ncollaborating ...",
+            "htmlSnippet": "The <b>University</b> of Arizona is the state&#39;s land-grant <b>university</b> and a member of the <br>\nprestigious, invitation-only Association of American <b>Universities</b>—made up of just <br>\n62 <b>universities</b> in the country. Rising from the sands of the Sonoran desert in <br>\n1885, the institution is transforming science fiction into scientific fact, <br>\ncollaborating&nbsp;...",
+            "cacheId": "gge7fSvxr0QJ",
+            "formattedUrl": "www.arizona.edu/",
+            "htmlFormattedUrl": "www.arizona.edu/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "311",
+                        "height": "162",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRot6vtBlV8a2IsVv_EcppNTHteop82tQUz4c6nrw3UZBwKMDO_UUj-E06l"
+                    }
+                ],
+                "collegeoruniversity": [
+                    {
+                        "name": "The University of Arizona"
+                    }
+                ],
+                "postaladdress": [
+                    {
+                        "addresslocality": "Tucson",
+                        "addressregion": "Arizona",
+                        "postalcode": "85721"
+                    }
+                ],
+                "contactpoint": [
+                    {
+                        "telephone": "(520) 621-2211"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msvalidate.01": "A59D74D950A4A827FB0A10EF2800F8A5",
+                        "rights": "Copyright 2014 © Arizona Board of Regents.",
+                        "og:site_name": "The University of Arizona, Tucson, Arizona",
+                        "og:type": "website",
+                        "og:url": "http://www.arizona.edu/",
+                        "og:title": "The University of Arizona, Tucson, Arizona",
+                        "og:image": "http://www.arizona.edu/sites/default/files/universityofarizona1.jpg",
+                        "mobileoptimized": "width",
+                        "handheldfriendly": "true",
+                        "viewport": "width=device-width, maximum-scale=1"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.arizona.edu/sites/default/files/universityofarizona1.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "University of Minnesota Twin Cities",
+            "htmlTitle": "<b>University</b> of Minnesota Twin Cities",
+            "link": "https://twin-cities.umn.edu/",
+            "displayLink": "twin-cities.umn.edu",
+            "snippet": "The University of Minnesota is a highly ranked public research university offering \na wide range of undergraduate and graduate programs. We change lives through \neducation, research, and outreach.",
+            "htmlSnippet": "The <b>University</b> of Minnesota is a highly ranked public research <b>university</b> offering <br>\na wide range of undergraduate and graduate programs. We change lives through <br>\neducation, research, and outreach.",
+            "cacheId": "vbtm6pypsZQJ",
+            "formattedUrl": "https://twin-cities.umn.edu/",
+            "htmlFormattedUrl": "https://twin-cities.umn.edu/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "321",
+                        "height": "157",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Yym72517EunngCi2JtdGNpLZ0HR3zQjFLhkIJMt0FRsYAZNRGB4aFCU"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:site_name": "University of Minnesota Twin Cities",
+                        "og:type": "website",
+                        "og:url": "https://twin-cities.umn.edu/",
+                        "og:title": "University of Minnesota Twin Cities",
+                        "twitter:card": "summary",
+                        "twitter:url": "https://twin-cities.umn.edu/content/home",
+                        "twitter:title": "Home",
+                        "dcterms.title": "University of Minnesota Twin Cities",
+                        "dcterms.type": "Text",
+                        "dcterms.format": "text/html",
+                        "dcterms.identifier": "https://twin-cities.umn.edu/",
+                        "mobileoptimized": "width",
+                        "handheldfriendly": "true",
+                        "viewport": "width=device-width, initial-scale=1"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://twin-cities.umn.edu/sites/twin-cities.umn.edu/files/cristina-coc-1024x500.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "University of Washington",
+            "htmlTitle": "<b>University</b> of Washington",
+            "link": "https://www.washington.edu/",
+            "displayLink": "www.washington.edu",
+            "snippet": "Thanks to the support of donors, the Conservation Center at the UW Libraries can \nrepair up to 12,000 items each year. Read story. Be Boundless NEXTTradition \nwith a modern twist. ArtsUW · Maps · MyUW · Athletics · Social · Libraries · UW \nMedicine ...",
+            "htmlSnippet": "Thanks to the support of donors, the Conservation Center at the UW Libraries can <br>\nrepair up to 12,000 items each year. Read story. Be Boundless NEXTTradition <br>\nwith a modern twist. ArtsUW &middot; Maps &middot; MyUW &middot; Athletics &middot; Social &middot; Libraries &middot; UW <br>\nMedicine&nbsp;...",
+            "cacheId": "qY-xOkYJVmAJ",
+            "formattedUrl": "https://www.washington.edu/",
+            "htmlFormattedUrl": "https://www.washington.edu/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "345",
+                        "height": "146",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzivfdFOVPhV1eM24UhHh0StNGKlHk63kLqRxDiARc9Qn1ueyV3AtzKUm6"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.washington.edu/static/home/files/2015/04/uw-block-w-statue.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The University of Iowa",
+            "htmlTitle": "The <b>University</b> of Iowa",
+            "link": "https://uiowa.edu/",
+            "displayLink": "uiowa.edu",
+            "snippet": "One of the top 35 public universities in the US. 200+ areas of study. Located in \none of America's best college towns. Come see what it means to be a Hawkeye.",
+            "htmlSnippet": "One of the top 35 public <b>universities</b> in the US. 200+ areas of study. Located in <br>\none of America&#39;s best college towns. Come see what it means to be a Hawkeye.",
+            "cacheId": "n2tRCSL4mygJ",
+            "formattedUrl": "https://uiowa.edu/",
+            "htmlFormattedUrl": "https://uiowa.edu/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "234",
+                        "height": "215",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6fZ2YRu56GTfN3Pak7vxfUD1MP7nDYCuxCpRcPkifnZ_Rjtl55Tf8DOI"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tileimage": "/profiles/sitenow/modules/custom/uiowa_favicon/assets/mstile-144x144.png",
+                        "theme-color": "#ffffff",
+                        "msapplication-tilecolor": "#000000",
+                        "p:domain_verify": "5954bf6d952c170a52d05242ece58f1a",
+                        "bitly-verification": "25a7da99da70",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "mobileoptimized": "width",
+                        "handheldfriendly": "true",
+                        "apple-mobile-web-app-capable": "yes"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://geemap.stat.uiowa.edu/sites/geemap.stat.uiowa.edu/files/uiowa_dome_black.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Home, University of Cincinnati",
+            "htmlTitle": "Home, <b>University</b> of Cincinnati",
+            "link": "http://www.uc.edu/",
+            "displayLink": "www.uc.edu",
+            "snippet": "The University of Cincinnati, founded in 1819, offers success by providing a \nbalance of academic excellence, real-world experience and collaborative \nresearch.",
+            "htmlSnippet": "The <b>University</b> of Cincinnati, founded in 1819, offers success by providing a <br>\nbalance of academic excellence, real-world experience and collaborative <br>\nresearch.",
+            "cacheId": "MiO5INR0R6sJ",
+            "formattedUrl": "www.uc.edu/",
+            "htmlFormattedUrl": "www.uc.edu/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259",
+                        "height": "194",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTh9sL_JtVptYZXFHS5RYKlcOx9q1iPNa6I9oy4j_2uCk4WYNQThjilEamT"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "The University of Cincinnati",
+                        "og:type": "website",
+                        "og:image": "http://www.uc.edu/content/dam/uc/2016-new/photos/environmental/151114yNippertA093.jpg",
+                        "og:url": "http://uc.edu:8080/content/uc",
+                        "og:locale": "en-US",
+                        "og:description": "The University of Cincinnati, founded in 1819, offers success by providing a balance of academic excellence, real-world experience and collaborative research.",
+                        "og:site_name": "University of Cincinnati",
+                        "twitter:card": "summary_large_image",
+                        "twitter:image": "http://www.uc.edu/content/dam/uc/2016-new/photos/environmental/151114yNippertA093.jpg",
+                        "twitter:site": "@uofcincy",
+                        "twitter:creator": "@",
+                        "twitter:title": "The University of Cincinnati",
+                        "twitter:description": "The University of Cincinnati, founded in 1819, offers success by providing a balance of academic excellence, real-world experience and collaborative research."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.uc.edu/content/dam/uc/2016-new/photos/environmental/151114yNippertA093.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "University of Houston",
+            "htmlTitle": "<b>University</b> of Houston",
+            "link": "http://www.uh.edu/",
+            "displayLink": "www.uh.edu",
+            "snippet": "Located near the heart of Houston, this public, tier one research university offers \nover 300 degrees and programs and award-winning faculty.",
+            "htmlSnippet": "Located near the heart of Houston, this public, tier one research <b>university</b> offers <br>\nover 300 degrees and programs and award-winning faculty.",
+            "cacheId": "2Mhxxl-bzhUJ",
+            "formattedUrl": "www.uh.edu/",
+            "htmlFormattedUrl": "www.uh.edu/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmWXRhNbZSEE0CWaH-GI0WIK_2ee9UiM2G68qz5fJrZvWXO1xPhOKYZsc"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "date": "Tue, 21 Nov 2017 09:06:57 -0440",
+                        "og:description": "Located near the heart of Houston, this public, tier one research university offers over 300 degrees and programs and award-winning faculty.",
+                        "og:image": "https://www.uh.edu/images/interlocking-uh.png",
+                        "og:url": "https://www.uh.edu/index",
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:site": "@UHouston"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.uh.edu/images/interlocking-uh.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

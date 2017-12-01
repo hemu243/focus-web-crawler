@@ -34,4 +34,13 @@ Fetch all link by going through seed urls
 
 ## Usages
 To run this program - 
+You need to run main.py file
+
+`python <main.py file path>`
+
+For example
+
+```angular2html
+python focused_scrapy_crawler/main.py
+```
 

@@ -1,0 +1,550 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - news",
+                "totalResults": "1270000000",
+                "searchTerms": "news",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - news",
+                "totalResults": "1270000000",
+                "searchTerms": "news",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ]
+    },
+    "context": {
+        "title": "News Home Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.260516,
+        "formattedSearchTime": "0.26",
+        "totalResults": "1270000000",
+        "formattedTotalResults": "1,270,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Google News",
+            "htmlTitle": "Google <b>News</b>",
+            "link": "https://news.google.com/",
+            "displayLink": "news.google.com",
+            "snippet": "Comprehensive up-to-date news coverage, aggregated from sources all over the \nworld by Google News.",
+            "htmlSnippet": "Comprehensive up-to-date <b>news</b> coverage, aggregated from sources all over the <br>\nworld by Google <b>News</b>.",
+            "cacheId": "ozdoT-F6oa4J",
+            "formattedUrl": "https://news.google.com/",
+            "htmlFormattedUrl": "https://<b>news</b>.google.com/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "viewport": "initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no",
+                        "mobile-web-app-capable": "yes",
+                        "apple-mobile-web-app-capable": "yes",
+                        "application-name": "Google News",
+                        "apple-mobile-web-app-title": "Google News",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "msapplication-tap-highlight": "no"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Fox News - Breaking News Updates | Latest News Headlines ...",
+            "htmlTitle": "Fox <b>News</b> - Breaking <b>News</b> Updates | Latest <b>News</b> Headlines ...",
+            "link": "http://www.foxnews.com/",
+            "displayLink": "www.foxnews.com",
+            "snippet": "Breaking News, Latest News and Current News from FOXNews.com. Breaking \nnews and video. Latest Current News: U.S., World, Entertainment, Health, \nBusiness, Technology, Politics, Sports.",
+            "htmlSnippet": "Breaking <b>News</b>, Latest <b>News</b> and Current <b>News</b> from FOXNews.com. Breaking <br>\n<b>news</b> and video. Latest Current <b>News</b>: U.S., World, Entertainment, Health, <br>\nBusiness, Technology, Politics, Sports.",
+            "formattedUrl": "www.foxnews.com/",
+            "htmlFormattedUrl": "www.fox<b>news</b>.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "310",
+                        "height": "163",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6r1gMPWL0mGy86EGZv7unHUFGZeLbRU9haXAs8dvgU0AvnqdxnofzMHT5"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                        "pagetype": "homepage",
+                        "msapplication-square70x70logo": "//global.fncstatic.com/static/orion/styles/img/fox-news/favicons/mstile-70x70.png",
+                        "msapplication-square150x150logo": "//global.fncstatic.com/static/orion/styles/img/fox-news/favicons/mstile-150x150.png",
+                        "msapplication-square310x310logo": "//global.fncstatic.com/static/orion/styles/img/fox-news/favicons/mstile-310x310.png",
+                        "msapplication-wide310x150logo": "//global.fncstatic.com/static/orion/styles/img/fox-news/favicons/mstile-310x150.png",
+                        "msapplication-tilecolor": "#1b4e81",
+                        "theme-color": "#1b4e81",
+                        "apple-mobile-web-app-capable": "yes",
+                        "format-detection": "telephone=no",
+                        "apple-itunes-app": "app-id=367623543",
+                        "dc.title": "Fox News - Breaking News Updates | Latest News Headlines | Photos & News Videos",
+                        "dc.description": "Breaking News, Latest News and Current News from FOXNews.com. Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.",
+                        "dc.language": "en-US",
+                        "dc.publisher": "FOX News",
+                        "dc.date": "2017-12-01 05:35:12 AM",
+                        "dc.format": "text/html",
+                        "dc.type": "Collection",
+                        "dc.subject": "news, breaking news, latest news, current news, world news, national news",
+                        "dcterms.abstract": "Breaking News, Latest News and Current News from FOXNews.com. Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.",
+                        "dcterms.created": "2017-12-01 05:35:12 AM",
+                        "dcterms.modified": "2017-12-01 05:35:12 AM",
+                        "prism.genre": "homePage",
+                        "prism.aggregationtype": "root",
+                        "prism.channel": "fnc",
+                        "prism.section": "root",
+                        "hp_version": "aurora",
+                        "og:title": "Fox News",
+                        "og:description": "Most Watched. Most Trusted.",
+                        "og:type": "website",
+                        "og:image": "http://global.fncstatic.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+                        "og:url": "http://www.foxnews.com",
+                        "og:site_name": "Fox News",
+                        "twitter:account_id": "1367531",
+                        "vr:canonical": "http://www.foxnews.com/home.html",
+                        "fb:pages": "15704546335",
+                        "twitter:card": "app",
+                        "twitter:app:id:iphone": "367623543",
+                        "twitter:app:url:iphone": "//itunes.apple.com/us/app/fox-news/id367623543?mt=8",
+                        "twitter:app:id:ipad": "436484582",
+                        "twitter:app:url:ipad": "//itunes.apple.com/us/app/fox-news-for-ipad/id436484582?mt=8",
+                        "twitter:app:id:googleplay": "com.foxnews.android",
+                        "twitter:app:url:googleplay": "//play.google.com/store/apps/details?id=com.foxnews.android"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://global.fncstatic.com/static/orion/styles/img/fox-news/og/og-fox-news.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Home - BBC News",
+            "htmlTitle": "Home - BBC <b>News</b>",
+            "link": "http://www.bbc.com/news",
+            "displayLink": "www.bbc.com",
+            "snippet": "Visit BBC News for up-to-the-minute news, breaking news, video, audio and \nfeature stories. BBC News provides trusted World and UK news as well as local \nand regional perspectives. Also entertainment, business, science, technology \nand health news.",
+            "htmlSnippet": "Visit BBC <b>News</b> for up-to-the-minute <b>news</b>, breaking <b>news</b>, video, audio and <br>\nfeature stories. BBC <b>News</b> provides trusted World and UK <b>news</b> as well as local <br>\nand regional perspectives. Also entertainment, business, science, technology <br>\nand health <b>news</b>.",
+            "cacheId": "mSK5l2l2Z8gJ",
+            "formattedUrl": "www.bbc.com/news",
+            "htmlFormattedUrl": "www.bbc.com/<b>news</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBycBTuQ-PMBVSCFohkkfjNh-RMQYzkG8FDYCx4Gs-QozNFMod88n9IxwR"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, user-scalable=1",
+                        "og:title": "Home - BBC News",
+                        "og:type": "website",
+                        "og:description": "Visit BBC News for up-to-the-minute news, breaking news, video, audio and feature stories. BBC News provides trusted World and UK news as well as local and regional perspectives. Also entertainment, business, science, technology and health news.",
+                        "og:site_name": "BBC News",
+                        "og:locale": "en_GB",
+                        "article:author": "https://www.facebook.com/bbcnews",
+                        "og:article:section": "Home",
+                        "og:url": "http://www.bbc.co.uk/news",
+                        "og:image": "//m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/1.2.0/bbc_news_logo.png?cb=1",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "@BBCNews",
+                        "twitter:title": "Home - BBC News",
+                        "twitter:description": "Visit BBC News for up-to-the-minute news, breaking news, video, audio and feature stories. BBC News provides trusted World and UK news as well as local and regional perspectives. Also entertainment, business, science, technology and health news.",
+                        "twitter:creator": "@BBCNews",
+                        "twitter:image:src": "//m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/1.2.0/bbc_news_logo.png?cb=1",
+                        "twitter:image:alt": "BBC News",
+                        "twitter:domain": "www.bbc.co.uk",
+                        "msapplication-tileimage": "//m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/1.2.0/windows-eight-icon-144x144.png",
+                        "theme-color": "#bb1919",
+                        "msapplication-tilecolor": "#bb1919",
+                        "x-country": "us",
+                        "x-audience": "US",
+                        "cps_audience": "US",
+                        "cps_changequeueid": "1512112689",
+                        "fb:admins": "100004154058350"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://ichef.bbci.co.uk/news/320/cpsprodpb/36CC/production/_98882041_mediaitem98882040.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "ABC News – Breaking News, Latest News, Headlines & Videos",
+            "htmlTitle": "ABC <b>News</b> – Breaking <b>News</b>, Latest <b>News</b>, Headlines &amp; Videos",
+            "link": "http://abcnews.go.com/",
+            "displayLink": "abcnews.go.com",
+            "snippet": "Your trusted source for breaking news, analysis, exclusive interviews, headlines, \nand videos at ABCNews.com.",
+            "htmlSnippet": "Your trusted source for breaking <b>news</b>, analysis, exclusive interviews, headlines, <br>\nand videos at ABCNews.com.",
+            "formattedUrl": "abcnews.go.com/",
+            "htmlFormattedUrl": "abc<b>news</b>.go.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "120",
+                        "height": "48",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0cE3LUw-fZsUom1Cw6ax-1HJeGeC9WUPbDf2Yj9Bywi3We5cvvHb2Mg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "author": "ABC News",
+                        "copyright": "Copyright (c) 2017 ABC News Internet Ventures",
+                        "viewport": "initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                        "msvalidate.01": "0EABD001D404EA9DDE2025E9E4F14CAF",
+                        "application-name": "ABC News",
+                        "msapplication-tileimage": "http://a.abcnews.com/assets/images/abcn_logo_144x144.png",
+                        "msapplication-tilecolor": "#2368BA",
+                        "msapplication-id": "ABC.ABCNews",
+                        "msapplication-packagefamilyname": "ABC.ABCNews_x0jz7fs5f51ac",
+                        "fb:admins": "704409894",
+                        "fb:app_id": "4942312939",
+                        "fb_title": "ABC News",
+                        "fb:pages": "86680728811",
+                        "og:site_name": "ABC News",
+                        "og:title": "ABC News",
+                        "og:description": "Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com",
+                        "og:url": "http://abcnews.go.com",
+                        "og:type": "website",
+                        "twitter:app:name:iphone": "ABC News",
+                        "twitter:app:id:iphone": "300255638",
+                        "twitter:app:url:iphone": "abcnewsiphone://link/home",
+                        "twitter:app:name:ipad": "ABC News",
+                        "twitter:app:id:ipad": "306934135",
+                        "twitter:app:url:ipad": "abcnewsipad://link/home",
+                        "twitter:image": "http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png",
+                        "al:iphone:url": "abcnewsiphone://link/home",
+                        "al:iphone:app_store_id": "300255638",
+                        "al:iphone:app_name": "ABC News - Breaking US & World News",
+                        "al:ipad:url": "abcnewsipad://link/home",
+                        "al:ipad:app_store_id": "380520716",
+                        "al:ipad:app_name": "ABC News for iPad",
+                        "og:image": "http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png",
+                        "og:image:type": "image/jpeg",
+                        "og:image:width": "120",
+                        "og:image:height": "48"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://a.abcnews.com/assets/beta/assets/abcn_images/abc_logo_aluminum.png"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "name": "Video",
+                        "url": "Video"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "CNN - Breaking News, Latest News and Videos",
+            "htmlTitle": "CNN - Breaking <b>News</b>, Latest <b>News</b> and Videos",
+            "link": "http://www.cnn.com/",
+            "displayLink": "www.cnn.com",
+            "snippet": "View the latest news and breaking news today for U.S., world, weather, \nentertainment, politics and health at CNN.com.",
+            "htmlSnippet": "View the latest <b>news</b> and breaking <b>news</b> today for U.S., world, weather, <br>\nentertainment, politics and health at CNN.com.",
+            "cacheId": "XBvJ7pr5NuMJ",
+            "formattedUrl": "www.cnn.com/",
+            "htmlFormattedUrl": "www.cnn.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMnht6lcXHdALA0TG-id1l7ROyk_xNb5uBYFDsxkPjpFEO-Ms8ljZJ2LCz"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+                        "section": "homepage",
+                        "og:pubdate": "2014-02-19T19:15:05Z",
+                        "pubdate": "2014-02-19T19:15:05Z",
+                        "lastmod": "2017-12-01T11:37:17Z",
+                        "og:url": "http://www.cnn.com",
+                        "og:title": "CNN - Breaking News, Latest News and Videos",
+                        "twitter:title": "CNN - Breaking News, Latest News and Videos",
+                        "og:description": "View the latest news and breaking news today for U.S., world, weather, entertainment, politics and health at CNN.com.",
+                        "twitter:description": "View the latest news and breaking news today for U.S., world, weather, entertainment, politics and health at CNN.com.",
+                        "og:site_name": "CNN",
+                        "twitter:card": "summary_large_image",
+                        "og:type": "website",
+                        "vr:canonical": "http://www.cnn.com",
+                        "fb:app_id": "80401312489",
+                        "fb:pages": "5550296508,18793419640"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://pg-act-11-o.s3-us-west-2.amazonaws.com/11/artwork/show.35.audioart.original.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "News: Latest and Breaking News Stories, Photos & Videos - NBC ...",
+            "htmlTitle": "<b>News</b>: Latest and Breaking <b>News</b> Stories, Photos &amp; Videos - NBC ...",
+            "link": "https://www.nbcnews.com/news",
+            "displayLink": "www.nbcnews.com",
+            "snippet": "Find the top breaking news articles, photos, and videos on NBCNews.com. Read \nheadlines covering top national and global stories on crime, politics, business, \nand more.",
+            "htmlSnippet": "Find the top breaking <b>news</b> articles, photos, and videos on NBCNews.com. Read <br>\nheadlines covering top national and global stories on crime, politics, business, <br>\nand more.",
+            "cacheId": "TveABbffHPIJ",
+            "formattedUrl": "https://www.nbcnews.com/news",
+            "htmlFormattedUrl": "https://www.nbc<b>news</b>.com/<b>news</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "310",
+                        "height": "163",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQotAv4kTzDMnuZMpVyF4E0kOJmxh6XSXzdtMntOE6u-N2GYFFB9YOvcTNO"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "fb:app_id": "10150138890205613",
+                        "fb:pages": "155869377766434",
+                        "og:site_name": "NBC News",
+                        "og:description": "Find the top breaking news articles, photos, and videos on NBCNews.com. Read headlines covering top national and global stories on crime, politics, business, and more.",
+                        "og:title": "News: Latest and Breaking News Stories, Photos & Videos",
+                        "og:url": "https://www.nbcnews.com/news",
+                        "og:type": "article",
+                        "og:image": "https://nodeassets.nbcnews.com/cdnassets/projects/socialshareimages/og-nbcnews1200x630.png",
+                        "twitter:card": "summary",
+                        "twitter:site": "NBCNews",
+                        "twitter:title": "News: Latest and Breaking News Stories, Photos & Videos",
+                        "twitter:description": "Find the top breaking news articles, photos, and videos on NBCNews.com. Read headlines covering top national and global stories on crime, politics, business, and more.",
+                        "twitter:creator": "NBCNews",
+                        "twitter:image": "https://nodeassets.nbcnews.com/cdnassets/projects/socialshareimages/og-nbcnews1024x512.png",
+                        "apple-itunes-app": "app-id=319740707, app-argument=https://www.nbcnews.com/news",
+                        "news_keywords": "News",
+                        "blitz": "mu-e1e842c9-946002e6-ea8f0454-41b29546"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://nodeassets.nbcnews.com/cdnassets/projects/socialshareimages/og-nbcnews1200x630.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Yahoo News - Latest News & Headlines",
+            "htmlTitle": "Yahoo <b>News</b> - Latest <b>News</b> &amp; Headlines",
+            "link": "https://www.yahoo.com/news/",
+            "displayLink": "www.yahoo.com",
+            "snippet": "The latest news and headlines from Yahoo! News. Get breaking news stories and \nin-depth coverage with videos and photos.",
+            "htmlSnippet": "The latest <b>news</b> and headlines from Yahoo! <b>News</b>. Get breaking <b>news</b> stories and <br>\nin-depth coverage with videos and photos.",
+            "cacheId": "5_0_5w8SWZUJ",
+            "formattedUrl": "https://www.yahoo.com/news/",
+            "htmlFormattedUrl": "https://www.yahoo.com/<b>news</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsu8h2qPcbEySow_b11yLyETddWLbICdJLk1xWXl-3molDDR1MTHSgF0Nw"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#6e329d",
+                        "msapplication-tileimage": "https://s.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png",
+                        "referrer": "origin",
+                        "theme-color": "#400090",
+                        "twitter:dnt": "on",
+                        "twitter:site": "@YahooNews",
+                        "application-name": "Yahoo News - Latest News & Headlines",
+                        "twitter:card": "summary",
+                        "apple-itunes-app": "app-id=304158842",
+                        "twitter:description": "The latest news and headlines from Yahoo! News. Get breaking news stories and in-depth coverage with videos and photos.",
+                        "twitter:image": "https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png",
+                        "twitter:image:src": "https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png",
+                        "twitter:title": "Yahoo News - Latest News & Headlines",
+                        "og:type": "website",
+                        "fb:app_id": "90376669494",
+                        "og:description": "The latest news and headlines from Yahoo! News. Get breaking news stories and in-depth coverage with videos and photos.",
+                        "og:image": "https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png",
+                        "og:title": "Yahoo News - Latest News & Headlines"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "News: U.S. and World News Headlines : NPR",
+            "htmlTitle": "<b>News</b>: U.S. and World <b>News</b> Headlines : NPR",
+            "link": "https://www.npr.org/sections/news/",
+            "displayLink": "www.npr.org",
+            "snippet": "NPR news, audio, and podcasts. Coverage of breaking stories, national and \nworld news, politics, business, science, technology, and extended coverage of \nmajor national and world events.",
+            "htmlSnippet": "NPR <b>news</b>, audio, and podcasts. Coverage of breaking stories, national and <br>\nworld <b>news</b>, politics, business, science, technology, and extended coverage of <br>\nmajor national and world events.",
+            "formattedUrl": "https://www.npr.org/sections/news/",
+            "htmlFormattedUrl": "https://www.npr.org/sections/<b>news</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZtjgQjLumkf7-TV8VZbNq0qDy9qWZpVMEFb1AB8c93I2EKD7rKrIAmJqn"
+                    }
+                ],
+                "speakablespecification": [
+                    {
+                        "cssselector": "[data-is-speakable]"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "rating": "General",
+                        "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no",
+                        "date": "2017-09-12",
+                        "og:title": "News",
+                        "og:url": "https://www.npr.org/sections/news/",
+                        "og:type": "article",
+                        "og:description": "NPR news, audio, and podcasts. Coverage of breaking stories, national and world news, politics, business, science, technology, and extended coverage of major national and world events.",
+                        "og:image": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
+                        "og:site_name": "NPR.org",
+                        "fb:app_id": "138837436154588",
+                        "fb:pages": "10643211755",
+                        "twitter:card": "summary",
+                        "twitter:site": "@NPR",
+                        "twitter:domain": "npr.org"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "News",
+            "htmlTitle": "<b>News</b>",
+            "link": "https://www.msn.com/en-us/news",
+            "displayLink": "www.msn.com",
+            "snippet": "Find latest news coverage of breaking news events, trending topics, and \ncompelling articles, photos and videos of US and international news stories.",
+            "htmlSnippet": "Find latest <b>news</b> coverage of breaking <b>news</b> events, trending topics, and <br>\ncompelling articles, photos and videos of US and international <b>news</b> stories.",
+            "cacheId": "bEzoyeeVuzsJ",
+            "formattedUrl": "https://www.msn.com/en-us/news",
+            "htmlFormattedUrl": "https://www.msn.com/en-us/<b>news</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "100",
+                        "height": "100",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHl1SHNEjLfHhimWetGNZu11j_ukhccLpeY1u2bIErKl4gvQQAlNka"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#1e1e1e",
+                        "msapplication-tileimage": "//static-entertainment-wus-s-msn-com.akamaized.net/sc/1f/08ced4.png",
+                        "msapplication-config": "none",
+                        "viewport": "width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no",
+                        "sharing_url": "https://www.msn.com/en-us/news",
+                        "og:url": "https://www.msn.com/en-us/news",
+                        "og:title": "News",
+                        "og:type": "website",
+                        "og:site_name": "MSN",
+                        "og:image": "https://static-entertainment-wus-s-msn-com.akamaized.net/sc/c6/519670.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static-entertainment-wus-s-msn-com.akamaized.net/sc/c6/519670.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "NBC News fires Matt Lauer after sexual misconduct review - NBC ...",
+            "htmlTitle": "NBC <b>News</b> fires Matt Lauer after sexual misconduct review - NBC ...",
+            "link": "https://www.nbcnews.com/storyline/harvey-weinstein-scandal/nbc-news-fires-today-anchor-matt-lauer-after-sexual-misconduct-n824831",
+            "displayLink": "www.nbcnews.com",
+            "snippet": "1 day ago ... Matt Lauer, a familiar face in morning news as the anchor of \"Today\" for two \ndecades, was fired by NBC News after a detailed complaint about inappropriate \nsexual behavior that took place during the 2014 Sochi Olympics. The accusation \nalso noted that the alleged behavior continued in the workplace after ...",
+            "htmlSnippet": "1 day ago <b>...</b> Matt Lauer, a familiar face in morning <b>news</b> as the anchor of &quot;Today&quot; for two <br>\ndecades, was fired by NBC <b>News</b> after a detailed complaint about inappropriate <br>\nsexual behavior that took place during the 2014 Sochi Olympics. The accusation <br>\nalso noted that the alleged behavior continued in the workplace after&nbsp;...",
+            "cacheId": "7dZk58O9AxUJ",
+            "formattedUrl": "https://www.nbcnews.com/.../nbc-news-fires-today-anchor-matt-lauer-after- sexual-misconduct-n824831",
+            "htmlFormattedUrl": "https://www.nbc<b>news</b>.com/.../nbc-<b>news</b>-fires-today-anchor-matt-lauer-after- sexual-misconduct-n824831",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "310",
+                        "height": "163",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_POpr82GGBApWBGOUUgsdOXDRs1TPUCcaF9CLR3fda8E1FjriLegjHZ1i"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "fb:app_id": "10150138890205613",
+                        "fb:pages": "155869377766434",
+                        "og:site_name": "NBC News",
+                        "og:description": "Lauer, the host of 'Today' for two decades, was terminated Wednesday from NBC News after a detailed complaint, said NBC News Chairman Andrew Lack.",
+                        "og:title": "NBC News fires Matt Lauer after sexual misconduct review",
+                        "og:url": "https://www.nbcnews.com/storyline/harvey-weinstein-scandal/nbc-news-fires-today-anchor-matt-lauer-after-sexual-misconduct-n824831",
+                        "og:type": "article",
+                        "og:image": "https://media4.s-nbcnews.com/j/newscms/2017_48/2242801/171129-matt-lauer-mc-1227_7efd4c1aa088bf7867b00153d79d43c3.nbcnews-fp-1200-630.jpg",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "NBCNews",
+                        "twitter:title": "NBC News fires Matt Lauer after sexual misconduct review",
+                        "twitter:description": "Lauer, the host of 'Today' for two decades, was terminated Wednesday from NBC News after a detailed complaint, said NBC News Chairman Andrew Lack.",
+                        "twitter:creator": "NBCNews",
+                        "twitter:image": "https://media4.s-nbcnews.com/j/newscms/2017_48/2242801/171129-matt-lauer-mc-1227_7efd4c1aa088bf7867b00153d79d43c3.nbcnews-fp-1024-512.jpg",
+                        "apple-itunes-app": "app-id=319740707, app-argument=https://www.nbcnews.com/storyline/harvey-weinstein-scandal/nbc-news-fires-today-anchor-matt-lauer-after-sexual-misconduct-n824831",
+                        "news_keywords": "News,U.S. news,TV",
+                        "dc.date.issued": "2017-11-29",
+                        "published": "2017-11-29T19:41:00.000Z",
+                        "blitz": "mu-e1e842c9-946002e6-ea8f0454-41b29546"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://media4.s-nbcnews.com/j/newscms/2017_48/2242801/171129-matt-lauer-mc-1227_7efd4c1aa088bf7867b00153d79d43c3.nbcnews-fp-1200-630.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

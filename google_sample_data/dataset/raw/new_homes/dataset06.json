@@ -1,0 +1,2420 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search -  new homes",
+                "totalResults": "1360000000",
+                "searchTerms": " new homes",
+                "count": 10,
+                "startIndex": 51,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "previousPage": [
+            {
+                "title": "Google Custom Search -  new homes",
+                "totalResults": "1360000000",
+                "searchTerms": " new homes",
+                "count": 10,
+                "startIndex": 41,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search -  new homes",
+                "totalResults": "1360000000",
+                "searchTerms": " new homes",
+                "count": 10,
+                "startIndex": 61,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ]
+    },
+    "context": {
+        "title": "News Home Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.306703,
+        "formattedSearchTime": "0.31",
+        "totalResults": "1360000000",
+        "formattedTotalResults": "1,360,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Columbia SC New Homes | New Home Builder | Homes For Sale ...",
+            "htmlTitle": "Columbia SC <b>New Homes</b> | New Home Builder | Homes For Sale ...",
+            "link": "https://www.mungo.com/columbia/",
+            "displayLink": "www.mungo.com",
+            "snippet": "Mungo Homes is a Columbia, SC new home builder offering new single family \nhomes throughout Greater Columbia, Irmo, Chapin, Lexington and Blythewood, \nSC.",
+            "htmlSnippet": "Mungo <b>Homes</b> is a Columbia, SC <b>new</b> home builder offering <b>new</b> single family <br>\n<b>homes</b> throughout Greater Columbia, Irmo, Chapin, Lexington and Blythewood, <br>\nSC.",
+            "cacheId": "FVM6eF7TShQJ",
+            "formattedUrl": "https://www.mungo.com/columbia/",
+            "htmlFormattedUrl": "https://www.mungo.com/columbia/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "342",
+                        "height": "147",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2lvC8_bF7VQg7GL3n7cgIZFeQ3SlFGJBuP1cT2lZkXTKFYVqCL2y5fcod"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "google-site–verification": "uo8M8yaFc4KlTnntX1Sfh9WstjqMJ6IMm8b8dmga0OU"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.mungo.com/images/ui/region_landing_pages/Columbia.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Home + Apartment Essentials | Urban Outfitters",
+            "htmlTitle": "<b>New</b> Home + Apartment Essentials | Urban Outfitters",
+            "link": "https://www.urbanoutfitters.com/apartment-new-arrivals",
+            "displayLink": "www.urbanoutfitters.com",
+            "snippet": "Check out all of our new home and apartment essentials at Urban Outfitters. \nCustomize your home from our collection of art prints, bookshelves and more.",
+            "htmlSnippet": "Check out all of our <b>new</b> home and apartment essentials at Urban Outfitters. <br>\nCustomize your home from our collection of art prints, bookshelves and more.",
+            "cacheId": "SKLZ2893VQQJ",
+            "formattedUrl": "https://www.urbanoutfitters.com/apartment-new-arrivals",
+            "htmlFormattedUrl": "https://www.urbanoutfitters.com/apartment-<b>new</b>-arrivals",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "183",
+                        "height": "275",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTihyWhR5lpN0pwAUBirJrxucgLbs-mQ2U3WEGZbriVbttyJYuE67KzOPbg"
+                    }
+                ],
+                "product": [
+                    {
+                        "category": "New",
+                        "productid": "45553039",
+                        "url": "https://www.urbanoutfitters.com/shop/riverside-tool-dye-x-uo-sofa?category=apartment-new-arrivals",
+                        "name": "Riverside Tool & Dye X UO Sofa"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45133634",
+                        "url": "https://www.urbanoutfitters.com/shop/sunnylife-ice-cream-neon-sign-table-lamp?category=apartment-new-arrivals",
+                        "name": "Sunnylife Ice Cream Neon Sign Table Lamp"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44782308",
+                        "url": "https://www.urbanoutfitters.com/shop/12-piece-cobalt-dinnerware-set?category=apartment-new-arrivals",
+                        "name": "12-Piece Cobalt Dinnerware Set"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45615267",
+                        "url": "https://www.urbanoutfitters.com/shop/heather-dutton-for-deny-solar-system-duvet-cover?category=apartment-new-arrivals",
+                        "name": "Heather Dutton For Deny Solar System Duvet Cover"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45615333",
+                        "url": "https://www.urbanoutfitters.com/shop/heather-dutton-for-deny-solar-system-pillowcase-set?category=apartment-new-arrivals",
+                        "name": "Heather Dutton For Deny Solar System Pillowcase Set"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45574498",
+                        "url": "https://www.urbanoutfitters.com/shop/mizu-v7-water-bottle?category=apartment-new-arrivals",
+                        "name": "Mizu V7 Water Bottle"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45615838",
+                        "url": "https://www.urbanoutfitters.com/shop/heather-dutton-for-deny-solar-system-shower-curtain?category=apartment-new-arrivals",
+                        "name": "Heather Dutton For Deny Solar System Shower Curtain"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45133519",
+                        "url": "https://www.urbanoutfitters.com/shop/sunnylife-unicorn-neon-sign-table-lamp?category=apartment-new-arrivals",
+                        "name": "Sunnylife Unicorn Neon Sign Table Lamp"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44417608",
+                        "url": "https://www.urbanoutfitters.com/shop/karter-sleeper-sofa?category=apartment-new-arrivals",
+                        "name": "Karter Sleeper Sofa"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45615812",
+                        "url": "https://www.urbanoutfitters.com/shop/emanuela-carratoni-for-deny-delicate-floral-shower-curtain?category=apartment-new-arrivals",
+                        "name": "Emanuela Carratoni For Deny Delicate Floral Shower Curtain"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45574902",
+                        "url": "https://www.urbanoutfitters.com/shop/mizu-stainless-steel-wine-glass-set-of-2?category=apartment-new-arrivals",
+                        "name": "Mizu Stainless Steel Wine Glass - Set Of 2"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45133501",
+                        "url": "https://www.urbanoutfitters.com/shop/sunnylife-mini-unicorn-neon-sign-table-lamp?category=apartment-new-arrivals",
+                        "name": "Sunnylife Mini Unicorn Neon Sign Table Lamp"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45615820",
+                        "url": "https://www.urbanoutfitters.com/shop/83-oranges-for-deny-watercolor-palms-shower-curtain?category=apartment-new-arrivals",
+                        "name": "83 Oranges For Deny Watercolor Palms Shower Curtain"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "37401254",
+                        "url": "https://www.urbanoutfitters.com/shop/emilia-tiered-jewelry-stand?category=apartment-new-arrivals",
+                        "name": "Emilia Tiered Jewelry Stand"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45133576",
+                        "url": "https://www.urbanoutfitters.com/shop/sunnylife-mini-ice-cream-neon-sign-table-lamp?category=apartment-new-arrivals",
+                        "name": "Sunnylife Mini Ice Cream Neon Sign Table Lamp"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45652047",
+                        "url": "https://www.urbanoutfitters.com/shop/rick-and-morty-compilation-book-2-by-tom-fowler-kyle-starks-pamela-ribon?category=apartment-new-arrivals",
+                        "name": "Rick and Morty Compilation Book 2 By Tom Fowler, Kyle Starks & Pamela Ribon"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45596756",
+                        "url": "https://www.urbanoutfitters.com/shop/chamberlin-recycled-leather-love-seat?category=apartment-new-arrivals",
+                        "name": "Chamberlin Recycled Leather Love Seat"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44209997",
+                        "url": "https://www.urbanoutfitters.com/shop/lips-neon-sign-table-lamp?category=apartment-new-arrivals",
+                        "name": "Lips Neon Sign Table Lamp"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "26691345",
+                        "url": "https://www.urbanoutfitters.com/shop/modern-wall-shelf-001?category=apartment-new-arrivals",
+                        "name": "Modern Wall Shelf"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44464394",
+                        "url": "https://www.urbanoutfitters.com/shop/graham-recycled-leather-sofa?category=apartment-new-arrivals",
+                        "name": "Graham Recycled Leather Sofa"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "43598648",
+                        "url": "https://www.urbanoutfitters.com/shop/uo-community-cares-art-start-be-the-light-soy-candle?category=apartment-new-arrivals",
+                        "name": "UO Community Cares + Art Start Be The Light Soy Candle"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44209914",
+                        "url": "https://www.urbanoutfitters.com/shop/love-neon-sign-table-lamp?category=apartment-new-arrivals",
+                        "name": "Love Neon Sign Table Lamp"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44465433",
+                        "url": "https://www.urbanoutfitters.com/shop/piper-petite-recycled-leather-sofa?category=apartment-new-arrivals",
+                        "name": "Piper Petite Recycled Leather Sofa"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45478997",
+                        "url": "https://www.urbanoutfitters.com/shop/lost-found-part-i-by-david-lachapelle?category=apartment-new-arrivals",
+                        "name": "Lost + Found, Part I By David LaChapelle"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44849156",
+                        "url": "https://www.urbanoutfitters.com/shop/llama-love-mug?category=apartment-new-arrivals",
+                        "name": "Llama Love Mug"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44464782",
+                        "url": "https://www.urbanoutfitters.com/shop/sydney-recycled-leather-sofa?category=apartment-new-arrivals",
+                        "name": "Sydney Recycled Leather Sofa"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45012101",
+                        "url": "https://www.urbanoutfitters.com/shop/pendleton-mickey-geo-wool-throw-blanket?category=apartment-new-arrivals",
+                        "name": "Pendleton Mickey Geo Wool Throw Blanket"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44702090",
+                        "url": "https://www.urbanoutfitters.com/shop/yeti-rambler-20oz-tumbler?category=apartment-new-arrivals",
+                        "name": "YETI Rambler 20oz Tumbler"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44486660",
+                        "url": "https://www.urbanoutfitters.com/shop/celia-faded-print-chenille-rug?category=apartment-new-arrivals",
+                        "name": "Celia Faded Print Chenille Rug"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44371987",
+                        "url": "https://www.urbanoutfitters.com/shop/welcome-doormat?category=apartment-new-arrivals",
+                        "name": "Welcome Doormat"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44791580",
+                        "url": "https://www.urbanoutfitters.com/shop/calhoun-co-x-uo-allover-eyes-woven-throw-blanket?category=apartment-new-arrivals",
+                        "name": "Calhoun & Co. X UO Allover Eyes Woven Throw Blanket"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45596715",
+                        "url": "https://www.urbanoutfitters.com/shop/chamberlin-recycled-leather-sectional-sofa?category=apartment-new-arrivals",
+                        "name": "Chamberlin Recycled Leather Sectional Sofa"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44702363",
+                        "url": "https://www.urbanoutfitters.com/shop/yeti-rambler-30oz-tumbler?category=apartment-new-arrivals",
+                        "name": "YETI Rambler 30oz Tumbler"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "42437186",
+                        "url": "https://www.urbanoutfitters.com/shop/rita-ruffle-comforter?category=apartment-new-arrivals",
+                        "name": "Rita Ruffle Comforter"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45119575",
+                        "url": "https://www.urbanoutfitters.com/shop/vegan-the-cookbook-by-jean-christian-jury?category=apartment-new-arrivals",
+                        "name": "Vegan: The Cookbook By Jean-Christian Jury"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45150026",
+                        "url": "https://www.urbanoutfitters.com/shop/poems-that-make-grown-men-cry-by-anthony-holden-ben-holden?category=apartment-new-arrivals",
+                        "name": "Poems That Make Grown Men Cry By Anthony Holden & Ben Holden"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44701167",
+                        "url": "https://www.urbanoutfitters.com/shop/harvey-sofa?category=apartment-new-arrivals",
+                        "name": "Harvey Sofa"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45569811",
+                        "url": "https://www.urbanoutfitters.com/shop/catherine-macdonald-for-deny-cactus-perspective-tapestry?category=apartment-new-arrivals",
+                        "name": "Catherine MacDonald For Deny Cactus Perspective Tapestry"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45306677",
+                        "url": "https://www.urbanoutfitters.com/shop/2018-game-of-thrones-quotes-365-day-desk-calendar?category=apartment-new-arrivals",
+                        "name": "2018 Game Of Thrones Quotes 365-Day Desk Calendar"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45110657",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-rose-pen?category=apartment-new-arrivals",
+                        "name": "Chinatown Market For UO Rose Pen"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45478310",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-thank-you-mug?category=apartment-new-arrivals",
+                        "name": "Chinatown Market For UO Thank You Mug"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45028370",
+                        "url": "https://www.urbanoutfitters.com/shop/uo-community-cares-housing-works-everyone-is-welcome-pillow2?category=apartment-new-arrivals",
+                        "name": "UO Community Cares + Housing Works Everyone Is Welcome Pillow"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45303963",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-drink-up-lowball-glass?category=apartment-new-arrivals",
+                        "name": "Chinatown Market For UO Drink Up Lowball Glass"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44369114",
+                        "url": "https://www.urbanoutfitters.com/shop/myta-bench?category=apartment-new-arrivals",
+                        "name": "Myta Bench"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45111259",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-assorted-coaster-set?category=apartment-new-arrivals",
+                        "name": "Chinatown Market For UO Assorted Coaster Set"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45478237",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-whatever-forever-mug?category=apartment-new-arrivals",
+                        "name": "Chinatown Market For UO Whatever Forever Mug"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45566817",
+                        "url": "https://www.urbanoutfitters.com/shop/catherine-macdonald-for-deny-california-coast-tapestry?category=apartment-new-arrivals",
+                        "name": "Catherine MacDonald For Deny California Coast Tapestry"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45107364",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-whatever-forever-throw-pillow?category=apartment-new-arrivals",
+                        "name": "Chinatown Market For UO Whatever Forever Throw Pillow"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44478287",
+                        "url": "https://www.urbanoutfitters.com/shop/corkcicle-air-wine-cooler?category=apartment-new-arrivals",
+                        "name": "Corkcicle Air Wine Cooler"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44776268",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-roses-sheet-set?category=apartment-new-arrivals",
+                        "name": "Chinatown Market For UO Roses Sheet Set"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44778462",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-thank-you-pillowcase-set?category=apartment-new-arrivals",
+                        "name": "Chinatown Market For UO Thank You Pillowcase Set"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45114451",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-thank-you-incense-holder?category=apartment-new-arrivals",
+                        "name": "Chinatown Market For UO Thank You Incense Holder"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45461118",
+                        "url": "https://www.urbanoutfitters.com/shop/buddy-assorted-hooks-set?category=apartment-new-arrivals",
+                        "name": "Buddy Assorted Hooks Set"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45107232",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-chill-out-throw-pillow?category=apartment-new-arrivals",
+                        "name": "Chinatown Market For UO Chill Out Throw Pillow"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45303955",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-thank-you-lowball-glass?category=apartment-new-arrivals",
+                        "name": "Chinatown Market For UO Thank You Lowball Glass"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45589819",
+                        "url": "https://www.urbanoutfitters.com/shop/led-zeppelin-poster-tapestry?category=apartment-new-arrivals",
+                        "name": "Led Zeppelin Poster Tapestry"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45694304",
+                        "url": "https://www.urbanoutfitters.com/shop/mini-usb-cat-himalayan-salt-lamp?category=apartment-new-arrivals",
+                        "name": "Mini USB Cat Himalayan Salt Lamp"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45570256",
+                        "url": "https://www.urbanoutfitters.com/shop/chelsea-victoria-for-deny-sunflower-fields-tapestry?category=apartment-new-arrivals",
+                        "name": "Chelsea Victoria For Deny Sunflower Fields Tapestry"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45114675",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-watering-can?category=apartment-new-arrivals",
+                        "name": "Chinatown Market For UO Watering Can"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44885119",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-thank-you-woven-throw-blanket?category=apartment-new-arrivals",
+                        "name": "Chinatown Market For UO Thank You Woven Throw Blanket"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45257656",
+                        "url": "https://www.urbanoutfitters.com/shop/tupac-poster-tapestry?category=apartment-new-arrivals",
+                        "name": "Tupac Poster Tapestry"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44811172",
+                        "url": "https://www.urbanoutfitters.com/shop/emanuela-carratoni-for-deny-jungle-style-pillowcase-set?category=apartment-new-arrivals",
+                        "name": "Emanuela Carratoni For Deny Jungle Style Pillowcase Set"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45021086",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-smiley-doormat?category=apartment-new-arrivals",
+                        "name": "Chinatown Market For UO Smiley Doormat"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44620151",
+                        "url": "https://www.urbanoutfitters.com/shop/2018-game-of-thrones-12-month-wall-calendar?category=apartment-new-arrivals",
+                        "name": "2018 Game of Thrones 12-Month Wall Calendar"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45589702",
+                        "url": "https://www.urbanoutfitters.com/shop/metallica-poster-tapestry?category=apartment-new-arrivals",
+                        "name": "Metallica Poster Tapestry"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45110376",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-darkest-secrets-notebook2?category=apartment-new-arrivals",
+                        "name": "Chinatown Market For UO Darkest Secrets Notebook"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45106358",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-thank-you-leash?category=apartment-new-arrivals",
+                        "name": "Chinatown Market For UO Thank You Leash"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45098811",
+                        "url": "https://www.urbanoutfitters.com/shop/mini-waffle-cookbook?category=apartment-new-arrivals",
+                        "name": "Mini Waffle Cookbook"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45021102",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-thank-you-doormat?category=apartment-new-arrivals",
+                        "name": "Chinatown Market For UO Thank You Doormat"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45110350",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-thank-you-notebook2?category=apartment-new-arrivals",
+                        "name": "Chinatown Market For UO Thank You Notebook"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44620060",
+                        "url": "https://www.urbanoutfitters.com/shop/2018-bobs-burgers-12-month-wall-calendar?category=apartment-new-arrivals",
+                        "name": "2018 Bob's Burgers 12-Month Wall Calendar"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44843696",
+                        "url": "https://www.urbanoutfitters.com/shop/lelanne-folk-tapestry?category=apartment-new-arrivals",
+                        "name": "Lelanne Folk Tapestry"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45306974",
+                        "url": "https://www.urbanoutfitters.com/shop/2018-my-canadian-boyfriend-12-month-wall-calendar?category=apartment-new-arrivals",
+                        "name": "2018 My Canadian Boyfriend 12-Month Wall Calendar"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "43949353",
+                        "url": "https://www.urbanoutfitters.com/shop/copper-bar-cocktail-shaker-set?category=apartment-new-arrivals",
+                        "name": "Copper Bar Cocktail Shaker Set"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44620219",
+                        "url": "https://www.urbanoutfitters.com/shop/2018-awkward-family-photos-365-day-desk-calendar?category=apartment-new-arrivals",
+                        "name": "2018 Awkward Family Photos 365-Day Desk Calendar"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "43846088",
+                        "url": "https://www.urbanoutfitters.com/shop/candy-making-kit?category=apartment-new-arrivals",
+                        "name": "Candy Making Kit"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45634516",
+                        "url": "https://www.urbanoutfitters.com/shop/everplush-10-piece-diamond-jacquard-bath-towel-set?category=apartment-new-arrivals",
+                        "name": "Everplush 10-Piece Diamond Jacquard Bath Towel Set"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "43853969",
+                        "url": "https://www.urbanoutfitters.com/shop/viski-chrome-shot-glass-set?category=apartment-new-arrivals",
+                        "name": "Viski Chrome Shot Glass Set"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44808335",
+                        "url": "https://www.urbanoutfitters.com/shop/watermelon-neon-sign?category=apartment-new-arrivals",
+                        "name": "Watermelon Neon Sign"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45633724",
+                        "url": "https://www.urbanoutfitters.com/shop/everplush-diamond-jacquard-oversized-bath-towel-set?category=apartment-new-arrivals",
+                        "name": "Everplush Diamond Jacquard Oversized Bath Towel Set"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "43877406",
+                        "url": "https://www.urbanoutfitters.com/shop/copper-wine-glass?category=apartment-new-arrivals",
+                        "name": "Copper Wine Glass"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "43949254",
+                        "url": "https://www.urbanoutfitters.com/shop/oil-slick-bar-cocktail-shaker-set?category=apartment-new-arrivals",
+                        "name": "Oil Slick Bar Cocktail Shaker Set"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "42437657",
+                        "url": "https://www.urbanoutfitters.com/shop/rita-ruffle-sham-set?category=apartment-new-arrivals",
+                        "name": "Rita Ruffle Sham Set"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45634458",
+                        "url": "https://www.urbanoutfitters.com/shop/everplush-6-piece-diamond-jacquard-bath-towel-set?category=apartment-new-arrivals",
+                        "name": "Everplush 6-Piece Diamond Jacquard Bath Towel Set"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45228079",
+                        "url": "https://www.urbanoutfitters.com/shop/bacci-chair?category=apartment-new-arrivals",
+                        "name": "Bacci Chair"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44849347",
+                        "url": "https://www.urbanoutfitters.com/shop/i-believe-mug?category=apartment-new-arrivals",
+                        "name": "I Believe Mug"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "43897404",
+                        "url": "https://www.urbanoutfitters.com/shop/hidden-tiger-print-rug?category=apartment-new-arrivals",
+                        "name": "Hidden Tiger Print Rug"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45227378",
+                        "url": "https://www.urbanoutfitters.com/shop/foila-dining-table?category=apartment-new-arrivals",
+                        "name": "Foila Dining Table"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45424868",
+                        "url": "https://www.urbanoutfitters.com/shop/yeti-limited-edition-pink-roadie-cooler?category=apartment-new-arrivals",
+                        "name": "YETI Limited Edition Pink Roadie Cooler"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44715936",
+                        "url": "https://www.urbanoutfitters.com/shop/maya-worn-carpet-duvet-cover?category=apartment-new-arrivals",
+                        "name": "Maya Worn Carpet Duvet Cover"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "44716272",
+                        "url": "https://www.urbanoutfitters.com/shop/maya-worn-carpet-sham-set?category=apartment-new-arrivals",
+                        "name": "Maya Worn Carpet Sham Set"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45227972",
+                        "url": "https://www.urbanoutfitters.com/shop/canary-bench?category=apartment-new-arrivals",
+                        "name": "Canary Bench"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45387685",
+                        "url": "https://www.urbanoutfitters.com/shop/secret-holiday-co-its-ok-banner?category=apartment-new-arrivals",
+                        "name": "Secret Holiday & Co. It’s OK Banner"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "36710812",
+                        "url": "https://www.urbanoutfitters.com/shop/berber-bath-mat?category=apartment-new-arrivals",
+                        "name": "Berber Bath Mat"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45072675",
+                        "url": "https://www.urbanoutfitters.com/shop/plug-in-tv-double-dragon-arcade-game?category=apartment-new-arrivals",
+                        "name": "Plug-In TV Double Dragon Arcade Game"
+                    },
+                    {
+                        "category": "New",
+                        "productid": "45228988",
+                        "url": "https://www.urbanoutfitters.com/shop/lombardi-adjustable-desk-chair?category=apartment-new-arrivals",
+                        "name": "Lombardi Adjustable Desk Chair"
+                    }
+                ],
+                "aggregateoffer": [
+                    {
+                        "lowprice": "1800.0",
+                        "highprice": "1800.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "65.0",
+                        "highprice": "65.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "69.0",
+                        "highprice": "69.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "129.0",
+                        "highprice": "169.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "49.0",
+                        "highprice": "49.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "37.0",
+                        "highprice": "37.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "89.0",
+                        "highprice": "89.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "65.0",
+                        "highprice": "65.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "699.0",
+                        "highprice": "699.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "89.0",
+                        "highprice": "89.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "34.0",
+                        "highprice": "34.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "26.0",
+                        "highprice": "26.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "89.0",
+                        "highprice": "89.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "39.0",
+                        "highprice": "39.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "26.0",
+                        "highprice": "26.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "49.99",
+                        "highprice": "49.99",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "699.0",
+                        "highprice": "699.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "39.0",
+                        "highprice": "39.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "29.0",
+                        "highprice": "29.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "1399.0",
+                        "highprice": "1399.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "20.0",
+                        "highprice": "20.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "39.0",
+                        "highprice": "39.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "999.0",
+                        "highprice": "999.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "69.99",
+                        "highprice": "69.99",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "10.0",
+                        "highprice": "10.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "899.0",
+                        "highprice": "899.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "199.0",
+                        "highprice": "199.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "29.99",
+                        "highprice": "29.99",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "39.0",
+                        "highprice": "189.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "29.0",
+                        "highprice": "29.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "108.0",
+                        "highprice": "108.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "1099.0",
+                        "highprice": "1099.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "34.99",
+                        "highprice": "34.99",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "169.0",
+                        "highprice": "229.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "49.95",
+                        "highprice": "49.95",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "17.0",
+                        "highprice": "17.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "849.0",
+                        "highprice": "849.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "69.0",
+                        "highprice": "69.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "14.99",
+                        "highprice": "14.99",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "5.0",
+                        "highprice": "5.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "10.0",
+                        "highprice": "10.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "39.0",
+                        "highprice": "39.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "7.0",
+                        "highprice": "7.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "249.0",
+                        "highprice": "249.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "12.0",
+                        "highprice": "12.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "10.0",
+                        "highprice": "10.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "69.0",
+                        "highprice": "69.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "39.0",
+                        "highprice": "39.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "25.0",
+                        "highprice": "25.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "99.0",
+                        "highprice": "99.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "39.0",
+                        "highprice": "39.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "18.0",
+                        "highprice": "18.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "24.0",
+                        "highprice": "24.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "39.0",
+                        "highprice": "39.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "7.0",
+                        "highprice": "7.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "19.0",
+                        "highprice": "19.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "29.0",
+                        "highprice": "29.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "69.0",
+                        "highprice": "69.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "29.0",
+                        "highprice": "29.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "99.0",
+                        "highprice": "99.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "19.0",
+                        "highprice": "19.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "49.0",
+                        "highprice": "49.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "39.0",
+                        "highprice": "39.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "14.99",
+                        "highprice": "14.99",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "19.0",
+                        "highprice": "19.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "20.0",
+                        "highprice": "20.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "24.0",
+                        "highprice": "24.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "9.99",
+                        "highprice": "9.99",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "39.0",
+                        "highprice": "39.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "20.0",
+                        "highprice": "20.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "14.99",
+                        "highprice": "14.99",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "49.0",
+                        "highprice": "49.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "14.99",
+                        "highprice": "14.99",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "39.0",
+                        "highprice": "39.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "14.99",
+                        "highprice": "14.99",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "39.0",
+                        "highprice": "39.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "150.0",
+                        "highprice": "150.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "37.99",
+                        "highprice": "37.99",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "69.0",
+                        "highprice": "69.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "60.0",
+                        "highprice": "60.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "14.0",
+                        "highprice": "14.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "39.0",
+                        "highprice": "39.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "49.0",
+                        "highprice": "49.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "60.0",
+                        "highprice": "60.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "229.0",
+                        "highprice": "229.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "10.0",
+                        "highprice": "10.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "39.0",
+                        "highprice": "39.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "549.0",
+                        "highprice": "549.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "199.99",
+                        "highprice": "199.99",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "89.0",
+                        "highprice": "139.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "39.0",
+                        "highprice": "39.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "329.0",
+                        "highprice": "329.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "60.0",
+                        "highprice": "60.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "39.0",
+                        "highprice": "49.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "28.0",
+                        "highprice": "28.0",
+                        "pricecurrency": "USD"
+                    },
+                    {
+                        "lowprice": "229.0",
+                        "highprice": "229.0",
+                        "pricecurrency": "USD"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45553039_066_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45133634_010_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44782308_040_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45615267_001_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45615333_001_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45574498_004_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45615838_001_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45133519_010_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44417608_005_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45615812_053_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45574902_010_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45133501_010_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45615820_030_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/37401254_028_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45133576_010_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45652047_000_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45596756_020_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44209997_066_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/26691345_006_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44464394_020_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43598648_053_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44209914_066_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44465433_020_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45478997_000_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44849156_066_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44464782_020_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45012101_001_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44702090_066_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44486660_043_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44371987_018_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44791580_018_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45596715_020_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44702363_066_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42437186_010_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45119575_000_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45150026_000_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44701167_064_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45569811_030_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45306677_001_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45110657_060_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45478310_030_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45028370_001_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45303963_060_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44369114_020_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45111259_095_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45478237_060_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45566817_095_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45107364_014_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44478287_007_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44776268_060_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44778462_060_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45114451_001_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45461118_001_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45107232_095_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45303955_030_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45589819_018_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45694304_067_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45570256_070_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45114675_030_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44885119_095_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45257656_001_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44811172_049_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45021086_111_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44620151_001_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45589702_001_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45110376_060_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45106358_095_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45098811_000_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45021102_111_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45110350_001_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44620060_095_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44843696_055_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45306974_060_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43949353_028_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44620219_095_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43846088_046_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45634516_004_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43853969_007_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44808335_000_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45633724_004_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43877406_028_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43949254_095_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/42437657_065_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45634458_004_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45228079_012_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44849347_030_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/43897404_023_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45227378_020_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45424868_066_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44715936_053_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44716272_053_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45227972_040_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45387685_012_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/36710812_083_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45072675_095_b?hei=400"
+                    },
+                    {
+                        "url": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45228988_001_b?hei=400"
+                    }
+                ],
+                "entrypoint": [
+                    {
+                        "urltemplate": "anthro://apartment-new-arrivals"
+                    }
+                ],
+                "aggregaterating": [
+                    {
+                        "ratingcount": "3",
+                        "ratingvalue": "3.0"
+                    },
+                    {
+                        "ratingcount": "22",
+                        "ratingvalue": "3.8636"
+                    },
+                    {
+                        "ratingcount": "4",
+                        "ratingvalue": "3.5"
+                    },
+                    {
+                        "ratingcount": "3",
+                        "ratingvalue": "2.3333"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "fb:app_id": "618264918228548",
+                        "fb:admins": "1,424,490,020,837,530",
+                        "og:site_name": "Urban Outfitters",
+                        "og:locale": "en-US",
+                        "og:type": "product.group",
+                        "og:ttl": "604800",
+                        "og:image": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45553039_066_b",
+                        "og:url": "https://www.urbanoutfitters.com/apartment-new-arrivals",
+                        "og:title": "New Home + Apartment Essentials",
+                        "og:description": "Check out all of our new home and apartment essentials at Urban Outfitters. Customize your home from our collection of art prints, bookshelves and more.",
+                        "apple-itunes-app": "app-id=358821736,affiliate-data=ct=APP-_-WEB_SMARTBANNER_ANTHRO-_-apartment-new-arrivals&pt=105840812, app-argument=urbanout://category/apartment-new-arrivals?cm_mmc=APP-_-WEB_SMARTBANNER_ANTHRO-_-apartment-new-arrivals-_-11302017"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "url": "https://www.urbanoutfitters.com/apartment-new-arrivals"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.urbanoutfitters.com/is/image/UrbanOutfitters/45133519_010_b?$medium$&fit=constrain"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "url": "Women's",
+                        "name": "Women's"
+                    },
+                    {
+                        "name": "Furniture + Room Decor",
+                        "url": "https://www.urbanoutfitters.com/new-furniture-room-decor"
+                    }
+                ],
+                "hproduct": [
+                    {
+                        "fn": "Riverside Tool & Dye X UO Sofa",
+                        "url": "https://www.urbanoutfitters.com/shop/riverside-tool-dye-x-uo-sofa?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Sunnylife Ice Cream Neon Sign Table Lamp",
+                        "url": "https://www.urbanoutfitters.com/shop/sunnylife-ice-cream-neon-sign-table-lamp?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "12-Piece Cobalt Dinnerware Set",
+                        "url": "https://www.urbanoutfitters.com/shop/12-piece-cobalt-dinnerware-set?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Heather Dutton For Deny Solar System Duvet Cover",
+                        "url": "https://www.urbanoutfitters.com/shop/heather-dutton-for-deny-solar-system-duvet-cover?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Heather Dutton For Deny Solar System Pillowcase Set",
+                        "url": "https://www.urbanoutfitters.com/shop/heather-dutton-for-deny-solar-system-pillowcase-set?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Mizu V7 Water Bottle",
+                        "url": "https://www.urbanoutfitters.com/shop/mizu-v7-water-bottle?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Heather Dutton For Deny Solar System Shower Curtain",
+                        "url": "https://www.urbanoutfitters.com/shop/heather-dutton-for-deny-solar-system-shower-curtain?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Sunnylife Unicorn Neon Sign Table Lamp",
+                        "url": "https://www.urbanoutfitters.com/shop/sunnylife-unicorn-neon-sign-table-lamp?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Karter Sleeper Sofa",
+                        "url": "https://www.urbanoutfitters.com/shop/karter-sleeper-sofa?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Emanuela Carratoni For Deny Delicate Floral Shower Curtain",
+                        "url": "https://www.urbanoutfitters.com/shop/emanuela-carratoni-for-deny-delicate-floral-shower-curtain?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Mizu Stainless Steel Wine Glass - Set Of 2",
+                        "url": "https://www.urbanoutfitters.com/shop/mizu-stainless-steel-wine-glass-set-of-2?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Sunnylife Mini Unicorn Neon Sign Table Lamp",
+                        "url": "https://www.urbanoutfitters.com/shop/sunnylife-mini-unicorn-neon-sign-table-lamp?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "83 Oranges For Deny Watercolor Palms Shower Curtain",
+                        "url": "https://www.urbanoutfitters.com/shop/83-oranges-for-deny-watercolor-palms-shower-curtain?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Emilia Tiered Jewelry Stand",
+                        "url": "https://www.urbanoutfitters.com/shop/emilia-tiered-jewelry-stand?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Sunnylife Mini Ice Cream Neon Sign Table Lamp",
+                        "url": "https://www.urbanoutfitters.com/shop/sunnylife-mini-ice-cream-neon-sign-table-lamp?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Rick and Morty Compilation Book 2 By Tom Fowler, Kyle Starks & Pamela Ribon",
+                        "url": "https://www.urbanoutfitters.com/shop/rick-and-morty-compilation-book-2-by-tom-fowler-kyle-starks-pamela-ribon?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Chamberlin Recycled Leather Love Seat",
+                        "url": "https://www.urbanoutfitters.com/shop/chamberlin-recycled-leather-love-seat?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Lips Neon Sign Table Lamp",
+                        "url": "https://www.urbanoutfitters.com/shop/lips-neon-sign-table-lamp?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Modern Wall Shelf",
+                        "url": "https://www.urbanoutfitters.com/shop/modern-wall-shelf-001?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Graham Recycled Leather Sofa",
+                        "url": "https://www.urbanoutfitters.com/shop/graham-recycled-leather-sofa?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "UO Community Cares + Art Start Be The Light Soy Candle",
+                        "url": "https://www.urbanoutfitters.com/shop/uo-community-cares-art-start-be-the-light-soy-candle?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Love Neon Sign Table Lamp",
+                        "url": "https://www.urbanoutfitters.com/shop/love-neon-sign-table-lamp?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Piper Petite Recycled Leather Sofa",
+                        "url": "https://www.urbanoutfitters.com/shop/piper-petite-recycled-leather-sofa?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Lost + Found, Part I By David LaChapelle",
+                        "url": "https://www.urbanoutfitters.com/shop/lost-found-part-i-by-david-lachapelle?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Llama Love Mug",
+                        "url": "https://www.urbanoutfitters.com/shop/llama-love-mug?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Sydney Recycled Leather Sofa",
+                        "url": "https://www.urbanoutfitters.com/shop/sydney-recycled-leather-sofa?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Pendleton Mickey Geo Wool Throw Blanket",
+                        "url": "https://www.urbanoutfitters.com/shop/pendleton-mickey-geo-wool-throw-blanket?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "YETI Rambler 20oz Tumbler",
+                        "url": "https://www.urbanoutfitters.com/shop/yeti-rambler-20oz-tumbler?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Celia Faded Print Chenille Rug",
+                        "url": "https://www.urbanoutfitters.com/shop/celia-faded-print-chenille-rug?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Welcome Doormat",
+                        "url": "https://www.urbanoutfitters.com/shop/welcome-doormat?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Calhoun & Co. X UO Allover Eyes Woven Throw Blanket",
+                        "url": "https://www.urbanoutfitters.com/shop/calhoun-co-x-uo-allover-eyes-woven-throw-blanket?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Chamberlin Recycled Leather Sectional Sofa",
+                        "url": "https://www.urbanoutfitters.com/shop/chamberlin-recycled-leather-sectional-sofa?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "YETI Rambler 30oz Tumbler",
+                        "url": "https://www.urbanoutfitters.com/shop/yeti-rambler-30oz-tumbler?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Rita Ruffle Comforter",
+                        "url": "https://www.urbanoutfitters.com/shop/rita-ruffle-comforter?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Vegan: The Cookbook By Jean-Christian Jury",
+                        "url": "https://www.urbanoutfitters.com/shop/vegan-the-cookbook-by-jean-christian-jury?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Poems That Make Grown Men Cry By Anthony Holden & Ben Holden",
+                        "url": "https://www.urbanoutfitters.com/shop/poems-that-make-grown-men-cry-by-anthony-holden-ben-holden?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Harvey Sofa",
+                        "url": "https://www.urbanoutfitters.com/shop/harvey-sofa?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Catherine MacDonald For Deny Cactus Perspective Tapestry",
+                        "url": "https://www.urbanoutfitters.com/shop/catherine-macdonald-for-deny-cactus-perspective-tapestry?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "2018 Game Of Thrones Quotes 365-Day Desk Calendar",
+                        "url": "https://www.urbanoutfitters.com/shop/2018-game-of-thrones-quotes-365-day-desk-calendar?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Chinatown Market For UO Rose Pen",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-rose-pen?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Chinatown Market For UO Thank You Mug",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-thank-you-mug?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "UO Community Cares + Housing Works Everyone Is Welcome Pillow",
+                        "url": "https://www.urbanoutfitters.com/shop/uo-community-cares-housing-works-everyone-is-welcome-pillow2?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Chinatown Market For UO Drink Up Lowball Glass",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-drink-up-lowball-glass?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Myta Bench",
+                        "url": "https://www.urbanoutfitters.com/shop/myta-bench?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Chinatown Market For UO Assorted Coaster Set",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-assorted-coaster-set?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Chinatown Market For UO Whatever Forever Mug",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-whatever-forever-mug?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Catherine MacDonald For Deny California Coast Tapestry",
+                        "url": "https://www.urbanoutfitters.com/shop/catherine-macdonald-for-deny-california-coast-tapestry?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Chinatown Market For UO Whatever Forever Throw Pillow",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-whatever-forever-throw-pillow?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Corkcicle Air Wine Cooler",
+                        "url": "https://www.urbanoutfitters.com/shop/corkcicle-air-wine-cooler?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Chinatown Market For UO Roses Sheet Set",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-roses-sheet-set?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Chinatown Market For UO Thank You Pillowcase Set",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-thank-you-pillowcase-set?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Chinatown Market For UO Thank You Incense Holder",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-thank-you-incense-holder?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Buddy Assorted Hooks Set",
+                        "url": "https://www.urbanoutfitters.com/shop/buddy-assorted-hooks-set?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Chinatown Market For UO Chill Out Throw Pillow",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-chill-out-throw-pillow?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Chinatown Market For UO Thank You Lowball Glass",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-thank-you-lowball-glass?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Led Zeppelin Poster Tapestry",
+                        "url": "https://www.urbanoutfitters.com/shop/led-zeppelin-poster-tapestry?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Mini USB Cat Himalayan Salt Lamp",
+                        "url": "https://www.urbanoutfitters.com/shop/mini-usb-cat-himalayan-salt-lamp?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Chelsea Victoria For Deny Sunflower Fields Tapestry",
+                        "url": "https://www.urbanoutfitters.com/shop/chelsea-victoria-for-deny-sunflower-fields-tapestry?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Chinatown Market For UO Watering Can",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-watering-can?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Chinatown Market For UO Thank You Woven Throw Blanket",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-thank-you-woven-throw-blanket?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Tupac Poster Tapestry",
+                        "url": "https://www.urbanoutfitters.com/shop/tupac-poster-tapestry?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Emanuela Carratoni For Deny Jungle Style Pillowcase Set",
+                        "url": "https://www.urbanoutfitters.com/shop/emanuela-carratoni-for-deny-jungle-style-pillowcase-set?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Chinatown Market For UO Smiley Doormat",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-smiley-doormat?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "2018 Game of Thrones 12-Month Wall Calendar",
+                        "url": "https://www.urbanoutfitters.com/shop/2018-game-of-thrones-12-month-wall-calendar?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Metallica Poster Tapestry",
+                        "url": "https://www.urbanoutfitters.com/shop/metallica-poster-tapestry?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Chinatown Market For UO Darkest Secrets Notebook",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-darkest-secrets-notebook2?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Chinatown Market For UO Thank You Leash",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-thank-you-leash?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Mini Waffle Cookbook",
+                        "url": "https://www.urbanoutfitters.com/shop/mini-waffle-cookbook?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Chinatown Market For UO Thank You Doormat",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-thank-you-doormat?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Chinatown Market For UO Thank You Notebook",
+                        "url": "https://www.urbanoutfitters.com/shop/chinatown-market-for-uo-thank-you-notebook2?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "2018 Bob's Burgers 12-Month Wall Calendar",
+                        "url": "https://www.urbanoutfitters.com/shop/2018-bobs-burgers-12-month-wall-calendar?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Lelanne Folk Tapestry",
+                        "url": "https://www.urbanoutfitters.com/shop/lelanne-folk-tapestry?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "2018 My Canadian Boyfriend 12-Month Wall Calendar",
+                        "url": "https://www.urbanoutfitters.com/shop/2018-my-canadian-boyfriend-12-month-wall-calendar?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Copper Bar Cocktail Shaker Set",
+                        "url": "https://www.urbanoutfitters.com/shop/copper-bar-cocktail-shaker-set?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "2018 Awkward Family Photos 365-Day Desk Calendar",
+                        "url": "https://www.urbanoutfitters.com/shop/2018-awkward-family-photos-365-day-desk-calendar?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Candy Making Kit",
+                        "url": "https://www.urbanoutfitters.com/shop/candy-making-kit?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Everplush 10-Piece Diamond Jacquard Bath Towel Set",
+                        "url": "https://www.urbanoutfitters.com/shop/everplush-10-piece-diamond-jacquard-bath-towel-set?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Viski Chrome Shot Glass Set",
+                        "url": "https://www.urbanoutfitters.com/shop/viski-chrome-shot-glass-set?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Watermelon Neon Sign",
+                        "url": "https://www.urbanoutfitters.com/shop/watermelon-neon-sign?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Everplush Diamond Jacquard Oversized Bath Towel Set",
+                        "url": "https://www.urbanoutfitters.com/shop/everplush-diamond-jacquard-oversized-bath-towel-set?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Copper Wine Glass",
+                        "url": "https://www.urbanoutfitters.com/shop/copper-wine-glass?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Oil Slick Bar Cocktail Shaker Set",
+                        "url": "https://www.urbanoutfitters.com/shop/oil-slick-bar-cocktail-shaker-set?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Rita Ruffle Sham Set",
+                        "url": "https://www.urbanoutfitters.com/shop/rita-ruffle-sham-set?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Everplush 6-Piece Diamond Jacquard Bath Towel Set",
+                        "url": "https://www.urbanoutfitters.com/shop/everplush-6-piece-diamond-jacquard-bath-towel-set?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Bacci Chair",
+                        "url": "https://www.urbanoutfitters.com/shop/bacci-chair?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "I Believe Mug",
+                        "url": "https://www.urbanoutfitters.com/shop/i-believe-mug?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Hidden Tiger Print Rug",
+                        "url": "https://www.urbanoutfitters.com/shop/hidden-tiger-print-rug?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Foila Dining Table",
+                        "url": "https://www.urbanoutfitters.com/shop/foila-dining-table?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "YETI Limited Edition Pink Roadie Cooler",
+                        "url": "https://www.urbanoutfitters.com/shop/yeti-limited-edition-pink-roadie-cooler?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Maya Worn Carpet Duvet Cover",
+                        "url": "https://www.urbanoutfitters.com/shop/maya-worn-carpet-duvet-cover?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Maya Worn Carpet Sham Set",
+                        "url": "https://www.urbanoutfitters.com/shop/maya-worn-carpet-sham-set?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Canary Bench",
+                        "url": "https://www.urbanoutfitters.com/shop/canary-bench?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Secret Holiday & Co. It’s OK Banner",
+                        "url": "https://www.urbanoutfitters.com/shop/secret-holiday-co-its-ok-banner?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Berber Bath Mat",
+                        "url": "https://www.urbanoutfitters.com/shop/berber-bath-mat?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Plug-In TV Double Dragon Arcade Game",
+                        "url": "https://www.urbanoutfitters.com/shop/plug-in-tv-double-dragon-arcade-game?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    },
+                    {
+                        "fn": "Lombardi Adjustable Desk Chair",
+                        "url": "https://www.urbanoutfitters.com/shop/lombardi-adjustable-desk-chair?category=apartment-new-arrivals",
+                        "currency": "USD",
+                        "currency_iso4217": "840"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "url": "https://www.urbanoutfitters.com/apartment",
+                        "name": "Apartment",
+                        "position": "1"
+                    },
+                    {
+                        "url": "https://www.urbanoutfitters.com/apartment-new-arrivals",
+                        "name": "New",
+                        "position": "2"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Otay Ranch - San Diego New Homes & Townhomes",
+            "htmlTitle": "Otay Ranch - San Diego <b>New Homes</b> &amp; Townhomes",
+            "link": "https://www.otayranch.com/available-homes",
+            "displayLink": "www.otayranch.com",
+            "snippet": "View Otay Ranch available homes for sale in Chula Vista. Only 7.5 miles from all \nthat San Diego has to offer.",
+            "htmlSnippet": "View Otay Ranch available <b>homes</b> for sale in Chula Vista. Only 7.5 miles from all <br>\nthat San Diego has to offer.",
+            "cacheId": "wBRlaYFE-nsJ",
+            "formattedUrl": "https://www.otayranch.com/available-homes",
+            "htmlFormattedUrl": "https://www.otayranch.com/available-<b>homes</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "290",
+                        "height": "174",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCr94zhivDMD3NVIcYzkAA3phQ1cZS95m1KhFoK40k1BsyoQAxnKgMc2Av"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.otayranch.com/sites/default/files/Suwerte%20SMALL.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Flagstaff Arizona New Homes | Miramonte Homes",
+            "htmlTitle": "Flagstaff Arizona <b>New Homes</b> | Miramonte Homes",
+            "link": "https://www.miramontehomes.com/communities/flagstaff/",
+            "displayLink": "www.miramontehomes.com",
+            "snippet": "Miramonte Homes has 8 new home communities in the Flagstaff Area. New \nconstruction homes in central Flagstaff, at Switzer Canyon, Flagstaff Ranch, near \nNAU.",
+            "htmlSnippet": "Miramonte <b>Homes</b> has 8 <b>new</b> home communities in the Flagstaff Area. <b>New</b> <br>\nconstruction <b>homes</b> in central Flagstaff, at Switzer Canyon, Flagstaff Ranch, near <br>\nNAU.",
+            "cacheId": "az4MylS7rP8J",
+            "formattedUrl": "https://www.miramontehomes.com/communities/flagstaff/",
+            "htmlFormattedUrl": "https://www.miramonte<b>homes</b>.com/communities/flagstaff/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240",
+                        "height": "150",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUkWjfugqLGXRku7Z2CAPdFvg5kGY50vIW_d_fQQ0kIBiVF37qUO_bmhaD"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "format-detection": "telephone=yes",
+                        "viewport": "width=device-width, initial-scale=1"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.miramontehomes.com//assets/components/phpthumbof/cache/Single%20Story.46c3d671769fb7a9d691f02e7461b6c0.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Homes in Baldwin Park, Homes for Sale in Baldwin Park",
+            "htmlTitle": "<b>New Homes</b> in Baldwin Park, Homes for Sale in Baldwin Park",
+            "link": "http://williamshomes.com/NEWHOMECOMMUNITIES/LOSANGELESCOUNTY/INDIGO.aspx",
+            "displayLink": "williamshomes.com",
+            "snippet": "Williams Homes is building a brand-new community in Baldwin Park, just east of \nLos Angeles. Register online to receive more information and future updates.",
+            "htmlSnippet": "Williams <b>Homes</b> is building a brand-<b>new</b> community in Baldwin Park, just east of <br>\nLos Angeles. Register online to receive more information and future updates.",
+            "cacheId": "hCc3RbLJN80J",
+            "formattedUrl": "williamshomes.com/NEWHOMECOMMUNITIES/.../INDIGO.aspx",
+            "htmlFormattedUrl": "williams<b>homes</b>.com/<b>NEW</b>HOMECOMMUNITIES/.../INDIGO.aspx",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "233",
+                        "height": "216",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTk7A6nUS8_OoIO75gqZJR0gA66QPfwRd28WU8mxYPD36aLAU_aSdBg0ztC"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "rating": "GENERAL",
+                        "resource-type": "DOCUMENT",
+                        "viewport": "width=device-width, minimum-scale=1.0, maximum-scale=2.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://williamshomes.com/portals/2/LP/Indigo/Indigo_fright.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Homes in Glenarden & Prince George County ... - Woodmore",
+            "htmlTitle": "<b>New Homes</b> in Glenarden &amp; Prince George County ... - Woodmore",
+            "link": "http://www.drhorton.com/Maryland/Maryland/Glenarden/Woodmore-Towne-Centre",
+            "displayLink": "www.drhorton.com",
+            "snippet": "Find your dream home in the sought after neighborhood of Glenarden in Prince \nGeorge County, MD. Featuring hard wood floors and large open kitchens, you \nwill live in luxury in the beautiful Woodmore Towne Centre community.",
+            "htmlSnippet": "Find your dream home in the sought after neighborhood of Glenarden in Prince <br>\nGeorge County, MD. Featuring hard wood floors and large open kitchens, you <br>\nwill live in luxury in the beautiful Woodmore Towne Centre community.",
+            "cacheId": "8_OO0q2v2QwJ",
+            "formattedUrl": "www.drhorton.com/Maryland/Maryland/.../Woodmore-Towne-Centre",
+            "htmlFormattedUrl": "www.drhorton.com/Maryland/Maryland/.../Woodmore-Towne-Centre",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "299",
+                        "height": "169",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLX2I3oJ-xjqGJiFmwInxROQc3NU_FTEhzNfTyyFPZVLR5pZ3ADlDLbN0"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msvalidate.01": "FCFC6D8EC9A4F55734801E9EC31B2637",
+                        "p:domain_verify": "124c5b112895d59dac3c4e31fa81f664",
+                        "com.silverpop.brandeddomains": "www.pages03.net,drhorton.com,drhorton.mkt7064.com"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.drhorton.com/-/media/DRHorton/Sites/Com/States/440_Capital/Maryland/Woodmore-Towne-Centre/Model-Photos/Woodmore-Monticello-Exterior_web.ashx?h=364&la=en&mh=365&mw=644&w=644&hash=66FA493B626CF8B14201BB2A3DF1D79C708CF8E3"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Plano, TX New Homes for Sale & New Construction in Plano, TX ...",
+            "htmlTitle": "Plano, TX <b>New Homes</b> for Sale &amp; New Construction in Plano, TX ...",
+            "link": "https://www.redfin.com/city/30868/TX/Plano/new-homes",
+            "displayLink": "www.redfin.com",
+            "snippet": "Find new real estate, new homes for sale, & new construction in Plano, TX. Tour \nnewly built houses & make offers with the help of Redfin real estate agents.",
+            "htmlSnippet": "Find new real estate, <b>new homes</b> for sale, &amp; new construction in Plano, TX. Tour <br>\nnewly built houses &amp; make offers with the help of Redfin real estate agents.",
+            "cacheId": "RzJqDoDiwaAJ",
+            "formattedUrl": "https://www.redfin.com/city/30868/TX/Plano/new-homes",
+            "htmlFormattedUrl": "https://www.redfin.com/city/30868/TX/Plano/<b>new</b>-<b>homes</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "120",
+                        "height": "120",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-YcskHXhnYyCfalmbGynguRp7f8gKlQSPMURyZbHg9BvCphI-YxgsDg"
+                    }
+                ],
+                "breadcrumb": [
+                    {
+                        "url": "Redfin",
+                        "title": "Redfin"
+                    },
+                    {
+                        "url": "TexasTX",
+                        "title": "Texas"
+                    },
+                    {
+                        "url": "Collin County",
+                        "title": "Collin County"
+                    },
+                    {
+                        "url": "Plano New Homes",
+                        "title": "Plano New Homes"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "Redfin",
+                        "logo": "https://ssl.cdn-redfin.com/static-images/images/redfin-logo-transparent-bg-260x66.png",
+                        "url": "https://www.redfin.com/"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "classification": "Business: Real Estate",
+                        "home_url": "https://www.redfin.com",
+                        "copyright": "Redfin",
+                        "category": "Business: Real Estate",
+                        "author": "Redfin",
+                        "og:image": "https://ssl.cdn-redfin.com/v186.2.1/images/logos/redfin-icon-standard-red-100.png",
+                        "viewport": "user-scalable=0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.redfin.com/stingray/agent/7048/photo/2"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Lennar Homes for Sale in Inland Empire, California",
+            "htmlTitle": "Lennar <b>Homes</b> for Sale in Inland Empire, California",
+            "link": "https://www.lennar.com/new-homes/california/inland-empire",
+            "displayLink": "www.lennar.com",
+            "snippet": "Looking for a new home in the Inland Empire area? Lennar builds quality new \nhomes throughout the most popular areas in the Inland Empire, CA real estate \nmarket.",
+            "htmlSnippet": "Looking for a new home in the Inland Empire area? Lennar builds quality <b>new</b> <br>\n<b>homes</b> throughout the most popular areas in the Inland Empire, CA real estate <br>\nmarket.",
+            "cacheId": "Hd60HMny4UEJ",
+            "formattedUrl": "https://www.lennar.com/new-homes/california/inland-empire",
+            "htmlFormattedUrl": "https://www.lennar.com/<b>new</b>-<b>homes</b>/california/inland-empire",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "335",
+                        "height": "150",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgqOltgURJM4r--Xp6JkWEwh-Kke6kyNfSPyn46CubibNvbdypep2nGWcr"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "page": "Market",
+                        "author": "Lennar",
+                        "scid": "{B6A537AD-64F5-4B3E-BF27-1443140A486F}",
+                        "scpath": "/sitecore/content/Home/New-Homes/California/Inland-Empire",
+                        "og:locality": "Inland Empire",
+                        "state": "CA",
+                        "city id": "INL",
+                        "division id": "INLLEN",
+                        "uri": "/new-homes/california/inland-empire",
+                        "viewport": "width=device-width"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.lennar.net/images/com/images/new-homes/3/32/mhi/Lennar_CitrusHeights_5200d%201200x540.jpg?w=1200&h=540&as=1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Washington Home Builders, New Homes WA | Hayden Homes",
+            "htmlTitle": "Washington Home Builders, <b>New Homes</b> WA | Hayden Homes",
+            "link": "https://www.hayden-homes.com/state/new-homes-washington/",
+            "displayLink": "www.hayden-homes.com",
+            "snippet": "As a Washington home builder for more than two decades, Hayden Homes is \nknown to deliver the best quality, lowest cost in every WA community that we \nbuild.",
+            "htmlSnippet": "As a Washington home builder for more than two decades, Hayden <b>Homes</b> is <br>\nknown to deliver the best quality, lowest cost in every WA community that we <br>\nbuild.",
+            "cacheId": "vj_oQ-nNZxYJ",
+            "formattedUrl": "https://www.hayden-homes.com/state/new-homes-washington/",
+            "htmlFormattedUrl": "https://www.hayden-<b>homes</b>.com/state/<b>new</b>-<b>homes</b>-washington/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "382",
+                        "height": "132",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzEytbDJiC6GiCmXJKSApzCNfBr8k4Qwp4e1-eF-lgBMmevbXmG36hkD1u"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:type": "article",
+                        "og:title": "Washington Home Builders, New Homes WA | Hayden Homes",
+                        "og:description": "As a Washington home builder for more than two decades, Hayden Homes is known to deliver the best quality, lowest cost in every WA community that we build.",
+                        "og:url": "https://www.hayden-homes.com/state/new-homes-washington/",
+                        "og:site_name": "Hayden Homes",
+                        "article:section": "Washington",
+                        "og:image": "https://s3-us-west-2.amazonaws.com/hayden-homes.com.wordpress.or/wp-content/uploads/2016/10/12225422/hero-wa.jpg",
+                        "og:image:secure_url": "https://s3-us-west-2.amazonaws.com/hayden-homes.com.wordpress.or/wp-content/uploads/2016/10/12225422/hero-wa.jpg",
+                        "og:image:width": "1680",
+                        "og:image:height": "580"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s3-us-west-2.amazonaws.com/hayden-homes.com.wordpress.or/wp-content/uploads/2016/10/12225422/hero-wa.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Delaware Beaches - New Home Communities in Delaware",
+            "htmlTitle": "Delaware Beaches - <b>New</b> Home Communities in Delaware",
+            "link": "http://schellbrothers.com/find-new-homes/delaware-beaches/",
+            "displayLink": "schellbrothers.com",
+            "snippet": "Schell Brothers builds Delaware's new construction communities of tomorrow, \ntoday.",
+            "htmlSnippet": "Schell Brothers <b>builds</b> Delaware&#39;s <b>new</b> construction communities of tomorrow, <br>\ntoday.",
+            "cacheId": "HHCFHH_8pdIJ",
+            "formattedUrl": "schellbrothers.com/find-new-homes/delaware-beaches/",
+            "htmlFormattedUrl": "schellbrothers.com/find-<b>new</b>-<b>homes</b>/delaware-beaches/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "164",
+                        "height": "175",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQFC9xEuUAP2b5hdMZIqQoT-jpctGEY5BcwjXXYqxSAG9DYjF1DT5oFAc"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "msvalidate.01": "2E4A6864562E402AD68197A34D8E6FF4",
+                        "p:domain_verify": "b351249a760b81f8f9e8f8ae0969205b",
+                        "y_key": "157adee638041fda",
+                        "og:title": "Delaware Beaches - New Home Communities in Delaware",
+                        "og:type": "website",
+                        "og:url": "http://schellbrothers.com/find-new-homes/delaware-beaches/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://maps.gstatic.com/mapfiles/api-3/images/sv9.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

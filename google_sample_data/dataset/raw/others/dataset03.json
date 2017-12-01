@@ -1,0 +1,480 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - custom",
+                "totalResults": "251000000",
+                "searchTerms": "custom",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - custom",
+                "totalResults": "251000000",
+                "searchTerms": "custom",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ]
+    },
+    "context": {
+        "title": "News Home Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.231546,
+        "formattedSearchTime": "0.23",
+        "totalResults": "251000000",
+        "formattedTotalResults": "251,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Custom T-Shirts - Design Your Own T-Shirts Online - Free Shipping!",
+            "htmlTitle": "<b>Custom</b> T-Shirts - Design Your Own T-Shirts Online - Free Shipping!",
+            "link": "https://www.customink.com/",
+            "displayLink": "www.customink.com",
+            "snippet": "15 years, 50 million custom t-shirts, 99% happy customers! Custom Ink is the t-\nshirt printing expert for your team, school, company, or any occasion.",
+            "htmlSnippet": "15 years, 50 million <b>custom</b> t-shirts, 99% happy customers! <b>Custom</b> Ink is the t-<br>\nshirt printing expert for your team, school, company, or any occasion.",
+            "cacheId": "qUYpW97xPVsJ",
+            "formattedUrl": "https://www.customink.com/",
+            "htmlFormattedUrl": "https://www.<b>custom</b>ink.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "310",
+                        "height": "163",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKYidUGYbqsbGstWsMkd_M8MgSxXp9DFnDrFL6SZP8f5ItyZ0Z2q8wThqh"
+                    }
+                ],
+                "review": [
+                    {
+                        "reviewer": "michael f.",
+                        "reviewdate": "2017-11-30",
+                        "ratingstars": "4.0"
+                    },
+                    {
+                        "datepublished": "2017-11-30 22:56:20 -0500",
+                        "description": "I was again very pleased with the customer service representatives,the product,and the workmanship that was provided by all the employees.."
+                    },
+                    {
+                        "datepublished": "2017-11-30 21:52:31 -0500",
+                        "description": "Excellent service will use again for sure !!!! Shirts print and quality were outstanding!!!"
+                    },
+                    {
+                        "datepublished": "2017-11-30 21:11:59 -0500",
+                        "description": "You guys did great, everything is perfect!"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "michael f."
+                    },
+                    {
+                        "name": "Kevin B."
+                    },
+                    {
+                        "name": "John S."
+                    }
+                ],
+                "hreview": [
+                    {
+                        "dtreviewed": "2017-11-30",
+                        "description": "I was again very pleased with the customer service representatives,the product,and the workmanship that was provided by all the employees.."
+                    },
+                    {
+                        "dtreviewed": "2017-11-30",
+                        "description": "Excellent service will use again for sure !!!! Shirts print and quality were outstanding!!!"
+                    },
+                    {
+                        "dtreviewed": "2017-11-30",
+                        "description": "You guys did great, everything is perfect!"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "CustomInk",
+                        "url": "http://www.customink.com/"
+                    },
+                    {
+                        "name": "CustomInk",
+                        "url": "http://www.customink.com/"
+                    },
+                    {
+                        "name": "CustomInk",
+                        "url": "http://www.customink.com/"
+                    }
+                ],
+                "rating": [
+                    {
+                        "bestrating": "5",
+                        "ratingvalue": "4"
+                    },
+                    {
+                        "bestrating": "5",
+                        "ratingvalue": "5"
+                    },
+                    {
+                        "bestrating": "5",
+                        "ratingvalue": "5"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msvalidate.01": "B12650E67C1849FC724A56F3F2D3EA81",
+                        "fb:page_id": "5699478389",
+                        "apple-mobile-web-app-capable": "yes",
+                        "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+                        "og:title": "Bring your group together with custom t-shirts & more!",
+                        "og:description": "Customize the perfect products to connect your crew, build your brand, or elevate your event. Get start-to-finish help, amazing art, and tons of inspiration. Start designing now!",
+                        "og:image": "https://www.customink.com/assets/site_content/pages/homepage_v3/facebook-opengraph-10a29d27f0be6ffdf90309e85bc9010fa6345d40ec03e10d36479eaec2df263b.jpg",
+                        "og:url": "https://www.customink.com",
+                        "og:site_name": "CustomInk.com",
+                        "og:type": "website",
+                        "msapplication-tap-highlight": "no",
+                        "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                        "handheldfriendly": "True",
+                        "mobileoptimized": "320"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.customink.com/assets/site_content/pages/homepage_v3/facebook-opengraph-10a29d27f0be6ffdf90309e85bc9010fa6345d40ec03e10d36479eaec2df263b.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Custom | Definition of Custom by Merriam-Webster",
+            "htmlTitle": "<b>Custom</b> | Definition of <b>Custom</b> by Merriam-Webster",
+            "link": "https://www.merriam-webster.com/dictionary/custom",
+            "displayLink": "www.merriam-webster.com",
+            "snippet": "Define custom: a usage or practice common to many or to a particular place or \nclass or habitual with an individual — custom in a sentence.",
+            "htmlSnippet": "Define <b>custom</b>: a usage or practice common to many or to a particular place or <br>\nclass or habitual with an individual — <b>custom</b> in a sentence.",
+            "cacheId": "5QDBQi0vsTkJ",
+            "formattedUrl": "https://www.merriam-webster.com/dictionary/custom",
+            "htmlFormattedUrl": "https://www.merriam-webster.com/dictionary/<b>custom</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiWkmAPQIpM4rW0fn6-FEyDE4f_jwhtZtlt5eXAdsNUv8_e_5WlKKCuvI"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "unsafe-url",
+                        "fb:app_id": "178450008855735",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "Definition of CUSTOM",
+                        "og:image": "https://assets2.cdn-mw.com/mw/static/social-media-share/mw-logo-245x245@1x.png",
+                        "og:url": "https://www.merriam-webster.com/dictionary/custom",
+                        "og:description": "a usage or practice common to many or to a particular place or class or habitual with an individual; long-established practice considered as unwritten law; repeated practice… See the full definition",
+                        "twitter:title": "Definition of CUSTOM",
+                        "twitter:image": "https://assets2.cdn-mw.com/mw/static/social-media-share/mw-logo-245x245@1x.png",
+                        "twitter:url": "https://www.merriam-webster.com/dictionary/custom",
+                        "twitter:description": "a usage or practice common to many or to a particular place or class or habitual with an individual… See the full definition",
+                        "twitter:card": "summary",
+                        "twitter:site": "@MerriamWebster"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://assets2.cdn-mw.com/mw/static/social-media-share/mw-logo-245x245@1x.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Custom Synonyms, Custom Antonyms | Thesaurus.com",
+            "htmlTitle": "<b>Custom</b> Synonyms, <b>Custom</b> Antonyms | Thesaurus.com",
+            "link": "http://www.thesaurus.com/browse/custom",
+            "displayLink": "www.thesaurus.com",
+            "snippet": "Synonyms for custom at Thesaurus.com with free online thesaurus, antonyms, \nand definitions. Dictionary and Word of the Day.",
+            "htmlSnippet": "Synonyms for <b>custom</b> at Thesaurus.com with free online thesaurus, antonyms, <br>\nand definitions. Dictionary and Word of the Day.",
+            "cacheId": "Htl_0StDrCQJ",
+            "formattedUrl": "www.thesaurus.com/browse/custom",
+            "htmlFormattedUrl": "www.thesaurus.com/browse/<b>custom</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "64",
+                        "height": "64",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQeNqfxxRkb3-OeR-dTIgPzTxOdkY6kB7r5Z9c4M-nJQx5eUkwKKVzW"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:title": "I found great synonyms for \"custom\" on the new Thesaurus.com!",
+                        "og:site_name": "www.thesaurus.com",
+                        "og:image": "http://static.sfdict.com/thescloud/img/thesaurus_social_logo-208ba.png",
+                        "fb:app_id": "118269238218175",
+                        "fb:admins": "100000304287730,109125464873",
+                        "msvalidate.01": "DF5542D7723770377E9ABFF59AC1DC97"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://static.sfdict.com/thescloud/img/thesaurus_social_logo-208ba.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Custom | Define Custom at Dictionary.com",
+            "htmlTitle": "<b>Custom</b> | Define <b>Custom</b> at Dictionary.com",
+            "link": "http://www.dictionary.com/browse/custom",
+            "displayLink": "www.dictionary.com",
+            "snippet": "Custom definition, a habitual practice; the usual way of acting in given \ncircumstances. See more.",
+            "htmlSnippet": "<b>Custom</b> definition, a habitual practice; the usual way of acting in given <br>\ncircumstances. See more.",
+            "cacheId": "lj32vCLkumAJ",
+            "formattedUrl": "www.dictionary.com/browse/custom",
+            "htmlFormattedUrl": "www.dictionary.com/browse/<b>custom</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "150",
+                        "height": "150",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGjtm3VlIdT0ABBj9ipqgRJ9rBq91fybtyX_lar-pmzUAr83M1fr0pWW0"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "fb:admins": "100000304287730;109125464873",
+                        "og:site_name": "Dictionary.com",
+                        "og:image": "http://static.sfdict.com/dcom/img/social_logo-b8e2f.png",
+                        "fb:app_id": "127444090629600",
+                        "msvalidate.01": "DF5542D7723770377E9ABFF59AC1DC97",
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                        "og:title": "the definition of custom",
+                        "og:url": "http://www.dictionary.com/browse/custom"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://static.sfdict.com/dcom/img/social_logo-b8e2f.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "custom tattoos - inkbox",
+            "htmlTitle": "<b>custom</b> tattoos - inkbox",
+            "link": "https://inkbox.com/custom-tattoos",
+            "displayLink": "inkbox.com",
+            "snippet": "Sorry! We're experiencing a higher-demand than our team can keep up with. Our \nlaser cutters move at the speed of light, unfortunately our team does not. We will \nbe back open in a few days! Learn More. How It Works. No design skill? No \nproblem! inkbox Custom makes it easy for you to be your own tattoo artist! Design\n.",
+            "htmlSnippet": "Sorry! We&#39;re experiencing a higher-demand than our team can keep up with. Our <br>\nlaser cutters move at the speed of light, unfortunately our team does not. We will <br>\nbe back open in a few days! Learn More. How It Works. No design skill? No <br>\nproblem! inkbox <b>Custom</b> makes it easy for you to be your own tattoo artist! Design<br>\n.",
+            "cacheId": "A2MlvLxqxzoJ",
+            "formattedUrl": "https://inkbox.com/custom-tattoos",
+            "htmlFormattedUrl": "https://inkbox.com/<b>custom</b>-tattoos",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "310",
+                        "height": "163",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQW3XuNT8UA0cuZLWnd4e0On1DTp6hXqTaAMdHjFaJyJJwLVcX4dacR-Q7c"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=2, user-scalable=no",
+                        "theme-color": "#212121",
+                        "og:title": "inkbox™ | Semi-Permanent Tattoos. Radically different.",
+                        "og:description": "We make tattoos that last 8-18 days, so you can make your bad decisions temporary. Easy to apply, pain free, and delivered to your door. Shop over 500+ designs or create your own. Let's get inked!",
+                        "og:image": "https://inkbox.com/images/temp_bad_decisions_fb.jpg",
+                        "og:url": "https://inkbox.com",
+                        "og:type": "website",
+                        "og:site_name": "inkbox ink inc.",
+                        "fb:app_id": "727228750716628",
+                        "csrf-token": "HgFmFBdM7HoIcVzeUu6L1LvNzmucgvn1P6bGKfwF"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://inkbox.com/images/how-it-works-video.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "custom - Wiktionary",
+            "htmlTitle": "<b>custom</b> - Wiktionary",
+            "link": "https://en.wiktionary.org/wiki/custom",
+            "displayLink": "en.wiktionary.org",
+            "snippet": "From Middle English custume, from Anglo-Norman custume, from Old French \ncoustume, from Vulgar Latin *cōnsuētūmen, from Latin cōnsuētūdinem, \naccusative singular of cōnsuētūdō (“custom, habit”), from cōnsuēscō (“accustom, \nhabituate”), from con- (“with”) + suēscō (“become used or accustomed”), \ninchoative form of ...",
+            "htmlSnippet": "From Middle English custume, from Anglo-Norman custume, from Old French <br>\ncoustume, from Vulgar Latin *cōnsuētūmen, from Latin cōnsuētūdinem, <br>\naccusative singular of cōnsuētūdō (“<b>custom</b>, habit”), from cōnsuēscō (“accustom, <br>\nhabituate”), from con- (“with”) + suēscō (“become used or accustomed”), <br>\ninchoative form of&nbsp;...",
+            "cacheId": "Je3DeJ-sbk8J",
+            "formattedUrl": "https://en.wiktionary.org/wiki/custom",
+            "htmlFormattedUrl": "https://en.wiktionary.org/wiki/<b>custom</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "referrer": "origin-when-cross-origin"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Men's Custom Shoes | Vans®",
+            "htmlTitle": "Men&#39;s <b>Custom</b> Shoes | Vans®",
+            "link": "https://www.vans.com/customs-mens.html",
+            "displayLink": "www.vans.com",
+            "snippet": "Design your own Custom shoes at Vans. Browse Men's styles. Get started today!",
+            "htmlSnippet": "Design your own <b>Custom</b> shoes at Vans. Browse Men&#39;s styles. Get started today!",
+            "cacheId": "_qXKdbz1xN8J",
+            "formattedUrl": "https://www.vans.com/customs-mens.html",
+            "htmlFormattedUrl": "https://www.vans.com/<b>custom</b>s-mens.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "246",
+                        "height": "205",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQl0HIRjdaFYDoaoky6342o1NhiSbfEKjbmTH3ESe9IYBx-smy6xXwo-jLz"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "vans",
+                        "url": "https://www.vans.com",
+                        "sameas": "https://www.facebook.com/VANS?ref=vanscom"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "storeid": "10153",
+                        "langid": "-1",
+                        "locale": "en_US",
+                        "catalogid": "10703",
+                        "ecomenabled": "true",
+                        "og:title": "Men's Custom Shoes | Vans®",
+                        "og:site_name": "Vans USA - English",
+                        "og:url": "https://www.vans.com/customs-mens.html",
+                        "og:description": "Design your own Custom shoes at Vans. Browse Men's styles. Get started today!"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.vans.com/is/content/VansBrand/english/customs/h17/inspiration/h17-customs-jake-8.gif"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Custom Phone smartphones, phones and accessories | Custom Life",
+            "htmlTitle": "<b>Custom</b> Phone smartphones, phones and accessories | <b>Custom</b> Life",
+            "link": "http://www.customlife.com/",
+            "displayLink": "www.customlife.com",
+            "snippet": "Discover the B2C division of Custom SpA: innovation and technology in your \nhands!",
+            "htmlSnippet": "Discover the B2C division of <b>Custom</b> SpA: innovation and technology in your <br>\nhands!",
+            "cacheId": "HqtVVoePqGIJ",
+            "formattedUrl": "www.customlife.com/",
+            "htmlFormattedUrl": "www.<b>custom</b>life.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "190",
+                        "height": "266",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThsT2R_2Kj4JGzlhMpSVRNnPD9H2zV1Etez3EnI6RGfbwQRScy8v8HSbE"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:locale": "it_IT"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.customlife.com/uploads/media/cache/thumbnail_resize/uploads/media/nr_product/0001/01/862868c7f3228f00f93180afe861fb79f2cc5738.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "About Facebook Custom Audiences | Facebook Help Center ...",
+            "htmlTitle": "About Facebook <b>Custom</b> Audiences | Facebook Help Center ...",
+            "link": "https://www.facebook.com/business/help/744354708981227",
+            "displayLink": "www.facebook.com",
+            "snippet": "A Custom Audience is an ad targeting option that lets advertisers find their \nexisting audiences among people who are on Facebook.",
+            "htmlSnippet": "A <b>Custom</b> Audience is an ad targeting option that lets advertisers find their <br>\nexisting audiences among people who are on Facebook.",
+            "cacheId": "2nxWrDiToXEJ",
+            "formattedUrl": "https://www.facebook.com/business/help/744354708981227",
+            "htmlFormattedUrl": "https://www.facebook.com/business/help/744354708981227",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "referrer": "default",
+                        "og:url": "https://www.facebook.com/business/help/744354708981227",
+                        "og:locale": "en_US",
+                        "og:locale:alternate": "ar_AR",
+                        "og:title": "Help Center",
+                        "search.helptype": "faq desktop basic touch android iphone ipad everyphone-standard fblite",
+                        "search.searchable": "true"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Custom Cat",
+            "htmlTitle": "<b>Custom</b> Cat",
+            "link": "https://www.customcat.com/",
+            "displayLink": "www.customcat.com",
+            "snippet": "Integration Options. Shopify CustomCat. Fulfillment App. Learn More · \nWooCommerce CustomCat. Fulfillment App. Learn More · Custom Integrations. \nLearn More · Orders by CSV. Learn More ...",
+            "htmlSnippet": "Integration Options. Shopify CustomCat. Fulfillment App. Learn More &middot; <br>\nWooCommerce CustomCat. Fulfillment App. Learn More &middot; <b>Custom</b> Integrations. <br>\nLearn More &middot; Orders by CSV. Learn More&nbsp;...",
+            "cacheId": "vI8Sz-qbwW0J",
+            "formattedUrl": "https://www.customcat.com/",
+            "htmlFormattedUrl": "https://www.<b>custom</b>cat.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "310",
+                        "height": "162",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPeZPsadeIXga6ih1ugb5o6B-Kw573TlM8B90ZnmfGn8rzr1eQBow8P6M"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "CustomCat - Create and Sell 100s of Products Online",
+                        "og:description": "Customize and sell over 200 quality products with no risk or up-front costs. Sell using crowd funding and social media to generate funds!",
+                        "og:image": "//www.customcat.com/images/sharer.jpg",
+                        "msapplication-tilecolor": "#2b5797",
+                        "msapplication-tileimage": "/images/favicos/mstile-150x150.png",
+                        "theme-color": "#ffffff",
+                        "msvalidate.01": "84D1F33805A44DBE4091EF851A337D88"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.customcat.com/images/sharer.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

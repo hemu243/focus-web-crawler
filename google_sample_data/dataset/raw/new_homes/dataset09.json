@@ -1,0 +1,577 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - new development",
+                "totalResults": "424000000",
+                "searchTerms": "new development",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - new development",
+                "totalResults": "424000000",
+                "searchTerms": "new development",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ]
+    },
+    "context": {
+        "title": "News Home Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.529367,
+        "formattedSearchTime": "0.53",
+        "totalResults": "424000000",
+        "formattedTotalResults": "424,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "New Development Corporation - Grand Rapids",
+            "htmlTitle": "<b>New Development</b> Corporation - Grand Rapids",
+            "link": "http://www.newdevelopmentcorp.org/",
+            "displayLink": "www.newdevelopmentcorp.org",
+            "snippet": "New Development Corporation is a nonprofit organization dedicated to providing \nopportunities for home ownership in the northeast and northwest neighborhoods \nof Grand Rapids. Do you dream of owning your own home? Would you want a \nsafe and quality home that your family can afford? Do you need help repairing ...",
+            "htmlSnippet": "<b>New Development</b> Corporation is a nonprofit organization dedicated to providing <br>\nopportunities for home ownership in the northeast and northwest neighborhoods <br>\nof Grand Rapids. Do you dream of owning your own home? Would you want a <br>\nsafe and quality home that your family can afford? Do you need help repairing&nbsp;...",
+            "cacheId": "ReQXUCpCnGoJ",
+            "formattedUrl": "www.newdevelopmentcorp.org/",
+            "htmlFormattedUrl": "www.<b>newdevelopment</b>corp.org/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259",
+                        "height": "194",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeNsNXcRxCSKjA8TYfEm3cP21xNx2cc9JqpOmluCiw-Fc383jY4g6O-88j"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "copyright": "Titan Theme Design: Copyright 2009 Jestro LLC"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.newdevelopmentcorp.org/wp-content/uploads/2010/04/IMG_1326-300x225.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Development Bank: NDB",
+            "htmlTitle": "<b>New Development</b> Bank: NDB",
+            "link": "https://www.ndb.int/",
+            "displayLink": "www.ndb.int",
+            "snippet": "The New Development Bank (NDB) aims to mobilize resources for development \nprojects in BRICS, emerging economies and developing countries.",
+            "htmlSnippet": "The <b>New Development</b> Bank (NDB) aims to mobilize resources for development <br>\nprojects in BRICS, emerging economies and developing countries.",
+            "cacheId": "_l9-6iI6b8MJ",
+            "formattedUrl": "https://www.ndb.int/",
+            "htmlFormattedUrl": "https://www.ndb.int/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "450",
+                        "height": "112",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1zFsItoe3X4Quwl6klS9mAt73YMjuaflo3ocZxojBeAj_4aapCK77ySI"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "og:locale": "en_US",
+                        "og:type": "website",
+                        "og:title": "NDB | New Development Bank",
+                        "og:description": "The New Development Bank (NDB) aims to mobilize resources for development projects in BRICS, emerging economies and developing countries.",
+                        "og:url": "https://www.ndb.int/",
+                        "og:site_name": "New Development Bank",
+                        "twitter:card": "summary",
+                        "twitter:description": "The New Development Bank (NDB) aims to mobilize resources for development projects in BRICS, emerging economies and developing countries.",
+                        "twitter:title": "NDB | New Development Bank",
+                        "msapplication-tileimage": "https://www.ndb.int/wp-content/uploads/2017/02/favicon.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.ndb.int/wp-content/themes/ndb/images/spacer.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Development Bank - Wikipedia",
+            "htmlTitle": "<b>New Development</b> Bank - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/New_Development_Bank",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "The New Development Bank (NDB), formerly referred to as the BRICS \nDevelopment Bank, is a multilateral development bank established by the BRICS \nstates According to the Agreement on the NDB, \"the Bank shall support public or \nprivate projects through loans, guarantees, equity participation and other \nfinancial ...",
+            "htmlSnippet": "The <b>New Development</b> Bank (NDB), formerly referred to as the BRICS <br>\nDevelopment Bank, is a multilateral development bank established by the BRICS <br>\nstates According to the Agreement on the NDB, &quot;the Bank shall support public or <br>\nprivate projects through loans, guarantees, equity participation and other <br>\nfinancial&nbsp;...",
+            "cacheId": "34unq0DXa0oJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/New_Development_Bank",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>New</b>_<b>Development</b>_Bank",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "New Development Bank",
+                        "nickname": "NDB, or NDB BRICS",
+                        "url": "www.ndb.int",
+                        "url_text": "www.ndb.int",
+                        "note": "July 2014 (Treaty signed) July 2015 (Treaty in force)"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "314",
+                        "height": "161",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6zbnY-nATTExGQmzzerikL7uh7y9NbFW8M59SB4rLMOZJoKL18EYNUAk"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin-when-cross-origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BRICS.svg/1200px-BRICS.svg.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BRICS.svg/1200px-BRICS.svg.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Developments - Compass - Brooklyn",
+            "htmlTitle": "<b>New Developments</b> - Compass - Brooklyn",
+            "link": "https://www.compass.com/development/",
+            "displayLink": "www.compass.com",
+            "snippet": "Discover Our New Developments. Compass brings a modern approach to new \ndevelopment marketing and sales. From boutique rental conversions to luxurious \nground-up condominiums, browse our portfolio of current offerings. Contact the \nTeam. Bay Harbour Island, Bay Harbor Islands. The Waters Bay Harbor ...",
+            "htmlSnippet": "Discover Our <b>New Developments</b>. Compass brings a modern approach to <b>new</b> <br>\n<b>development</b> marketing and sales. From boutique rental conversions to luxurious <br>\nground-up condominiums, browse our portfolio of current offerings. Contact the <br>\nTeam. Bay Harbour Island, Bay Harbor Islands. The Waters Bay Harbor&nbsp;...",
+            "cacheId": "PwMQTofguvcJ",
+            "formattedUrl": "https://www.compass.com/development/",
+            "htmlFormattedUrl": "https://www.compass.com/<b>development</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "279",
+                        "height": "180",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhxZO1oD7zpTkzlNWst9XN1VKBBl5KgjqZzoUBD_Vw2d3GO9rXrqc3dlU"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "p:domain_verify": "603d1e95dc63329bd662b1f52b6c5a87",
+                        "og:site_name": "Compass",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:image": "https://images.contentful.com/x01lqw608u1m/2VClrAdMHCgIaoIiUysWcG/2c0642627517487d1b48aafa196cf93e/og_image_collections_iPad.jpg",
+                        "apple-itunes-app": "app-id=692766504"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.contentful.com/x01lqw608u1m/2VClrAdMHCgIaoIiUysWcG/2c0642627517487d1b48aafa196cf93e/og_image_collections_iPad.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Leadership | New Development Bank",
+            "htmlTitle": "Leadership | <b>New Development</b> Bank",
+            "link": "https://www.ndb.int/about-us/organisation/governance/",
+            "displayLink": "www.ndb.int",
+            "snippet": "New Development Bank Board of governors, directors and senior management.",
+            "htmlSnippet": "<b>New Development</b> Bank Board of governors, directors and senior management.",
+            "cacheId": "tUuWu7h0RwgJ",
+            "formattedUrl": "https://www.ndb.int/about-us/organisation/governance/",
+            "htmlFormattedUrl": "https://www.ndb.int/about-us/organisation/governance/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "90",
+                        "height": "60",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGeFQzN6-GnXLID4jfT50s4K-wJb6U7t5Iyj7PnJ1pNNDkuwxSs4zv"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "og:locale": "en_US",
+                        "og:type": "article",
+                        "og:title": "Leadership | New Development Bank",
+                        "og:description": "New Development Bank Board of governors, directors and senior management.",
+                        "og:url": "https://www.ndb.int/about-us/organisation/governance/",
+                        "og:site_name": "New Development Bank",
+                        "og:image": "http://www.ndb.int/wp-content/themes/ndb/images/flag-1.jpg",
+                        "twitter:card": "summary",
+                        "twitter:description": "New Development Bank Board of governors, directors and senior management.",
+                        "twitter:title": "Leadership | New Development Bank",
+                        "twitter:image": "http://www.ndb.int/wp-content/themes/ndb/images/flag-1.jpg",
+                        "msapplication-tileimage": "https://www.ndb.int/wp-content/uploads/2017/02/favicon.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.ndb.int/wp-content/themes/ndb/images/flag-1.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The New New Product Development Game",
+            "htmlTitle": "The <b>New New</b> Product <b>Development</b> Game",
+            "link": "https://hbr.org/1986/01/the-new-new-product-development-game",
+            "displayLink": "hbr.org",
+            "snippet": "In today's fast-paced, fiercely competitive world of commercial new product \ndevelopment, speed and flexibility are essential. Companies are increasingly \nrealizing that the old, sequential approach to developing new products simply \nwon't get the job done. Instead, companies in Japan and the United States are \nusing a ...",
+            "htmlSnippet": "In today&#39;s fast-paced, fiercely competitive world of commercial <b>new</b> product <br>\n<b>development</b>, speed and flexibility are essential. Companies are increasingly <br>\nrealizing that the old, sequential approach to developing <b>new</b> products simply <br>\nwon&#39;t get the job done. Instead, companies in Japan and the United States are <br>\nusing a&nbsp;...",
+            "cacheId": "ILl7N5lG1FcJ",
+            "formattedUrl": "https://hbr.org/1986/01/the-new-new-product-development-game",
+            "htmlFormattedUrl": "https://hbr.org/1986/01/the-<b>new</b>-<b>new</b>-product-<b>development</b>-game",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "110",
+                        "height": "110",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt2L0b51ua-sDBu9S7wxCOTscJIn5p3CVcX47GkzZ3WJOoxsWkDs1G1g"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-config": "none",
+                        "article:tag": "Leading teams",
+                        "article:published_time": "1986-01-01T05:00:00Z",
+                        "og:type": "article",
+                        "og:image": "https://hbr.org/resources/images/article_assets/2014/08/110-Hirotaka_Takeuchi.jpg",
+                        "article:publisher": "https://www.facebook.com/HBR",
+                        "og:site_name": "Harvard Business Review",
+                        "page-category-name": "Leading teams",
+                        "article-content-type": "Magazine Article",
+                        "item-id": "tag:hbr.org,1922-01-01:198601.65136-86116",
+                        "viewport": "initial-scale=1,width=device-width",
+                        "issue-id": "3861",
+                        "article:section": "Leading teams",
+                        "og:url": "https://hbr.org/1986/01/the-new-new-product-development-game",
+                        "page-category-id": "8672",
+                        "twitter:creator": "@harvardbiz",
+                        "twitter:site": "@harvardbiz",
+                        "og:description": "In today’s fast-paced, fiercely competitive world of commercial new product development, speed and flexibility are essential. Companies are increasingly realizing that the old, sequential approach to developing new products simply won’t get the job done. Instead, companies in Japan and the United States are using a holistic method—as in rugby, the ball gets passed within […]",
+                        "article:modified_time": "2014-08-01T04:20:17Z",
+                        "item-name": "The New New Product Development Game",
+                        "uid": "141DF3F2A2B2636885FDEBEFF7AC8EFB",
+                        "sid": "548EE5DDD04EC2F64CA085E8ABBE17CF",
+                        "shopper-attributes": "state:guest",
+                        "og:title": "The New New Product Development Game",
+                        "page-type": "ITEM",
+                        "page-id": "300",
+                        "ox-group": "537063787",
+                        "rr-placements": "item_page.articles,item_page.top_right,item_page.bottom,item_page.red_strip_engage,item_page.subscribe_now_footer_engage,item_page.topbar_subscribe_engage,item_page.mag_cover_engage,item_page.subscribe,item_page.article_slider_engage,item_page.exit_popup_slider,item_page.books_recirc",
+                        "com.silverpop.brandeddomains": "www.pages05.net,email.hbr.org,hbr.org"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://hbr.org/resources/images/article_assets/2014/08/110-Hirotaka_Takeuchi.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Development: Soft in the Middle, Splashy Up Top - The New ...",
+            "htmlTitle": "<b>New Development</b>: Soft in the Middle, Splashy Up Top - The New ...",
+            "link": "https://www.nytimes.com/2017/09/15/realestate/new-condo-development-in-manhattan.html",
+            "displayLink": "www.nytimes.com",
+            "snippet": "Sep 15, 2017 ... In Manhattan's new development scene, there are bold bets aplenty, but 2014 it \nis not. The ultraluxury market, with prices north of $10 million, has softened since \nthe rise of billionaire's row along 57th Street, and developers are taking note: \nSome are doubling down on ultraluxury and seeking new ways to ...",
+            "htmlSnippet": "Sep 15, 2017 <b>...</b> In Manhattan&#39;s <b>new development</b> scene, there are bold bets aplenty, but 2014 it <br>\nis not. The ultraluxury market, with prices north of $10 million, has softened since <br>\nthe rise of billionaire&#39;s row along 57th Street, and developers are taking note: <br>\nSome are doubling down on ultraluxury and seeking new ways to&nbsp;...",
+            "formattedUrl": "https://www.nytimes.com/.../new-condo-development-in-manhattan.html",
+            "htmlFormattedUrl": "https://www.nytimes.com/.../<b>new</b>-condo-<b>development</b>-in-manhattan.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "275",
+                        "height": "183",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMO-44laqgU7LyBk2Sf1JZ21-Nc1dB_vldH64Dc8orajctlEmgTmn_3rRW"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://static01.nyt.com/images/2017/09/17/realestate/17DEVELOPMENT-slide-D7BB/17DEVELOPMENT-slide-D7BB-master768.jpg",
+                        "description": "The Next Wave of New York Condos CreditTony Cenicola/The New York Times",
+                        "copyrightholder": "CreditTony Cenicola/The New York Times",
+                        "identifier": "https://static01.nyt.com/images/2017/09/17/realestate/17DEVELOPMENT-slide-D7BB/17DEVELOPMENT-slide-D7BB-master768.jpg",
+                        "height": "512",
+                        "width": "768"
+                    },
+                    {
+                        "url": "https://static01.nyt.com/images/2017/09/17/realestate/17developments4/17developments4-blog427.jpg",
+                        "height": "549",
+                        "width": "427",
+                        "caption": "A rendering of One Manhattan Square, which is under construction Credit wordsearch",
+                        "description": "A rendering of One Manhattan Square, which is under construction Credit wordsearch",
+                        "copyrightholder": "Credit wordsearch"
+                    },
+                    {
+                        "url": "https://static01.nyt.com/images/2017/09/17/realestate/17developments3/17developments3-master675.jpg",
+                        "height": "450",
+                        "width": "675",
+                        "caption": "A model apartment at Steiner East Village, where 80 percent of units are one or two bedrooms. Credit Evan Joseph",
+                        "description": "A model apartment at Steiner East Village, where 80 percent of units are one or two bedrooms. Credit Evan Joseph",
+                        "copyrightholder": "Credit Evan Joseph"
+                    },
+                    {
+                        "url": "https://static01.nyt.com/images/2017/09/17/realestate/17developments5/17developments5-master675.jpg",
+                        "height": "450",
+                        "width": "675",
+                        "caption": "A model apartment at 212 Fifth Avenue, an under-construction luxury condo conversion in NoMad. Credit Travis Mark",
+                        "description": "A model apartment at 212 Fifth Avenue, an under-construction luxury condo conversion in NoMad. Credit Travis Mark",
+                        "copyrightholder": "Credit Travis Mark"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "STEFANOS CHEN"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "The New York Times Company",
+                        "tickersymbol": "NYSE NYT"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "sourceapp": "nyt-v5",
+                        "applicationname": "article",
+                        "al:android:url": "nytimes://reader/id/100000005416807",
+                        "al:android:package": "com.nytimes.android",
+                        "al:android:app_name": "NYTimes",
+                        "twitter:app:name:googleplay": "NYTimes",
+                        "twitter:app:id:googleplay": "com.nytimes.android",
+                        "twitter:app:url:googleplay": "nytimes://reader/id/100000005416807",
+                        "al:iphone:url": "nytimes://www.nytimes.com/2017/09/15/realestate/new-condo-development-in-manhattan.html",
+                        "al:iphone:app_store_id": "284862083",
+                        "al:iphone:app_name": "NYTimes",
+                        "al:ipad:url": "nytimes://www.nytimes.com/2017/09/15/realestate/new-condo-development-in-manhattan.html",
+                        "al:ipad:app_store_id": "357066198",
+                        "al:ipad:app_name": "NYTimes",
+                        "hdl_p": "The Splashy New High End",
+                        "genre": "News",
+                        "articleid": "100000005416807",
+                        "usageterms": "https://www.nytimes.com/content/help/rights/sale/terms-of-sale.html",
+                        "hdl": "New Development: Soft in the Middle, Splashy Up Top",
+                        "pdate": "20170915",
+                        "utime": "20171029231645",
+                        "ptime": "20170915050136",
+                        "displaydate": "Sept. 15, 2017",
+                        "dat": "Sept. 15, 2017",
+                        "lp": "The luxury market in New York is pulling in two directions, with developers betting on big-ticket palatial aeries and million-dollar “starter” homes.",
+                        "msapplication-starturl": "http://www.nytimes.com",
+                        "cre": "The New York Times",
+                        "slug": "17development",
+                        "article:collection": "https://static01.nyt.com/services/json/sectionfronts/realestate/index.jsonp",
+                        "sectionfront_jsonp": "https://static01.nyt.com/services/json/sectionfronts/realestate/index.jsonp",
+                        "og:url": "https://www.nytimes.com/2017/09/15/realestate/new-condo-development-in-manhattan.html",
+                        "og:type": "article",
+                        "og:title": "New Development: Soft in the Middle, Splashy Up Top",
+                        "og:description": "The luxury market in New York is pulling in two directions, with developers betting on big-ticket palatial aeries and million-dollar “starter” homes.",
+                        "article:published": "2017-09-15T05:01:36-04:00",
+                        "article:modified": "2017-10-29T23:16:45-04:00",
+                        "article:section": "Real Estate",
+                        "article:section-taxonomy-id": "39C856BA-C9A3-45A0-ACAC-275CA8EE21FE",
+                        "article:section_url": "https://www.nytimes.com/section/realestate",
+                        "article:top-level-section": "realestate",
+                        "fb:app_id": "9869919170",
+                        "twitter:url": "https://www.nytimes.com/2017/09/15/realestate/new-condo-development-in-manhattan.html",
+                        "twitter:title": "New Development: Soft in the Middle, Splashy Up Top",
+                        "twitter:description": "The luxury market in New York is pulling in two directions, with developers betting on big-ticket palatial aeries and million-dollar “starter” homes.",
+                        "author": "Stefanos Chen",
+                        "tone": "feature",
+                        "byl": "By STEFANOS CHEN",
+                        "pt": "article",
+                        "cg": "realestate"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static01.nyt.com/images/2017/09/17/realestate/17DEVELOPMENT-slide-D7BB/17DEVELOPMENT-slide-D7BB-master768.jpg"
+                    }
+                ],
+                "newsarticle": [
+                    {
+                        "alternativeheadline": "The Splashy New High End",
+                        "description": "The luxury market in New York is pulling in two directions, with developers betting on big-ticket palatial aeries and million-dollar “starter” homes.",
+                        "genre": "News",
+                        "identifier": "100000005416807",
+                        "usageterms": "https://www.nytimes.com/content/help/rights/sale/terms-of-sale.html",
+                        "inlanguage": "en-US",
+                        "datepublished": "2017-09-15T05:01:36-04:00",
+                        "datemodified": "2017-10-29T23:16:45-04:00",
+                        "articlesection": "Real Estate",
+                        "thumbnailurl": "https://static01.nyt.com/images/2017/09/17/realestate/17DEVELOPMENT-slide-D7BB/17DEVELOPMENT-slide-D7BB-thumbStandard.jpg",
+                        "headline": "New Development: Soft in the Middle, Splashy Up Top",
+                        "copyrightholder": "By TONY CENICOLA, STEFANOS CHEN and GUGLIELMO MATTIOLI on Publish Date September 15, 2017.",
+                        "printedition": "New York edition",
+                        "copyrightnotice": "© 2017 The New York Times Company",
+                        "copyrightyear": "2017"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Developments and Condos in NYC | StreetEasy",
+            "htmlTitle": "<b>New Developments</b> and Condos in NYC | StreetEasy",
+            "link": "https://streeteasy.com/new-developments",
+            "displayLink": "streeteasy.com",
+            "snippet": "Find New York City apartments for rent and for sale at StreetEasy.StreetEasy is a \nReal Estate Search Engine for apartments and real estate in Manhattan and New \nYork City. Search our site for apartments, condos, coops, lofts, townhouses and \nnew construction homes in Manhattan, Brooklyn, Bronx, Queens and Staten ...",
+            "htmlSnippet": "Find <b>New</b> York City apartments for rent and for sale at StreetEasy.StreetEasy is a <br>\nReal Estate Search Engine for apartments and real estate in Manhattan and <b>New</b> <br>\nYork City. Search our site for apartments, condos, coops, lofts, townhouses and <br>\n<b>new</b> construction homes in Manhattan, Brooklyn, Bronx, Queens and Staten&nbsp;...",
+            "cacheId": "UtUMjiEHwBUJ",
+            "formattedUrl": "https://streeteasy.com/new-developments",
+            "htmlFormattedUrl": "https://streeteasy.com/<b>new</b>-<b>developments</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "246",
+                        "height": "205",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrL74-8zyAXVQwkdXQVp9AvfVgh09jdosBP4kgunQmLqnI0CYDl1DSZHHA"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=1040",
+                        "rating": "General",
+                        "se-ios-app": "app-id=660363289",
+                        "apple-mobile-web-app-capable": "yes",
+                        "fb:page_id": "20066242064",
+                        "csrf-param": "authenticity_token",
+                        "csrf-token": "dDMTisjEIryt2ehFapdQKZPOZdoROzkhaZe6DXGyf9Q="
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://cdn-assets-s3.streeteasy.com/assets/header/buildings/NewDev_AdUnit@2x-59081f29089fb5d571a4f3c2dce6f9599ea88a2e970cedb36abb882ae3983329.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Developments",
+            "htmlTitle": "<b>Developments</b>",
+            "link": "http://www.sothebysrealty.com/eng/category/developments",
+            "displayLink": "www.sothebysrealty.com",
+            "snippet": "Browse our collection of luxury international real estate by development. \nDiscover the most sought-after developments around the world with Sotheby's \nInternational Realty.",
+            "htmlSnippet": "Browse our collection of luxury international real estate by <b>development</b>. <br>\nDiscover the most sought-after <b>developments</b> around the world with Sotheby&#39;s <br>\nInternational Realty.",
+            "cacheId": "a1F-1u0dpA0J",
+            "formattedUrl": "www.sothebysrealty.com/eng/category/developments",
+            "htmlFormattedUrl": "www.sothebysrealty.com/eng/category/<b>developments</b>",
+            "pagemap": {
+                "organization": [
+                    {
+                        "url": "http://www.sothebysrealty.com/",
+                        "sameas": "facebook"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:title": "Luxury International Real Estate | Sotheby's International Realty",
+                        "viewport": "width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "apple-mobile-web-app-capable": "yes",
+                        "mobile-web-app-capable": "yes"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "name": "Search",
+                        "url": "Search"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "USAID announces a new development impact bond | Devex",
+            "htmlTitle": "USAID announces a <b>new development</b> impact bond | Devex",
+            "link": "https://www.devex.com/news/usaid-announces-a-new-development-impact-bond-91621",
+            "displayLink": "www.devex.com",
+            "snippet": "1 day ago ... SAN FRANCISCO — Mark Green, administrator of the U.S. Agency for \nInternational Development, will announce a new development impact bond \naimed at reducing maternal and newborn deaths in India, during the closing \nplenary of the 2017 Global Entrepreneurship Summit. Launched Thursday, the ...",
+            "htmlSnippet": "1 day ago <b>...</b> SAN FRANCISCO — Mark Green, administrator of the U.S. Agency for <br>\nInternational Development, will announce a <b>new development</b> impact bond <br>\naimed at reducing maternal and newborn deaths in India, during the closing <br>\nplenary of the 2017 Global Entrepreneurship Summit. Launched Thursday, the&nbsp;...",
+            "cacheId": "uaOcOZYtNMQJ",
+            "formattedUrl": "https://www.devex.com/news/usaid-announces-a-new-development-impact- bond-91621",
+            "htmlFormattedUrl": "https://www.devex.com/<b>new</b>s/usaid-announces-a-<b>new</b>-<b>development</b>-impact- bond-91621",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "https://www.devex.com/news/authors/1115812"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSemt8iUyFmdExcoKo-FdAywElWubGmu1d19Pc-W5_YgxG-vM1dDE8YQjA"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "Catherine Cheney"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "csrf-param": "authenticity_token",
+                        "csrf-token": "rEJyywzeiOQsiunyb4ufJOi925WeuwG65RH2oJQFM+AzWLxUluWKALPmbDI+voktF6zsnXNfMHiRVjsjeNJuWQ==",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "fb:pages": "193394557345243",
+                        "og:site_name": "Devex",
+                        "twitter:title": "USAID announces a new development impact bond",
+                        "twitter:description": "The Maternal and Newborn Health DIB aims to reduce maternal and newborn deaths in Rajasthan, India, by improving the access to and quality of care in private health care facilities.",
+                        "twitter:image": "https://lh6.googleusercontent.com/oDkN8TzOMUz-nI4wZGv4MwFPYBUxq-_O6xv9aIiDUzHLy5myCxEiAtEH2copw0_tzqy3hSUAY6Q9e3zz7xBA1z_oQvb188dwa0Qx28qvUq5aiENIsRRaiF6CgnqecEsdbnHgXV9j",
+                        "og:type": "article",
+                        "og:url": "https://www.devex.com/news/sponsored/usaid-announces-a-new-development-impact-bond-91621",
+                        "og:locale": "en_US",
+                        "twitter:site": "@Devex",
+                        "twitter:card": "summary_large_image",
+                        "article:author": "https://www.devex.com/news/authors/1115812",
+                        "twitter:creator": "catherinecheney",
+                        "article:published_time": "2017-11-30T05:03:43+00:00"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://res.cloudinary.com/devex/image/fetch/c_fill,h_432,w_768/https://lh5.googleusercontent.com/cBqgP3gc6X7ZgrADYQnSIbsMSF7Bpjq1YKIBo_7g86EV6H22BVvKIqR08OPC52mLsS7VMWcVpMR93rGVWHNaxlFcHbDGTxhYkZmZZez3LWg5FqBJpNMqOUsc7ZXr19n6VGYmNGDR"
+                    }
+                ],
+                "newsarticle": [
+                    {
+                        "headline": "USAID announces a new development impact bond"
+                    },
+                    {
+                        "datecreated": "30 November 2017"
+                    },
+                    {
+                        "articlebody": "A newborn baby in a hospital in Rajasthan, India. Photo by: Poulomi Basu / CIFF / CC BY-NCSAN FRANCISCO — Mark Green, administrator of the U.S. Agency for International Development, will..."
+                    }
+                ]
+            }
+        }
+    ]
+}

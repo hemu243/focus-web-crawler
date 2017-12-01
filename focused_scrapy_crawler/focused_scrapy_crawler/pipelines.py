@@ -13,7 +13,7 @@ class JsonSerializer(object):
     def __init__(self):
         # TODO - get information from settings
         self.filename = 'item.json'
-        self.mode = 'w'
+        self.mode = 'w+'
 
     def open_spider(self, spider):
         self.file = open(self.filename, self.mode)
@@ -22,7 +22,10 @@ class JsonSerializer(object):
         self.file.close()
 
     def process_item(self, item, spider):
-        line = json.dumps(dict(item)) + "\n"
+        items = []
+        items.append(dict(item))
+
+        line = json.dumps(items, indent=2)
         self.file.write(line)
         return item
 
