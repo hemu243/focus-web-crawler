@@ -71,7 +71,7 @@ class SampleData(object):
 				print "Successfully generate same files for pattern=" + destBase
 		return files
 
-	def convertDataSetToCsv(self, rawFolderPath, rootDestFolderPath, label):
+	def generateSampleData(self, rawFolderPath, rootDestFolderPath, label):
 		"""
 		Convert raw sample set to format which metapy understand
 		:param rawFolderPath:
@@ -99,5 +99,7 @@ class SampleData(object):
 				labelFilePointer.write("\n")
 
 if __name__ == "__main__":
-	SampleData().convertDataSetToCsv(os.path.abspath("google_sample_data/dataset/raw/new_homes"),
-									 os.path.abspath("google_sample_data/dataset"), "NewHome")
+	SampleData().generateSampleData(os.path.abspath("google_sample_data/dataset/raw/new_homes"),
+									os.path.abspath("google_sample_data/dataset"), "NewHome")
+	SampleData().generateSampleData(os.path.abspath("google_sample_data/dataset/raw/others"),
+									os.path.abspath("google_sample_data/dataset"), "NotNewHome")

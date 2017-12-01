@@ -1,0 +1,4 @@
+An application-programming interface (API) is a set of programming instructions 
+and standards for accessing a Web-based software application or Web tool. A 
+software company releases its API to the public so that other software developers 
+can design products that are powered by its service. For example, Amazon.com ...

@@ -1,0 +1,2 @@
+This definition explains the meaning of application program interface, also known 
+as API, and how APIs provide information to apps and webpages.

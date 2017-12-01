@@ -1,0 +1,3 @@
+Aug 13, 2016 ... I meet lots of people, both working in tech and elsewhere, who have a rather 
+vague or incorrect idea about what this fairly common term means. Technically, 
+API stands for Application Programming…
