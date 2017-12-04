@@ -11,9 +11,9 @@ import scrapy
 class FocusedScrapyCrawlerItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    url = scrapy.Field()
+    links = scrapy.Field()
     title = scrapy.Field()
     page_title = scrapy.Field()
     body = scrapy.Field()
-    threshold = scrapy.Field()
+    label = scrapy.Field()
     last_updated = scrapy.Field()

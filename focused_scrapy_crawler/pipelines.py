@@ -6,37 +6,22 @@
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 import json
 from scrapy.exceptions import DropItem
-
-
-class JsonSerializer(object):
-
-    def __init__(self):
-        # TODO - get information from settings
-        self.filename = 'item.json'
-        self.mode = 'w+'
-
-    def open_spider(self, spider):
-        self.file = open(self.filename, self.mode)
-
-    def close_spider(self, spider):
-        self.file.close()
-
-    def process_item(self, item, spider):
-        items = []
-        items.append(dict(item))
-
-        line = json.dumps(items, indent=2)
-        self.file.write(line)
-        return item
-
+import time
 
 class RemoveDupLink(object):
     def __init__(self):
         self.links_seen = set()
 
     def process_item(self, item, spider):
-        if item['link'] in self.links_seen:
-            raise DropItem("Duplicate link found: %s" % item)
-        else:
-            self.links_seen.add(item['link'])
-            return item
+        links = item.get('links', [])
+        # Remove dup and already seen links
+        for link in links:
+            if link.get("found", False):
+                continue
+            if link.get('link') in self.links_seen:
+                spider.log("Duplicate link found: %s" % link)
+                link['found'] = True
+                link['last_updated'] = time.time()
+            else:
+                self.links_seen.add(link.get('link'))
+        return item

@@ -1,29 +1,15 @@
 import os
-import time
 import sys
 
 import metapy
 
 from crawler import starCrawl
 
-
-def getClassifier(trainingData, invertedIndex, fwdInx):
-	"""
-	Return classifier object
-	:param trainingData:
-	:param invertedIndex:
-	:param fwdInx:
-	:return:
-	"""
-	classifier = metapy.classify.NaiveBayes(training=trainingData, alpha=0.01, beta=0.01)
-	return classifier
-
-
 def initializedClassifier(configFile):
 	"""
 	Initialized classifier
 	:param configFile - main config file path to load metapy settings
-	:return: a classifier object
+	:return: a classifier instance and fowardIndex instance
 	"""
 	# Settings log
 	metapy.log_to_stderr()
@@ -33,7 +19,16 @@ def initializedClassifier(configFile):
 	fwdIndex = metapy.index.make_forward_index(configFile)
 
 	dset = metapy.classify.MulticlassDataset(fwdIndex)
+	view = metapy.classify.MulticlassDatasetView(dset)
+	# shuffle dataset
+	view.shuffle()
+	# Get whole view dataset as training set
+	training = view[0:len(view)]
+	classifier = metapy.classify.NaiveBayes(training=training, alpha=0.01, beta=0.01)
+	return classifier, fwdIndex
 
+	'''
+	# Cross validating
 	print('Running cross-validation...')
 	start_time = time.time()
 	matrix = metapy.classify.cross_validate(lambda fold:
@@ -41,7 +36,20 @@ def initializedClassifier(configFile):
 
 	print(matrix)
 	matrix.print_stats()
-	print("Elapsed: {} seconds".format(round(time.time() - start_time, 4)))
+	print("Elapsed: {} seconds".format(round(time.time() - start_time, 4)))'''
+
+
+def getSeedUrls(args):
+	"""
+	Validate inputs params and return seed urls
+	:param args: list of args passed in the command line
+	:return:
+	"""
+	if len(args) < 2:
+		print "\033[91m Error: Invalid invocation of script \033[0m \n" \
+			  "\033[95m------ Usage: ------ \033[0m \n \033[93m {0} seed_url1,seed_urls2 \033[0m \n \n \nExample:\n {0} http://newhomesource.com".format(args[0])
+		return None
+	return args[1]
 
 
 def main(args):
@@ -49,9 +57,12 @@ def main(args):
 	Main function which initialized classifier and start crawling
 	:return:
 	"""
-	initializedClassifier(os.path.abspath("config.toml"))
+	urls = getSeedUrls(sys.argv)
+	if not urls:
+		return
+	classifier, fwdIndex = initializedClassifier(os.path.abspath("config.toml"))
 	# TODO - get input urls as command line options
-	starCrawl(input_urls="http://newhomesource.com", classifier=None)
+	starCrawl(input_urls=urls, classifier=classifier, fwdIndex=fwdIndex)
 
 
 if __name__ == '__main__':

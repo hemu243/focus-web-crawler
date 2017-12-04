@@ -7,7 +7,7 @@ import metapy
 Module which start crawling using seeds urls and classifier
 """
 
-def starCrawl(input_urls="http://newhomesource.com", classifier=None):
+def starCrawl(input_urls="http://newhomesource.com", classifier=None, fwdIndex=None):
 	"""
 	Start web crawler using seed urls and classifier instance
 	Note - this function block the process because crawl will keep running until
@@ -21,7 +21,7 @@ def starCrawl(input_urls="http://newhomesource.com", classifier=None):
 	# Create Crawl Process which also start twisted reactor
 	process = CrawlerProcess(get_project_settings())
 	# Pointed out bot which I am running
-	process.crawl('basicbot', input_urls)
+	process.crawl('basicbot', input_urls, classifier=classifier, fwdIndex=fwdIndex)
 
 	# Start
 	process.start() # the script will block here until the crawling is finished
