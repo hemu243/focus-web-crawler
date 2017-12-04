@@ -1,0 +1,5 @@
+Hello Developers. The Instagram API Platform can be used to build non-
+automated, authentic, high-quality apps and services that: Help individuals share 
+their own content with 3rd party apps. Help brands and advertisers understand, 
+manage their audience and media rights. Help broadcasters and publishers 
+discover ...

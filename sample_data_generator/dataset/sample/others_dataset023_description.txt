@@ -1,0 +1,5 @@
+API v2 Introduction. Welcome to the DigitalOcean API documentation. The 
+DigitalOcean API allows you to manage Droplets and resources within the 
+DigitalOcean cloud in a simple, programmatic way using conventional HTTP 
+requests. The endpoints are intuitive and powerful, allowing you to easily make 
+calls to retrieve ...

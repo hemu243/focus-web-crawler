@@ -1,0 +1,10 @@
+index = "idx"
+corpus = "file.toml"
+stop-words = "stopwords.txt"
+dataset = "dataset"
+uninvert = true
+prefix = "."
+[[analyzers]]
+	filter = "default-unigram-chain"
+	ngram = 1
+	method = "ngram-word"

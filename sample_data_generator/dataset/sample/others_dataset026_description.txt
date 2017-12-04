@@ -1,0 +1,4 @@
+Other essential APIs. Plugins · Services and the Dependency Injection Container 
+· Events · Internationalization · Caching · Utility classes and functions · User 
+accounts, permissions, and roles · Render API · Theme system · Update API · 
+Migration ...
