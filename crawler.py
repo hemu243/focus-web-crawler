@@ -1,11 +1,20 @@
 from scrapy.crawler import CrawlerProcess
 from scrapy.utils.project import get_project_settings
 import os
-import metapy
+import logging
 
 """
 Module which start crawling using seeds urls and classifier
 """
+
+from scrapy.utils.log import configure_logging
+
+configure_logging(install_root_handler=False)
+logging.basicConfig(
+    filename='focused_crawler.log',
+    format='%(levelname)s: %(message)s',
+    level=logging.INFO
+)
 
 def starCrawl(input_urls="http://newhomesource.com", classifier=None, fwdIndex=None):
 	"""

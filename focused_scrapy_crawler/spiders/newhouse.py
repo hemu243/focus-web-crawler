@@ -21,6 +21,8 @@ class NewhouseSpider(CrawlSpider):
 
     crawled_urls = []
 
+    NEW_HOME_LABEL = 'NewHome'
+
     def __init__(self, input_urls=None, allowed_domains=None, *args, **kwargs):
         """
         Initialized crawl
@@ -48,10 +50,12 @@ class NewhouseSpider(CrawlSpider):
         NewhouseSpider.crawled_urls.append(response.url)
 
         item = FocusedScrapyCrawlerItem()
+        item['url'] = response.url
         item['body'] = self._getBody(response)
         item['page_title'] = '\n'.join(response.xpath("//h1/text()").extract())
         item['last_updated'] = time.time()
 
+        # Update links
         links = []
         for anchor in response.xpath('//a'):
             if anchor.root is not None:
@@ -76,9 +80,9 @@ class NewhouseSpider(CrawlSpider):
         label = self.classifier.classify(docvec)
         item['label'] = label
         yield item
-        if label != "NewHome":
+        if label != NewhouseSpider.NEW_HOME_LABEL:
             self.log("item={} does not belong to new home so stop crawling".format(item),
-                     logging.ERROR)
+                     logging.INFO)
         else:
             for link in links:
                 req = Request(link, priority=10,  # after the request is done, run parse_item to train the apprentice

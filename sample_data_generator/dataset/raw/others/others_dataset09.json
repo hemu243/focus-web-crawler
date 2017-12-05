@@ -1,0 +1,434 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search -  Stack Exchange",
+                "totalResults": "4870000",
+                "searchTerms": " Stack Exchange",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "previousPage": [
+            {
+                "title": "Google Custom Search -  Stack Exchange",
+                "totalResults": "4870000",
+                "searchTerms": " Stack Exchange",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search -  Stack Exchange",
+                "totalResults": "4870000",
+                "searchTerms": " Stack Exchange",
+                "count": 10,
+                "startIndex": 21,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ]
+    },
+    "context": {
+        "title": "News Home Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.75335,
+        "formattedSearchTime": "0.75",
+        "totalResults": "4870000",
+        "formattedTotalResults": "4,870,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Monero Stack Exchange",
+            "htmlTitle": "Monero <b>Stack Exchange</b>",
+            "link": "https://monero.stackexchange.com/",
+            "displayLink": "monero.stackexchange.com",
+            "snippet": "Q&A for developers and users of the secure, private and untraceable \ncryptocurrency Monero.",
+            "htmlSnippet": "Q&amp;A for developers and users of the secure, private and untraceable <br>\ncryptocurrency Monero.",
+            "cacheId": "2vCAP_2CCPIJ",
+            "formattedUrl": "https://monero.stackexchange.com/",
+            "htmlFormattedUrl": "https://monero.<b>stackexchange</b>.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQovFJJc2jBP6kFSbNVgHW1e9g31c1DWQxZoxnsz3x3EKR4klm1UPuFZrM2"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:domain": "monero.stackexchange.com",
+                        "og:image": "https://cdn.sstatic.net/Sites/monero/img/apple-touch-icon@2.png?v=33aa1fc3a47c",
+                        "twitter:title": "Monero Stack Exchange",
+                        "twitter:description": "Q&A for developers and users of the secure, private and untraceable cryptocurrency Monero",
+                        "og:url": "https://monero.stackexchange.com/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.sstatic.net/Sites/monero/img/apple-touch-icon@2.png?v=33aa1fc3a47c"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Craft CMS Stack Exchange",
+            "htmlTitle": "Craft CMS <b>Stack Exchange</b>",
+            "link": "https://craftcms.stackexchange.com/",
+            "displayLink": "craftcms.stackexchange.com",
+            "snippet": "Q&A for administrators, end users, developers and designers for Craft CMS.",
+            "htmlSnippet": "Q&amp;A for administrators, end users, developers and designers for Craft CMS.",
+            "cacheId": "5uMKQNraZGAJ",
+            "formattedUrl": "https://craftcms.stackexchange.com/",
+            "htmlFormattedUrl": "https://craftcms.<b>stackexchange</b>.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdt8HebVHV9xSO6TCw6geXKjleReX8Y22jsRufQ9hpUrh4mVDGjvjKvTo"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:domain": "craftcms.stackexchange.com",
+                        "og:image": "https://cdn.sstatic.net/Sites/craftcms/img/apple-touch-icon@2.png?v=bb0624cb0264",
+                        "twitter:title": "Craft CMS Stack Exchange",
+                        "twitter:description": "Q&A for administrators, end users, developers and designers for Craft CMS",
+                        "og:url": "https://craftcms.stackexchange.com/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.sstatic.net/Sites/craftcms/img/apple-touch-icon@2.png?v=bb0624cb0264"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Sitecore Stack Exchange",
+            "htmlTitle": "Sitecore <b>Stack Exchange</b>",
+            "link": "https://sitecore.stackexchange.com/",
+            "displayLink": "sitecore.stackexchange.com",
+            "snippet": "Q&A for developers and end users of the Sitecore CMS and multichannel \nmarketing software.",
+            "htmlSnippet": "Q&amp;A for developers and end users of the Sitecore CMS and multichannel <br>\nmarketing software.",
+            "cacheId": "EuJ3Rzz-P2AJ",
+            "formattedUrl": "https://sitecore.stackexchange.com/",
+            "htmlFormattedUrl": "https://sitecore.<b>stackexchange</b>.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxuyD-U4KMBp0B8M8xC2VBl0EsxsH0PX55jdcsZhXCkssWIaTRqgWK9vw"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:domain": "sitecore.stackexchange.com",
+                        "og:image": "https://cdn.sstatic.net/Sites/sitecore/img/apple-touch-icon@2.png?v=bece685cae9d",
+                        "twitter:title": "Sitecore Stack Exchange",
+                        "twitter:description": "Q&A for developers and end users of the Sitecore CMS and multichannel marketing software",
+                        "og:url": "https://sitecore.stackexchange.com/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.sstatic.net/Sites/sitecore/img/apple-touch-icon@2.png?v=bece685cae9d"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Russian Language Stack Exchange",
+            "htmlTitle": "Russian Language <b>Stack Exchange</b>",
+            "link": "https://russian.stackexchange.com/",
+            "displayLink": "russian.stackexchange.com",
+            "snippet": "Q&A for students, teachers, and linguists wanting to discuss the finer points of the \nRussian language.",
+            "htmlSnippet": "Q&amp;A for students, teachers, and linguists wanting to discuss the finer points of the <br>\nRussian language.",
+            "cacheId": "0rPaFVY8wCsJ",
+            "formattedUrl": "https://russian.stackexchange.com/",
+            "htmlFormattedUrl": "https://russian.<b>stackexchange</b>.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOndFcxs5kXaeHQpWObSaUIQDFIKgImteE9IPHtE5Apq_xBsau3BMJkiA"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:site": "@StackRussian",
+                        "twitter:domain": "russian.stackexchange.com",
+                        "og:image": "https://cdn.sstatic.net/Sites/russian/img/apple-touch-icon@2.png?v=31365fb0b1cb",
+                        "twitter:title": "Russian Language Stack Exchange",
+                        "twitter:description": "Q&A for students, teachers, and linguists wanting to discuss the finer points of the Russian language",
+                        "og:url": "https://russian.stackexchange.com/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.sstatic.net/Sites/russian/img/apple-touch-icon@2.png?v=31365fb0b1cb"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bitcoin Stack Exchange",
+            "htmlTitle": "Bitcoin <b>Stack Exchange</b>",
+            "link": "https://bitcoin.stackexchange.com/",
+            "displayLink": "bitcoin.stackexchange.com",
+            "snippet": "Questions · Tags · Users · Badges · Unanswered · Ask Question. _. Bitcoin Stack \nExchange is a question and answer site for Bitcoin crypto-currency enthusiasts. \nJoin them; it only takes a minute: Sign up. Here's how it works: Anybody can ask \na question; Anybody can answer; The best answers are voted up and rise to the ...",
+            "htmlSnippet": "Questions &middot; Tags &middot; Users &middot; Badges &middot; Unanswered &middot; Ask Question. _. Bitcoin <b>Stack</b> <br>\n<b>Exchange</b> is a question and answer site for Bitcoin crypto-currency enthusiasts. <br>\nJoin them; it only takes a minute: Sign up. Here&#39;s how it works: Anybody can ask <br>\na question; Anybody can answer; The best answers are voted up and rise to the&nbsp;...",
+            "cacheId": "JmNHZhr3fWkJ",
+            "formattedUrl": "https://bitcoin.stackexchange.com/",
+            "htmlFormattedUrl": "https://bitcoin.<b>stackexchange</b>.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8ZGBGOpxgApF7BQEVTcrtCfQxxmWMVUNi8Ux5XaxWh7nERjwQGXLUuN-C"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:site": "@StackBitcoin",
+                        "twitter:domain": "bitcoin.stackexchange.com",
+                        "og:image": "https://cdn.sstatic.net/Sites/bitcoin/img/apple-touch-icon@2.png?v=462e8b9b382b",
+                        "twitter:title": "Bitcoin Stack Exchange",
+                        "twitter:description": "Q&A for Bitcoin crypto-currency enthusiasts",
+                        "og:url": "https://bitcoin.stackexchange.com/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.sstatic.net/Sites/bitcoin/img/apple-touch-icon@2.png?v=462e8b9b382b"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Augur Stack Exchange",
+            "htmlTitle": "Augur <b>Stack Exchange</b>",
+            "link": "https://augur.stackexchange.com/",
+            "displayLink": "augur.stackexchange.com",
+            "snippet": "Q&A for developers, economists and users interested in the open source, \ndecentralized, prediction market, Augur.",
+            "htmlSnippet": "Q&amp;A for developers, economists and users interested in the open source, <br>\ndecentralized, prediction market, Augur.",
+            "cacheId": "xUGNfvfknvIJ",
+            "formattedUrl": "https://augur.stackexchange.com/",
+            "htmlFormattedUrl": "https://augur.<b>stackexchange</b>.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNp-21mTtnGhy5rNZw7uaU71TlzAVqUkaTtn4Y3qZ4a9OP8Jgf0js7DMU"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:domain": "augur.stackexchange.com",
+                        "og:image": "https://cdn.sstatic.net/Sites/augur/img/apple-touch-icon@2.png?v=5db76fb095a3",
+                        "twitter:title": "Augur Stack Exchange",
+                        "twitter:description": "Q&A for developers, economists and users interested in the open source, decentralized, prediction market, Augur",
+                        "og:url": "https://augur.stackexchange.com/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.sstatic.net/Sites/augur/img/apple-touch-icon@2.png?v=5db76fb095a3"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Magento Stack Exchange",
+            "htmlTitle": "Magento <b>Stack Exchange</b>",
+            "link": "https://magento.stackexchange.com/",
+            "displayLink": "magento.stackexchange.com",
+            "snippet": "Q&A for users of the Magento e-Commerce platform.",
+            "htmlSnippet": "Q&amp;A for users of the Magento e-Commerce platform.",
+            "cacheId": "R5Ar3u-9NtwJ",
+            "formattedUrl": "https://magento.stackexchange.com/",
+            "htmlFormattedUrl": "https://magento.<b>stackexchange</b>.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbiyoACx7lKz02c8TQP4Z__LKLO1OkkTMCvhwxbX2Ydr2AZL-XeIo-YPI"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:site": "@StackMagento",
+                        "twitter:domain": "magento.stackexchange.com",
+                        "og:image": "https://cdn.sstatic.net/Sites/magento/img/apple-touch-icon@2.png?v=25680b5de058",
+                        "twitter:title": "Magento Stack Exchange",
+                        "twitter:description": "Q&A for users of the Magento e-Commerce platform",
+                        "og:url": "https://magento.stackexchange.com/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.sstatic.net/Sites/magento/img/apple-touch-icon@2.png?v=25680b5de058"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Salesforce Stack Exchange",
+            "htmlTitle": "Salesforce <b>Stack Exchange</b>",
+            "link": "https://salesforce.stackexchange.com/",
+            "displayLink": "salesforce.stackexchange.com",
+            "snippet": "Q&A for Salesforce administrators, implementation experts, developers and \nanybody in-between.",
+            "htmlSnippet": "Q&amp;A for Salesforce administrators, implementation experts, developers and <br>\nanybody in-between.",
+            "cacheId": "05kXlqKhIUkJ",
+            "formattedUrl": "https://salesforce.stackexchange.com/",
+            "htmlFormattedUrl": "https://salesforce.<b>stackexchange</b>.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmkuBLiBEiJzQ30e2N0j_LFDIaw-RJ4feNN2077BtoqRWHPHoDOujhqqvt"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:site": "@StackSalesforce",
+                        "twitter:domain": "salesforce.stackexchange.com",
+                        "og:image": "https://cdn.sstatic.net/Sites/salesforce/img/apple-touch-icon@2.png?v=2b5099539758",
+                        "twitter:title": "Salesforce Stack Exchange",
+                        "twitter:description": "Q&A for Salesforce administrators, implementation experts, developers and anybody in-between",
+                        "og:url": "https://salesforce.stackexchange.com/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.sstatic.net/Sites/salesforce/img/apple-touch-icon@2.png?v=2b5099539758"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Interpersonal Skills Stack Exchange",
+            "htmlTitle": "Interpersonal Skills <b>Stack Exchange</b>",
+            "link": "https://interpersonal.stackexchange.com/",
+            "displayLink": "interpersonal.stackexchange.com",
+            "snippet": "Q&A for people looking to improve their interpersonal communication skills.",
+            "htmlSnippet": "Q&amp;A for people looking to improve their interpersonal communication skills.",
+            "cacheId": "1SbZ6LWRpEsJ",
+            "formattedUrl": "https://interpersonal.stackexchange.com/",
+            "htmlFormattedUrl": "https://interpersonal.<b>stackexchange</b>.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_sQmsKYrAVwl2qGolAwdeut0PTaXnOdtXDliJnjoMeQ5vz57fZ9b8JgQ"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:domain": "interpersonal.stackexchange.com",
+                        "og:image": "https://cdn.sstatic.net/Sites/interpersonal/img/apple-touch-icon@2.png?v=17e836faa592",
+                        "twitter:title": "Interpersonal Skills Stack Exchange",
+                        "twitter:description": "Q&A for people looking to improve their interpersonal communication skills",
+                        "og:url": "https://interpersonal.stackexchange.com/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.sstatic.net/Sites/interpersonal/img/apple-touch-icon@2.png?v=17e836faa592"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Blender Stack Exchange",
+            "htmlTitle": "Blender <b>Stack Exchange</b>",
+            "link": "https://blender.stackexchange.com/",
+            "displayLink": "blender.stackexchange.com",
+            "snippet": "Q&A for people who use Blender to create 3D graphics, animations, or games.",
+            "htmlSnippet": "Q&amp;A for people who use Blender to create 3D graphics, animations, or games.",
+            "cacheId": "Hg267xg3eCQJ",
+            "formattedUrl": "https://blender.stackexchange.com/",
+            "htmlFormattedUrl": "https://blender.<b>stackexchange</b>.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrQVIqYgoGj1GHS4lw5cw3uVTaN4W4dsAUsI-6KQJHidkbOIoT53SY6rXx"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:site": "@StackBlender",
+                        "twitter:domain": "blender.stackexchange.com",
+                        "og:image": "https://cdn.sstatic.net/Sites/blender/img/apple-touch-icon@2.png?v=68358e232572",
+                        "twitter:title": "Blender Stack Exchange",
+                        "twitter:description": "Q&A for people who use Blender to create 3D graphics, animations, or games",
+                        "og:url": "https://blender.stackexchange.com/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.sstatic.net/Sites/blender/img/apple-touch-icon@2.png?v=68358e232572"
+                    }
+                ]
+            }
+        }
+    ]
+}

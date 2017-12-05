@@ -1,0 +1,359 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - License",
+                "totalResults": "339000000",
+                "searchTerms": "License",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "previousPage": [
+            {
+                "title": "Google Custom Search - License",
+                "totalResults": "339000000",
+                "searchTerms": "License",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - License",
+                "totalResults": "339000000",
+                "searchTerms": "License",
+                "count": 10,
+                "startIndex": 21,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ]
+    },
+    "context": {
+        "title": "News Home Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.455382,
+        "formattedSearchTime": "0.46",
+        "totalResults": "339000000",
+        "formattedTotalResults": "339,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "License | jQuery Foundation",
+            "htmlTitle": "<b>License</b> | jQuery Foundation",
+            "link": "https://jquery.org/license/",
+            "displayLink": "jquery.org",
+            "snippet": "License. Note: For the purposes of this document, the term \"Project\" will refer to \nany JS Foundation project using the MIT license AND referencing this document \nin the header of the distributed Project code or Project website source code.",
+            "htmlSnippet": "<b>License</b>. Note: For the purposes of this document, the term &quot;Project&quot; will refer to <br>\nany JS Foundation project using the MIT <b>license</b> AND referencing this document <br>\nin the header of the distributed Project code or Project website source code.",
+            "cacheId": "aeNUV72qIrgJ",
+            "formattedUrl": "https://jquery.org/license/",
+            "htmlFormattedUrl": "https://jquery.org/<b>license</b>/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "author": "jQuery Foundation - jquery.org",
+                        "viewport": "width=device-width"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Creative Commons license chooser",
+            "htmlTitle": "Creative Commons <b>license</b> chooser",
+            "link": "https://creativecommons.org/choose/",
+            "displayLink": "creativecommons.org",
+            "snippet": "We'd love to hear from you! Creative Commons PO Box 1866, Mountain View, CA \n94042. info@creativecommons.org · Frequently Asked Questions. Except where \notherwise noted, content on this site is licensed under a Creative Commons \nAttribution 4.0 International license. Icons by The Noun Project.",
+            "htmlSnippet": "We&#39;d love to hear from you! Creative Commons PO Box 1866, Mountain View, CA <br>\n94042. info@creativecommons.org &middot; Frequently Asked Questions. Except where <br>\notherwise noted, content on this site is <b>licensed</b> under a Creative Commons <br>\nAttribution 4.0 International <b>license</b>. Icons by The Noun Project.",
+            "cacheId": "TtuJ11o4_l0J",
+            "formattedUrl": "https://creativecommons.org/choose/",
+            "htmlFormattedUrl": "https://creativecommons.org/choose/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "msapplication-tileimage": "https://creativecommons.org/wp-content/uploads/2016/05/cc-site-icon-300x300.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Font Awesome License",
+            "htmlTitle": "Font Awesome <b>License</b>",
+            "link": "http://fontawesome.io/license/",
+            "displayLink": "fontawesome.io",
+            "snippet": "Font License. Applies to all desktop and webfont files in the following directory: \nfont-awesome/fonts/ . License: SIL OFL 1.1; URL: http://scripts.sil.org/OFL. Code \nLicense. Applies to all CSS and LESS files in the following directories: font-\nawesome/css/ , font-awesome/less/ , and font-awesome/scss/ . License: MIT \nLicense ...",
+            "htmlSnippet": "Font <b>License</b>. Applies to all desktop and webfont files in the following directory: <br>\nfont-awesome/fonts/ . <b>License</b>: SIL OFL 1.1; URL: http://scripts.sil.org/OFL. Code <br>\n<b>License</b>. Applies to all CSS and LESS files in the following directories: font-<br>\nawesome/css/ , font-awesome/less/ , and font-awesome/scss/ . <b>License</b>: MIT <br>\n<b>License</b>&nbsp;...",
+            "cacheId": "xLQU4T1IB1cJ",
+            "formattedUrl": "fontawesome.io/license/",
+            "htmlFormattedUrl": "fontawesome.io/<b>license</b>/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width,initial-scale=1",
+                        "author": "Dave Gandy"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "fishing license",
+            "htmlTitle": "fishing <b>license</b>",
+            "link": "https://www.azgfd.com/License/",
+            "displayLink": "www.azgfd.com",
+            "snippet": "",
+            "htmlSnippet": "",
+            "formattedUrl": "https://www.azgfd.com/License/",
+            "htmlFormattedUrl": "https://www.azgfd.com/<b>License</b>/"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "License — Flask Documentation (0.12)",
+            "htmlTitle": "<b>License</b> — Flask Documentation (0.12)",
+            "link": "http://flask.pocoo.org/docs/latest/license/",
+            "displayLink": "flask.pocoo.org",
+            "snippet": "Patches and Suggestions¶. Adam Zapletal; Ali Afshar; Chris Edgemon; Chris \nGrindstaff; Christopher Grebs; Daniel Neuhäuser; Dan Sully; David Lord @\ndavidism; Edmond Burnett; Florent Xicluna; Georg Brandl; Jeff Widman @\njeffwidman; Justin Quick; Kenneth Reitz; Keyan Pishdadian; Marian Sigler; \nMartijn Pieters; Matt ...",
+            "htmlSnippet": "Patches and Suggestions¶. Adam Zapletal; Ali Afshar; Chris Edgemon; Chris <br>\nGrindstaff; Christopher Grebs; Daniel Neuhäuser; Dan Sully; David Lord @<br>\ndavidism; Edmond Burnett; Florent Xicluna; Georg Brandl; Jeff Widman @<br>\njeffwidman; Justin Quick; Kenneth Reitz; Keyan Pishdadian; Marian Sigler; <br>\nMartijn Pieters; Matt&nbsp;...",
+            "cacheId": "MOB0gTK27TkJ",
+            "formattedUrl": "flask.pocoo.org/docs/latest/license/",
+            "htmlFormattedUrl": "flask.pocoo.org/docs/latest/<b>license</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "180",
+                        "height": "161",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSile6mvr2VthM78TyZx6nczNPeHVNpXGJCl1h9D3UTb4rEB5ArS5x_Bs"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://flask.pocoo.org/docs/0.12/_static/flask.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Renew license | New York State of Opportunity Department of Motor ...",
+            "htmlTitle": "Renew <b>license</b> | New York State of Opportunity Department of Motor ...",
+            "link": "https://dmv.ny.gov/driver-license/renew-license",
+            "displayLink": "dmv.ny.gov",
+            "snippet": "You must renew your license before it expires or you could face fines. [fn]If you \ndrive with expired license get a traffic ticket, you will receive fines and penalties.",
+            "htmlSnippet": "You must renew your <b>license</b> before it expires or you could face fines. [fn]If you <br>\ndrive with expired <b>license</b> get a traffic ticket, you will receive fines and penalties.",
+            "cacheId": "RsEqZY6jIs8J",
+            "formattedUrl": "https://dmv.ny.gov/driver-license/renew-license",
+            "htmlFormattedUrl": "https://dmv.ny.gov/driver-<b>license</b>/renew-<b>license</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "mobileoptimized": "width",
+                        "handheldfriendly": "true",
+                        "apple-mobile-web-app-capable": "yes",
+                        "og:site_name": "New York State of Opportunity Department of Motor Vehicles",
+                        "og:type": "article",
+                        "og:url": "https://dmv.ny.gov/driver-license/renew-license",
+                        "og:title": "Renew license",
+                        "og:description": "You must renew your license before it expires or you could face fines. [fn]If you drive with expired license get a traffic ticket, you will receive fines and penalties",
+                        "og:updated_time": "2017-11-20T10:27:52-05:00",
+                        "twitter:card": "summary",
+                        "twitter:url": "https://dmv.ny.gov/driver-license/renew-license",
+                        "twitter:title": "Renew license",
+                        "twitter:description": "You must renew your license before it expires or you could face fines. [fn]If you drive with expired license get a traffic ticket, you will receive fines and penalties",
+                        "article:published_time": "2013-10-28T12:36:00-04:00",
+                        "article:modified_time": "2017-11-20T10:27:52-05:00",
+                        "dcterms.title": "Renew license",
+                        "dcterms.creator": "George Filieau",
+                        "dcterms.description": "You must renew your license before it expires or you could face fines. [fn]If you drive with expired license get a traffic ticket, you will receive fines and penalties",
+                        "dcterms.date": "2013-10-28T12:36-04:00",
+                        "dcterms.type": "Text",
+                        "dcterms.format": "text/html",
+                        "dcterms.identifier": "https://dmv.ny.gov/driver-license/renew-license",
+                        "dcterms.language": "en",
+                        "msapplication-config": "none",
+                        "msapplication-tilecolor": "#00589a",
+                        "msapplication-square150x150logo": "/sites/all/themes/dmvtheme/images/apple-touch-icon.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "License! Global | Connecting The Global Licensing Industry",
+            "htmlTitle": "<b>License</b>! Global | Connecting The Global <b>Licensing</b> Industry",
+            "link": "http://www.licensemag.com/",
+            "displayLink": "www.licensemag.com",
+            "snippet": "Licensing Expo is the meeting place for the global licensing industry. Connecting \nthe world's most influential brand owners and agents with consumer goods \nmanufacturers, licensees and retailers.",
+            "htmlSnippet": "<b>Licensing</b> Expo is the meeting place for the global <b>licensing</b> industry. Connecting <br>\nthe world&#39;s most influential brand owners and agents with consumer goods <br>\nmanufacturers, licensees and retailers.",
+            "cacheId": "9Q8KQ4KTAqYJ",
+            "formattedUrl": "www.licensemag.com/",
+            "htmlFormattedUrl": "www.<b>license</b>mag.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "303",
+                        "height": "167",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwx0zV0yATImBYbpcNtWIBZFPRHo3xRpVt2fE2VskgJtATlGPcY8Xb471f"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.licensemag.com/sites/www.licensingexpo.com/files/imagecache/license_global_slideshow_image/site-slideshow/1128_MeredithTime.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Licensing Expo | The meeting place for the global licensing industry",
+            "htmlTitle": "<b>Licensing</b> Expo | The meeting place for the global <b>licensing</b> industry",
+            "link": "https://www.licensingexpo.com/",
+            "displayLink": "www.licensingexpo.com",
+            "snippet": "For more than 35 years, Licensing Expo has connected the world's most \ninfluential entertainment, character, art, and corporate brand owners and agents \nwith consumer goods manufacturers, licensees and retailers. Whether you are \nlooking to spot trends, build partnerships, or secure brand rights for your products\n, ...",
+            "htmlSnippet": "For more than 35 years, <b>Licensing</b> Expo has connected the world&#39;s most <br>\ninfluential entertainment, character, art, and corporate brand owners and agents <br>\nwith consumer goods manufacturers, licensees and retailers. Whether you are <br>\nlooking to spot trends, build partnerships, or secure brand rights for your products<br>\n,&nbsp;...",
+            "cacheId": "1sZvIu1-FTYJ",
+            "formattedUrl": "https://www.licensingexpo.com/",
+            "htmlFormattedUrl": "https://www.<b>licensing</b>expo.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAlS4QICKG-75imyROrGfREcDKEGON6BfVE1M5MtGRE3U9DI3imeghko56"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:site_name": "Licensing Expo",
+                        "og:type": "website",
+                        "og:url": "https://www.licensingexpo.com/",
+                        "og:title": "Licensing Expo",
+                        "og:description": "The meeting place for the global licensing industry",
+                        "twitter:card": "summary",
+                        "twitter:url": "https://www.licensingexpo.com/",
+                        "twitter:title": "Licensing Expo",
+                        "twitter:description": "The meeting place for the global licensing industry"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.licensingexpo.com/sites/default/files/Icon-Brands-Big.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "License agreement | Apply for a TEDx license | Organize a local ...",
+            "htmlTitle": "<b>License</b> agreement | Apply for a TEDx <b>license</b> | Organize a local ...",
+            "link": "https://www.ted.com/participate/organize-a-local-tedx-event/apply-for-a-tedx-license/tedx-license-agreement",
+            "displayLink": "www.ted.com",
+            "snippet": "License agreement. Before submitting an application to register a TEDx event, \nyou're required by TED Conferences LLC (\"TED\") to agree and accept the \nfollowing license. Make sure you have read and understand all of the TEDx rules \nbefore you agree to this license. 1) Limited License: When you accept the terms \nand ...",
+            "htmlSnippet": "<b>License</b> agreement. Before submitting an application to register a TEDx event, <br>\nyou&#39;re required by TED Conferences LLC (&quot;TED&quot;) to agree and accept the <br>\nfollowing <b>license</b>. Make sure you have read and understand all of the TEDx rules <br>\nbefore you agree to this <b>license</b>. 1) Limited <b>License</b>: When you accept the terms <br>\nand&nbsp;...",
+            "cacheId": "MBIqZnobtZsJ",
+            "formattedUrl": "https://www.ted.com/...a-local...license/tedx-license-agreement",
+            "htmlFormattedUrl": "https://www.ted.com/...a-local...<b>license</b>/tedx-<b>license</b>-agreement",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "http://pl.tedcdn.com/social/ted-logo-fb.png"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "thumbnail": "http://pl.tedcdn.com/social/ted-logo-fb.png",
+                        "og:image": "http://pl.tedcdn.com/social/ted-logo-fb.png",
+                        "theme-color": "#E62B1E",
+                        "handheldfriendly": "True",
+                        "mobileoptimized": "320",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "apple-mobile-web-app-title": "TED Talks",
+                        "apple-mobile-web-app-capable": "yes",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "application-name": "TED Talks",
+                        "msapplication-config": "https://www.ted.com/browserconfig.xml",
+                        "msapplication-tilecolor": "#000000",
+                        "title": "License agreement",
+                        "og:title": "License agreement",
+                        "og:description": "TED is a nonprofit devoted to Ideas Worth Spreading - through TED.com, our annual conferences, the annual TED Prize and local TEDx events.",
+                        "og:url": "https://www.ted.com/participate/organize-a-local-tedx-event/apply-for-a-tedx-license/tedx-license-agreement",
+                        "fb:app_id": "201021956610141"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://pl.tedcdn.com/social/ted-logo-fb.png",
+                        "type": "1",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Licenses",
+            "htmlTitle": "<b>Licenses</b>",
+            "link": "https://www.creative-tim.com/license",
+            "displayLink": "www.creative-tim.com",
+            "snippet": "When you purchase an item from Creative Tim, you are actually purchasing a \nlicense to use that item. In order to understand our licenses, please read the \nfollowing details. All our free items are under MIT license. All our premium items \nare covered by our Personal and Developer licenses.",
+            "htmlSnippet": "When you purchase an item from Creative Tim, you are actually purchasing a <br>\n<b>license</b> to use that item. In order to understand our <b>licenses</b>, please read the <br>\nfollowing details. All our free items are under MIT <b>license</b>. All our premium items <br>\nare covered by our Personal and Developer <b>licenses</b>.",
+            "cacheId": "mCEYM-KMGwUJ",
+            "formattedUrl": "https://www.creative-tim.com/license",
+            "htmlFormattedUrl": "https://www.creative-tim.com/<b>license</b>",
+            "pagemap": {
+                "website": [
+                    {
+                        "url": "http://www.creative-tim.com/license"
+                    },
+                    {
+                        "url": "https://www.creative-tim.com/"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                        "p:domain_verify": "96e683d0045e44dfac2deaec70e57185",
+                        "csrf-param": "authenticity_token",
+                        "csrf-token": "wRxZyBsdSZPpQtoA73sLDxupkloywEhrH3AyBcZ+HZjV6OfO+/HLb7o0r1V5mcBE6ZUg/rgGYqa+uSLYE02Lzg=="
+                    }
+                ],
+                "localbusiness": [
+                    {
+                        "url": "Creative Tim",
+                        "logo": "https://s3.amazonaws.com/creativetim_bucket/new_logo.png",
+                        "name": "Creative Tim",
+                        "sameas": "https://dribbble.com/creativetim"
+                    }
+                ],
+                "searchaction": [
+                    {
+                        "target": "https://www.creative-tim.com/search?q={}",
+                        "query-input": "name=q"
+                    }
+                ]
+            }
+        }
+    ]
+}

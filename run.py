@@ -1,6 +1,6 @@
 import os
 import sys
-
+import time
 import metapy
 
 from crawler import starCrawl
@@ -19,25 +19,19 @@ def initializedClassifier(configFile):
 	fwdIndex = metapy.index.make_forward_index(configFile)
 
 	dset = metapy.classify.MulticlassDataset(fwdIndex)
-	view = metapy.classify.MulticlassDatasetView(dset)
-	# shuffle dataset
-	view.shuffle()
-	# Get whole view dataset as training set
-	training = view[0:len(view)]
-	classifier = metapy.classify.NaiveBayes(training=training, alpha=0.01, beta=0.01)
+	classifier = metapy.classify.NaiveBayes(training=dset, alpha=0.01, beta=0.01)
 	return classifier, fwdIndex
 
-	'''
+
 	# Cross validating
-	print('Running cross-validation...')
+	'''print('Running cross-validation...')
 	start_time = time.time()
 	matrix = metapy.classify.cross_validate(lambda fold:
-											getClassifier(fold, invertedIndex, fwdIndex), dset, 5)
+											metapy.classify.NaiveBayes(training=fold), dset, 5)
 
 	print(matrix)
 	matrix.print_stats()
 	print("Elapsed: {} seconds".format(round(time.time() - start_time, 4)))'''
-
 
 def getSeedUrls(args):
 	"""

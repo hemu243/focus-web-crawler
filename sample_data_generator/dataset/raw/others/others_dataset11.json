@@ -1,0 +1,450 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Model",
+                "totalResults": "446000000",
+                "searchTerms": "Model",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "previousPage": [
+            {
+                "title": "Google Custom Search - Model",
+                "totalResults": "446000000",
+                "searchTerms": "Model",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Model",
+                "totalResults": "446000000",
+                "searchTerms": "Model",
+                "count": 10,
+                "startIndex": 21,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ]
+    },
+    "context": {
+        "title": "News Home Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.528684,
+        "formattedSearchTime": "0.53",
+        "totalResults": "446000000",
+        "formattedTotalResults": "446,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Tesla | Model X",
+            "htmlTitle": "Tesla | <b>Model</b> X",
+            "link": "https://shop.tesla.com/us/en/category/vehicle-accessories/model-x.html",
+            "displayLink": "shop.tesla.com",
+            "snippet": "Exterior. Model X Ski/Snowboard Carrier for Hitch Rack. $280.00. Model X Tow \nPackage. $1,250.00. Model X Hitch Rack. $539.00. Model X Car Cover Model X \nCar Cover. $450.00. $500.00 ...",
+            "htmlSnippet": "Exterior. <b>Model</b> X Ski/Snowboard Carrier for Hitch Rack. $280.00. <b>Model</b> X Tow <br>\nPackage. $1,250.00. <b>Model</b> X Hitch Rack. $539.00. <b>Model</b> X Car Cover <b>Model</b> X <br>\nCar Cover. $450.00. $500.00&nbsp;...",
+            "cacheId": "VdtFwhObuekJ",
+            "formattedUrl": "https://shop.tesla.com/us/en/category/vehicle.../model-x.html",
+            "htmlFormattedUrl": "https://shop.tesla.com/us/en/category/vehicle.../<b>model</b>-x.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "299",
+                        "height": "168",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRf5rZcLjBB0CUI6nj2vjtHX6d_kiti1XoMbRku79tVT0juRwuuD-FgKyHA"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "msapplication-tilecolor": "#cc0000",
+                        "msapplication-tileimage": "/etc/designs/tesla-commerce/images/icons/mstile-144x144.png?2"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://shop.tesla.com/content/dam/tesla/X.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Model | Definition of Model by Merriam-Webster",
+            "htmlTitle": "<b>Model</b> | Definition of <b>Model</b> by Merriam-Webster",
+            "link": "https://www.merriam-webster.com/dictionary/model",
+            "displayLink": "www.merriam-webster.com",
+            "snippet": "Define model: a set of plans for a building; copy, image; structural design — \nmodel in a sentence.",
+            "htmlSnippet": "Define <b>model</b>: a set of plans for a building; copy, image; structural design — <br>\n<b>model</b> in a sentence.",
+            "cacheId": "8SGFjPyWCNEJ",
+            "formattedUrl": "https://www.merriam-webster.com/dictionary/model",
+            "htmlFormattedUrl": "https://www.merriam-webster.com/dictionary/<b>model</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiWkmAPQIpM4rW0fn6-FEyDE4f_jwhtZtlt5eXAdsNUv8_e_5WlKKCuvI"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "unsafe-url",
+                        "fb:app_id": "178450008855735",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "Definition of MODEL",
+                        "og:image": "https://assets2.cdn-mw.com/mw/static/social-media-share/mw-logo-245x245@1x.png",
+                        "og:url": "https://www.merriam-webster.com/dictionary/model",
+                        "og:description": "a set of plans for a building; copy, image; structural design… See the full definition",
+                        "twitter:title": "Definition of MODEL",
+                        "twitter:image": "https://assets2.cdn-mw.com/mw/static/social-media-share/mw-logo-245x245@1x.png",
+                        "twitter:url": "https://www.merriam-webster.com/dictionary/model",
+                        "twitter:description": "a set of plans for a building; copy, image; structural design… See the full definition",
+                        "twitter:card": "summary",
+                        "twitter:site": "@MerriamWebster"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://assets2.cdn-mw.com/mw/static/social-media-share/mw-logo-245x245@1x.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Tesla | Model 3",
+            "htmlTitle": "Tesla | <b>Model</b> 3",
+            "link": "https://shop.tesla.com/us/en/category/vehicle-accessories/model-3.html",
+            "displayLink": "shop.tesla.com",
+            "snippet": "Model S/X/3 Cable Organizer. $25.00. Model S/X/3 SAE J1772 Charging Adapter\n. $95.00. Model S/X/3 Wall Connector Model S/X/3 Wall Connector. $500.00. \n$500.00. Interior. Model 3 Front Glass Roof Sunshade. $75.00. Model 3 Phone \nCharging Cable Model 3 Phone Charging Cable Model 3 Phone Charging Cable\n.",
+            "htmlSnippet": "<b>Model</b> S/X/3 Cable Organizer. $25.00. <b>Model</b> S/X/3 SAE J1772 Charging Adapter<br>\n. $95.00. <b>Model</b> S/X/3 Wall Connector <b>Model</b> S/X/3 Wall Connector. $500.00. <br>\n$500.00. Interior. <b>Model</b> 3 Front Glass Roof Sunshade. $75.00. <b>Model</b> 3 Phone <br>\nCharging Cable <b>Model</b> 3 Phone Charging Cable <b>Model</b> 3 Phone Charging Cable<br>\n.",
+            "cacheId": "2Oi8BlSEPg0J",
+            "formattedUrl": "https://shop.tesla.com/us/en/category/vehicle.../model-3.html",
+            "htmlFormattedUrl": "https://shop.tesla.com/us/en/category/vehicle.../<b>model</b>-3.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "299",
+                        "height": "168",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQY3ogD696VZGGLpd-wG8CkA6Yz5Sa90NMg9jSxw7vx5Sy9AaeREZZCqwk"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "msapplication-tilecolor": "#cc0000",
+                        "msapplication-tileimage": "/etc/designs/tesla-commerce/images/icons/mstile-144x144.png?2"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://shop.tesla.com/content/dam/tesla/3.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Strategyzer | Business Model Canvas",
+            "htmlTitle": "Strategyzer | Business <b>Model</b> Canvas",
+            "link": "https://strategyzer.com/canvas/business-model-canvas",
+            "displayLink": "strategyzer.com",
+            "snippet": "The Business Model Canvas. Your business model on one page. A global \nstandard used by millions of people in companies of all sizes. You can use the \ncanvas to describe, design, challenge, and pivot your business model. It works in \nconjunction with the Value Proposition Canvas and other strategic management \nand ...",
+            "htmlSnippet": "The Business <b>Model</b> Canvas. Your business <b>model</b> on one page. A global <br>\nstandard used by millions of people in companies of all sizes. You can use the <br>\ncanvas to describe, design, challenge, and pivot your business <b>model</b>. It works in <br>\nconjunction with the Value Proposition Canvas and other strategic management <br>\nand&nbsp;...",
+            "cacheId": "XfR52toHm90J",
+            "formattedUrl": "https://strategyzer.com/canvas/business-model-canvas",
+            "htmlFormattedUrl": "https://strategyzer.com/canvas/business-<b>model</b>-canvas",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "263",
+                        "height": "192",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaCG4AE_CMGXxSum60AYXjlEw2Sz3da9xLTSUb0oFCrmx0xPhZohE778oP"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "fragment": "!",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "csrf-param": "authenticity_token",
+                        "csrf-token": "0ZmaJ1DLM1dwaiXt0lG8R/jmmWc50TeY3u9Um44/J3J/5nFxH+6b8/6sAOT6OokW4TRP6RP+ODsvZm3aXY6Dnw=="
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.strategyzer.com/assets/marketing/canvases-business-model-canvas-a8509296e3cd543ee7c6881cada7082376d4dfdf4eac40e849490c0dba2d178b.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Model UN",
+            "htmlTitle": "<b>Model</b> UN",
+            "link": "http://www.unausa.org/global-classrooms-model-un",
+            "displayLink": "www.unausa.org",
+            "snippet": "Model United Nations is an authentic simulation of the UN General Assembly, UN \nSecurity Council, or other multilateral body, which introduces students to the \nworld of diplomacy, negotiation, and decision making. At Model UN, students \nstep into the shoes of ambassadors of countries that are members of the UN, from\n ...",
+            "htmlSnippet": "<b>Model</b> United Nations is an authentic simulation of the UN General Assembly, UN <br>\nSecurity Council, or other multilateral body, which introduces students to the <br>\nworld of diplomacy, negotiation, and decision making. At <b>Model</b> UN, students <br>\nstep into the shoes of ambassadors of countries that are members of the UN, from<br>\n&nbsp;...",
+            "cacheId": "W1jCzMs8iVEJ",
+            "formattedUrl": "www.unausa.org/global-classrooms-model-un",
+            "htmlFormattedUrl": "www.unausa.org/global-classrooms-<b>model</b>-un",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "title": "Model UN",
+                        "author": "Ross Feldman",
+                        "og:title": "Model UN",
+                        "og:type": "article",
+                        "og:url": "http://www.unausa.org/global-classrooms-model-un",
+                        "og:site_name": "United Nations Association of the USA",
+                        "og:image": "http://www.unausa.org/images/content/GC_Model_UN/About/GC-IMUN-550.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.unausa.org/images/content/GC_Model_UN/About/GC-IMUN-550.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Modell's (@Modells) | Twitter",
+            "htmlTitle": "Modell&#39;s (@Modells) | Twitter",
+            "link": "https://twitter.com/modells?lang=en",
+            "displayLink": "twitter.com",
+            "snippet": "12.2K tweets • 2035 photos/videos • 16.8K followers. \"Don't forget to head to \nModell's in Times Sq this evening to meet retired @nyjets Linebacker, @\nBartScott57 - 5PM! #NYJ #Jets More info here: https://t.co/DOTi7AYsmh https://t.\nco/BsVgQDaXel\"",
+            "htmlSnippet": "12.2K tweets • 2035 photos/videos • 16.8K followers. &quot;Don&#39;t forget to head to <br>\nModell&#39;s in Times Sq this evening to meet retired @nyjets Linebacker, @<br>\nBartScott57 - 5PM! #NYJ #Jets More info here: https://t.co/DOTi7AYsmh https://t.<br>\nco/BsVgQDaXel&quot;",
+            "cacheId": "--RYuY9Z1FEJ",
+            "formattedUrl": "https://twitter.com/modells?lang=en",
+            "htmlFormattedUrl": "https://twitter.com/<b>model</b>ls?lang=en",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKQgX-jYPlQHG2SvFKUc0Hek5j7w7_ulgZ-4b_DKSnsVTfKpE3J0QpgBFJ"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tileimage": "//abs.twimg.com/favicons/win8-tile-144.png",
+                        "msapplication-tilecolor": "#00aced",
+                        "swift-page-name": "profile",
+                        "swift-page-section": "profile",
+                        "al:ios:url": "twitter://user?screen_name=Modells",
+                        "al:ios:app_store_id": "333903271",
+                        "al:ios:app_name": "Twitter",
+                        "al:android:url": "twitter://user?screen_name=Modells",
+                        "al:android:package": "com.twitter.android",
+                        "al:android:app_name": "Twitter"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://pbs.twimg.com/profile_images/883450912609579008/ZLAv-ost_400x400.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "models/detection_model_zoo.md at master · tensorflow/models ...",
+            "htmlTitle": "<b>models</b>/detection_model_zoo.md at master · tensorflow/<b>models</b> ...",
+            "link": "https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md",
+            "displayLink": "github.com",
+            "snippet": "We provide a collection of detection models pre-trained on the COCO dataset, \nthe Kitti dataset, and the Open Images dataset. These models can be useful for \nout-of-the-box inference if you are interested in categories already in COCO (e.g., \nhumans, cars, etc) or in Open Images (e.g., surfboard, jacuzzi, etc). They are also\n ...",
+            "htmlSnippet": "We provide a collection of detection <b>models</b> pre-trained on the COCO dataset, <br>\nthe Kitti dataset, and the Open Images dataset. These <b>models</b> can be useful for <br>\nout-of-the-box inference if you are interested in categories already in COCO (e.g., <br>\nhumans, cars, etc) or in Open Images (e.g., surfboard, jacuzzi, etc). They are also<br>\n&nbsp;...",
+            "cacheId": "RJYm6TImthwJ",
+            "formattedUrl": "https://github.com/tensorflow/models/.../detection_model_zoo.md",
+            "htmlFormattedUrl": "https://github.com/tensorflow/<b>models</b>/.../detection_<b>model</b>_zoo.md",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhON1yVHOCOKqAJyUcPSaFjQ3iIaOOZ92KKY6x8MMoMFUOyRaat2a0_mn-"
+                    }
+                ],
+                "softwaresourcecode": [
+                    {
+                        "author": "tensorflow",
+                        "name": "models",
+                        "text": "Tensorflow detection model zoo We provide a collection of detection models pre-trained on the COCO dataset, the Kitti dataset, and the Open Images dataset. These models can be useful for out-of-the..."
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width",
+                        "fb:app_id": "1401488693436528",
+                        "og:image": "https://avatars2.githubusercontent.com/u/15658638?s=400&v=4",
+                        "og:site_name": "GitHub",
+                        "og:type": "object",
+                        "og:title": "tensorflow/models",
+                        "og:url": "https://github.com/tensorflow/models",
+                        "og:description": "Models and examples built with TensorFlow. Contribute to models development by creating an account on GitHub.",
+                        "pjax-timeout": "1000",
+                        "request-id": "A710:2F41:EFAB7:180489:5A259C3F",
+                        "google-analytics": "UA-3769691-2",
+                        "octolytics-host": "collector.githubapp.com",
+                        "octolytics-app-id": "github",
+                        "octolytics-event-url": "https://collector.githubapp.com/github-external/browser_event",
+                        "octolytics-dimension-request_id": "A710:2F41:EFAB7:180489:5A259C3F",
+                        "octolytics-dimension-region_edge": "sea",
+                        "octolytics-dimension-region_render": "iad",
+                        "analytics-location": "/<user-name>/<repo-name>/blob/show",
+                        "dimension1": "Logged Out",
+                        "hostname": "github.com",
+                        "expected-hostname": "github.com",
+                        "js-proxy-site-detection-payload": "N2QyYWZjNmU5ZDA0ZDQzNDgzN2MzMjVlNmZmMjllMDI2ODIyNjRiYWNjZDBiYzUzYjE1Y2E0MTkyNGI1OWRmMHx7InJlbW90ZV9hZGRyZXNzIjoiNjYuMjQ5Ljc5LjkyIiwicmVxdWVzdF9pZCI6IkE3MTA6MkY0MTpFRkFCNzoxODA0ODk6NUEyNTlDM0YiLCJ0aW1lc3RhbXAiOjE1MTI0MTQyODAsImhvc3QiOiJnaXRodWIuY29tIn0=",
+                        "html-safe-nonce": "70550ee3063e736215370fa483e3fbc61728a010",
+                        "go-import": "github.com/tensorflow/models git https://github.com/tensorflow/models.git",
+                        "octolytics-dimension-user_id": "15658638",
+                        "octolytics-dimension-user_login": "tensorflow",
+                        "octolytics-dimension-repository_id": "51117837",
+                        "octolytics-dimension-repository_nwo": "tensorflow/models",
+                        "octolytics-dimension-repository_public": "true",
+                        "octolytics-dimension-repository_is_fork": "false",
+                        "octolytics-dimension-repository_network_root_id": "51117837",
+                        "octolytics-dimension-repository_network_root_nwo": "tensorflow/models",
+                        "octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown": "false",
+                        "browser-stats-url": "https://api.github.com/_private/browser/stats",
+                        "browser-errors-url": "https://api.github.com/_private/browser/errors",
+                        "theme-color": "#1e2327"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://avatars2.githubusercontent.com/u/15658638?s=400&v=4"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "url": "Code",
+                        "name": "Code",
+                        "position": "1"
+                    },
+                    {
+                        "url": "Issues 440",
+                        "name": "Issues",
+                        "position": "2"
+                    },
+                    {
+                        "url": "Pull requests 157",
+                        "name": "Pull requests",
+                        "position": "3"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "model - Wiktionary",
+            "htmlTitle": "<b>model</b> - Wiktionary",
+            "link": "https://en.wiktionary.org/wiki/model",
+            "displayLink": "en.wiktionary.org",
+            "snippet": "The beautiful model had her face on the cover of almost every fashion magazine \nimaginable. A person, usually an attractive female, hired to show items or goods \nto the public, such as items given away as prizes on a TV game show. A \nrepresentation of a physical object, usually in miniature. quotations ▽. The boy \nplayed ...",
+            "htmlSnippet": "The beautiful <b>model</b> had her face on the cover of almost every fashion magazine <br>\nimaginable. A person, usually an attractive female, hired to show items or goods <br>\nto the public, such as items given away as prizes on a TV game show. A <br>\nrepresentation of a physical object, usually in miniature. quotations ▽. The boy <br>\nplayed&nbsp;...",
+            "cacheId": "WY6OxQIf5wMJ",
+            "formattedUrl": "https://en.wiktionary.org/wiki/model",
+            "htmlFormattedUrl": "https://en.wiktionary.org/wiki/<b>model</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "referrer": "origin-when-cross-origin"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Model Group | Verpackungshersteller",
+            "htmlTitle": "<b>Model</b> Group | Verpackungshersteller",
+            "link": "http://www.modelgroup.com/",
+            "displayLink": "www.modelgroup.com",
+            "snippet": "Entwicklung und Herstellung intelligenter, innovativer Verpackungen und \nDisplays aus Voll- und Wellkarton. Weitere Dienstleistungen: Stanzwerkzeuge, \nLogistik, Co-Packing, Recycling, Wellkartonpapier.",
+            "htmlSnippet": "Entwicklung und Herstellung intelligenter, innovativer Verpackungen und <br>\nDisplays aus Voll- und Wellkarton. Weitere Dienstleistungen: Stanzwerkzeuge, <br>\nLogistik, Co-Packing, Recycling, Wellkartonpapier.",
+            "cacheId": "8qgykBlebBsJ",
+            "formattedUrl": "www.modelgroup.com/",
+            "htmlFormattedUrl": "www.<b>model</b>group.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "289",
+                        "height": "175",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSs8CSRHTsTSeKBKrVTf6b5a0yk9Ele1YT7A9F3FgmUrpWPSGsZ17Ob1dY"
+                    }
+                ],
+                "Item": [
+                    {
+                        "encoded": "We offer intelligent, innovative and efficiently manufactured packaging made of cardboard and corrugated board, together with a comprehensive package of services. Daniel Model, CEO Model Group"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "handheldfriendly": "true",
+                        "mobileoptimized": "width",
+                        "og:site_name": "Model Group",
+                        "og:url": "http://www.modelgroup.com/en/home",
+                        "og:type": "article",
+                        "og:title": "Home",
+                        "viewport": "width=device-width"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.modelgroup.com/files/Viscuit_Midor_Digitaldruck_1.jpg"
+                    }
+                ],
+                "Document": [
+                    {
+                        "encoded": "The Model company was founded by Louis Model in 1882 as a small hand pulping factory in Ermatingen. Read more"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Models | Django documentation | Django",
+            "htmlTitle": "<b>Models</b> | Django documentation | Django",
+            "link": "https://docs.djangoproject.com/en/2.0/topics/db/models/",
+            "displayLink": "docs.djangoproject.com",
+            "snippet": "The most important part of a model – and the only required part of a model – is \nthe list of database fields it defines. Fields are specified by class attributes. Be \ncareful not to choose field names that conflict with the models API like clean , \nsave , or delete . Example: from django.db import models class Musician(models.\nModel): ...",
+            "htmlSnippet": "The most important part of a <b>model</b> – and the only required part of a <b>model</b> – is <br>\nthe list of database fields it defines. Fields are specified by class attributes. Be <br>\ncareful not to choose field names that conflict with the <b>models</b> API like clean , <br>\nsave , or delete . Example: from django.db import <b>models</b> class Musician(<b>models</b>.<br>\n<b>Model</b>):&nbsp;...",
+            "cacheId": "JJMVQupXYzwJ",
+            "formattedUrl": "https://docs.djangoproject.com/en/2.0/topics/db/models/",
+            "htmlFormattedUrl": "https://docs.djangoproject.com/en/2.0/topics/db/<b>models</b>/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "copyright": "Django Software Foundation",
+                        "msapplication-tilecolor": "#113228",
+                        "msapplication-tileimage": "/s/img/icon-tile.b01ac0ef9f67.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

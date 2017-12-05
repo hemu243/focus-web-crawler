@@ -66,6 +66,7 @@ DEFAULT_REQUEST_HEADERS = {
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
     'focused_scrapy_crawler.pipelines.RemoveDupLink': 300,
+    'focused_scrapy_crawler.pipelines.UrlOutputPipeline': 900,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

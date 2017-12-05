@@ -24,3 +24,22 @@ class RemoveDupLink(object):
             else:
                 self.links_seen.add(link.get('link'))
         return item
+
+
+class UrlOutputPipeline(object):
+
+    def open_spider(self, spider):
+        self.newHomefile = open('output/NewHomeUrl-Crawler-%s.txt'%spider.name, 'a+')
+        self.notNewHomefile = open('output/NotNewHomeUrl-Crawler-%s.txt'%spider.name, 'a+')
+
+    def close_spider(self, spider):
+        self.newHomefile.close()
+        self.notNewHomefile.close()
+
+    def process_item(self, item, spider):
+        line = "%s\t%f\n" %(item.get('url'), item.get('label'))
+        if item.get('label') == spider.NEW_HOME_LABEL:
+            self.newHomefile.write(line)
+        else:
+            self.notNewHomefile.write(line)
+        return item
