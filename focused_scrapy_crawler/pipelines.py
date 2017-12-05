@@ -19,7 +19,6 @@ class RemoveDupLink(object):
             if link.get("found", False):
                 continue
             if link.get('link') in self.links_seen:
-                spider.log("Duplicate link found: %s" % link)
                 link['found'] = True
                 link['last_updated'] = time.time()
             else:

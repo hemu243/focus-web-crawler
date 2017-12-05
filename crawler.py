@@ -21,7 +21,7 @@ def starCrawl(input_urls="http://newhomesource.com", classifier=None, fwdIndex=N
 	# Create Crawl Process which also start twisted reactor
 	process = CrawlerProcess(get_project_settings())
 	# Pointed out bot which I am running
-	process.crawl('basicbot', input_urls, classifier=classifier, fwdIndex=fwdIndex)
+	process.crawl('newhouse', input_urls, classifier=classifier, fwdIndex=fwdIndex)
 
 	# Start
 	process.start() # the script will block here until the crawling is finished
