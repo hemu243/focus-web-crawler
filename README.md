@@ -3,6 +3,11 @@
 This project is about developing focus web crawler which classified web page related to new house development. In this web crawler to predict page relevance, it considers URL Word, URL Path, Anchor Tag, Parent Page, and soundaring text to predict page relevance and rank relevance document appropiately.
 
 ## Dependencies
+scrapy 1.4.0
+metapy latest
+Beautiful Soup version 4
+
+### Install scrapy
 Web crawler component depends on scrapy. Before running this project, install scrapy using following commands
 
 To install Scrapy using conda, run:
@@ -24,6 +29,33 @@ AttributeError: 'module' object has no attribute 'OP_NO_TLSv1_1'
 then updating openSSL will fix this issue using this command 
 ```
 sudo pip install --upgrade --ignore-installed pyopenssl
+```
+
+### Install Metapy
+We are using metapy---Python bindings for MeTA. 
+
+```bash
+# Ensure your pip is up to date
+pip install --upgrade pip
+```
+
+```bash
+# install metapy!
+pip install metapy pytoml
+```
+
+If you're on an EWS machine
+
+```bash
+module load python3
+# install metapy on your local directory
+pip install metapy pytoml --user
+```
+
+
+### Install Beautiful Soup
+```bash
+pip install beautifulsoup4
 ```
 
 ## Inputs

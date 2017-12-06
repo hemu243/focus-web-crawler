@@ -4,9 +4,10 @@ from scrapy.linkextractors import LinkExtractor
 from scrapy.spiders import CrawlSpider, Rule
 from focused_scrapy_crawler.items import FocusedScrapyCrawlerItem
 import time
-import metapy
 import logging
 from scrapy.http import Request
+from classifier import WebClassifier
+from bs4 import BeautifulSoup
 
 
 class NewhouseSpider(CrawlSpider):
@@ -21,8 +22,6 @@ class NewhouseSpider(CrawlSpider):
 
     crawled_urls = []
 
-    NEW_HOME_LABEL = 'NewHome'
-
     def __init__(self, input_urls=None, allowed_domains=None, *args, **kwargs):
         """
         Initialized crawl
@@ -36,9 +35,11 @@ class NewhouseSpider(CrawlSpider):
         if allowed_domains:
             self.allowed_domains = str(allowed_domains).split(',')
         # Initialized classifier
-        if 'classifier' in kwargs and 'fwdIndex' in kwargs:
+        if 'classifier' in kwargs and isinstance(kwargs.get('classifier'), WebClassifier):
             self.classifier = kwargs.get('classifier')
-            self.fwdIndex = kwargs.get('fwdIndex')
+        else:
+            self.log("Invalid classifier={}".format(kwargs.get('classifier')), logging.ERROR)
+            self.classifier = None
 
     def parse_item(self, response):
         """
@@ -48,57 +49,76 @@ class NewhouseSpider(CrawlSpider):
         :return: items
         """
         NewhouseSpider.crawled_urls.append(response.url)
-
         item = FocusedScrapyCrawlerItem()
         item['url'] = response.url
-        item['body'] = self._getBody(response)
-        item['page_title'] = '\n'.join(response.xpath("//h1/text()").extract())
-        item['last_updated'] = time.time()
+        item['link_text'] = response.meta.get('link_text', '') if response.meta else ''
+        soup = BeautifulSoup(response.body, 'html.parser')
 
-        # Update links
+        item['body_p_tags'] = self._getBodyText(soup)
+        item['head_title'] = self._getHeadTitle(soup)
+        item['last_crawled'] = time.time()
+        links = self._getLinks(response, soup)
+
+        # get score of the page based upon classifier
+        if self.classifier:
+            score = self.classifier.score(item['link_text'], item['head_title'], item['body_p_tags'])
+        else:
+            score = 0.0
+
+        item['score'] = score
+        yield item
+        if score <= 0:
+            self.log("item={} does not belong to new home so stop crawling".format(item),
+                     logging.INFO)
+        else:
+            for link in links:
+                req = Request(link, priority=int(score * 1000),  # after the request is done, run parse_item to train the apprentice
+                              callback=self.parse_item)
+                yield req
+
+    def _getHeadTitle(self, soup):
+        """
+        Get head title
+        :param soup: beautiful soup instance
+        :return: head title text
+        """
+        head = soup.find("head")
+        if not head:
+            return ''
+        if head and head.find("title"):
+            return head.find("title").get_text()
+        else:
+            return ''
+
+    def _getBodyText(self, soup):
+        """
+        get body text
+        :param soup: beautiful soup instance
+        :return: all body paragraph
+        """
+        body = soup.find("body")
+        body_text = ''
+        if not body:
+            return body_text
+        for pTag in body.find_all('p'):
+            body_text += pTag.get_text() + "\n"
+        return body_text
+
+    def _getLinks(self, response, soup):
+        """
+        Get anchor tags for whole page
+        :param response: response object instance
+        :param soup: beautiful soup instance
+        :return: list of urls
+        """
         links = []
-        for anchor in response.xpath('//a'):
-            if anchor.root is not None:
-                continue
-            link = {}
-            href = anchor.root.attrib.get('href')
-            text = anchor.root.text
+        for anchor in soup.find_all('a'):
+            href = anchor.get('href')
             # Convert relative href to full uri
             if href and href.startswith("/"):
                 href = response.urljoin(href)
             else:
                 continue
-            link['link'] = href
-            link['text'] = text
-            link['last_updated'] = time.time()
-            links.append(link)
-        item['links'] = links
-        # Feature page title and content of the page
-        doc = metapy.index.Document()
-        doc.content(item['page_title'] + item['body'])
-        docvec = self.fwdIndex.tokenize(doc)
-        label = self.classifier.classify(docvec)
-        item['label'] = label
-        yield item
-        if label != NewhouseSpider.NEW_HOME_LABEL:
-            self.log("item={} does not belong to new home so stop crawling".format(item),
-                     logging.INFO)
-        else:
-            for link in links:
-                req = Request(link, priority=10,  # after the request is done, run parse_item to train the apprentice
-                              callback=self.parse_item)
-                yield req
+            links.append(href)
+        return links
 
-    def _getBody(self, response):
-        """
-        Get all text data of response
-        :param response: response object
-        :return: basestring
-        """
-        body = '\n'.join(response.xpath('//body//p//text()').extract())
-        # Some cleaning is being done
-        if isinstance(body, basestring):
-            # Remove spaces
-            body.lstrip()
-            body.rstrip()
-        return body

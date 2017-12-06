@@ -9,37 +9,29 @@ from scrapy.exceptions import DropItem
 import time
 
 class RemoveDupLink(object):
+    """
+    Avoid duplicate crawling
+    """
     def __init__(self):
         self.links_seen = set()
 
     def process_item(self, item, spider):
-        links = item.get('links', [])
         # Remove dup and already seen links
-        for link in links:
-            if link.get("found", False):
-                continue
-            if link.get('link') in self.links_seen:
-                link['found'] = True
-                link['last_updated'] = time.time()
-            else:
-                self.links_seen.add(link.get('link'))
-        return item
+        if item.get('url') in self.links_seen:
+            raise DropItem("Duplicate item in %s" % item.get('url'))
+        else:
+            self.links_seen.add(item.get('url'))
+            return item
 
 
 class UrlOutputPipeline(object):
-
-    def open_spider(self, spider):
-        self.newHomefile = open('output/NewHomeUrl-Crawler-%s.txt'%spider.name, 'a+')
-        self.notNewHomefile = open('output/NotNewHomeUrl-Crawler-%s.txt'%spider.name, 'a+')
-
-    def close_spider(self, spider):
-        self.newHomefile.close()
-        self.notNewHomefile.close()
-
+    """
+    Output data to file system
+    """
     def process_item(self, item, spider):
-        line = "%s\t%f\n" %(item.get('url'), item.get('label'))
-        if item.get('label') == spider.NEW_HOME_LABEL:
-            self.newHomefile.write(line)
-        else:
-            self.notNewHomefile.write(line)
-        return item
+        line = "%s\t%f\n" %(item.get('url'), item.get('score'))
+        with open('output/output-all-%s.txt'%spider.name, 'a+') as fp:
+            fp.writelines([line])
+        if item.get('score', 0) > 0:
+            with open('output/output-positive-score-%s.txt' % spider.name, 'a+') as fp:
+                fp.writelines([line])

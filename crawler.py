@@ -16,7 +16,7 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-def starCrawl(input_urls="http://newhomesource.com", classifier=None, fwdIndex=None):
+def starCrawl(input_urls="http://newhomesource.com", classifier=None):
 	"""
 	Start web crawler using seed urls and classifier instance
 	Note - this function block the process because crawl will keep running until
@@ -30,7 +30,7 @@ def starCrawl(input_urls="http://newhomesource.com", classifier=None, fwdIndex=N
 	# Create Crawl Process which also start twisted reactor
 	process = CrawlerProcess(get_project_settings())
 	# Pointed out bot which I am running
-	process.crawl('newhouse', input_urls, classifier=classifier, fwdIndex=fwdIndex)
+	process.crawl('newhouse', input_urls, classifier=classifier)
 
 	# Start
 	process.start() # the script will block here until the crawling is finished
