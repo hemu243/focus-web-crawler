@@ -3,7 +3,7 @@ import sys
 
 from naive_bayes_classifier import NaiveBayesClassifier
 
-from crawler import starCrawl
+from crawler import startCrawl
 
 
 def getSeedUrls(args):
@@ -28,8 +28,7 @@ def main(args):
 	if not urls:
 		return
 	classifier = NaiveBayesClassifier(os.path.abspath("config.toml"))
-	# TODO - get input urls as command line options
-	starCrawl(input_urls=urls, classifier=classifier)
+	startCrawl(input_urls=urls, classifier=classifier)
 
 
 if __name__ == '__main__':

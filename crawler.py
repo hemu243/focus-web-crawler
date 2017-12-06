@@ -47,7 +47,7 @@ def setup_logging(log_name, logger_name, logger=None, level=logging.INFO, is_con
 '''
 
 
-def starCrawl(input_urls="http://newhomesource.com", classifier=None):
+def startCrawl(input_urls="http://newhomesource.com", classifier=None):
 	"""
 	Start web crawler using seed urls and classifier instance
 	Note - this function block the process because crawl will keep running until

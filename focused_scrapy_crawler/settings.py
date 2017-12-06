@@ -66,7 +66,7 @@ DEFAULT_REQUEST_HEADERS = {
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
     'focused_scrapy_crawler.pipelines.RemoveDupLink': 300,
-    'focused_scrapy_crawler.pipelines.UrlOutputPipeline': 900,
+    'focused_scrapy_crawler.pipelines.UrlOutputPipeline': 900
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
@@ -89,3 +89,7 @@ ITEM_PIPELINES = {
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+
+
+# LOG Settings
+LOG_FILE = "output/log/crawler.log"
