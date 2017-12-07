@@ -1,0 +1,536 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - api",
+                "totalResults": "214000000",
+                "searchTerms": "api",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - api",
+                "totalResults": "214000000",
+                "searchTerms": "api",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ]
+    },
+    "context": {
+        "title": "News Home Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.240957,
+        "formattedSearchTime": "0.24",
+        "totalResults": "214000000",
+        "formattedTotalResults": "214,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Application programming interface - Wikipedia",
+            "htmlTitle": "<b>Application programming interface</b> - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Application_programming_interface",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "In computer programming, an application programming interface (API) is a set of \nsubroutine definitions, protocols, and tools for building application software. In \ngeneral terms, it is a set of clearly defined methods of communication between \nvarious software components. A good API makes it easier to develop a computer\n ...",
+            "htmlSnippet": "In computer programming, an <b>application programming interface</b> (<b>API</b>) is a set of <br>\nsubroutine definitions, protocols, and tools for building application software. In <br>\ngeneral terms, it is a set of clearly defined methods of communication between <br>\nvarious software components. A good <b>API</b> makes it easier to develop a computer<br>\n&nbsp;...",
+            "cacheId": "fFDAQUix3qsJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/Application_programming_interface",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Application_programming_interface",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "referrer": "origin-when-cross-origin"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "API",
+            "htmlTitle": "<b>API</b>",
+            "link": "http://www.api.org/",
+            "displayLink": "www.api.org",
+            "snippet": "The American Petroleum Institute (API) is the only national trade association that \nrepresents all aspects of America's oil and natural gas industry. Our more than \n650 corporate members, from the largest major oil company to the smallest of \nindependents, come from all segments of the industry.",
+            "htmlSnippet": "The <b>American Petroleum Institute</b> (<b>API</b>) is the only national trade association that <br>\nrepresents all aspects of America&#39;s oil and natural gas industry. Our more than <br>\n650 corporate members, from the largest major oil company to the smallest of <br>\nindependents, come from all segments of the industry.",
+            "cacheId": "CyfX341tQsgJ",
+            "formattedUrl": "www.api.org/",
+            "htmlFormattedUrl": "www.<b>api</b>.org/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTbUuF084DlRWpgAZbCJPi9RAjrsh5dkcWMu4N_gzrKaSKXLwU7CAla7vX"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:url": "http://www.api.org/",
+                        "og:type": "website",
+                        "og:title": "API"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.api.org/~/media/APIWebsite/Carousel/video-fallback-mobile-pwc.jpg?h=600&w=600&la=en"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "What is application program interface (API)? - Definition from WhatIs ...",
+            "htmlTitle": "What is <b>application program interface</b> (<b>API</b>)? - Definition from WhatIs ...",
+            "link": "http://searchmicroservices.techtarget.com/definition/application-program-interface-API",
+            "displayLink": "searchmicroservices.techtarget.com",
+            "snippet": "This definition explains the meaning of application program interface, also known \nas API, and how APIs provide information to apps and webpages.",
+            "htmlSnippet": "This definition explains the meaning of <b>application program interface</b>, also known <br>\nas <b>API</b>, and how <b>APIs</b> provide information to apps and webpages.",
+            "cacheId": "6zPipkgviBsJ",
+            "formattedUrl": "searchmicroservices.techtarget.com/.../application-program-interface-API",
+            "htmlFormattedUrl": "searchmicroservices.techtarget.com/.../application-program-interface-<b>API</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "308",
+                        "height": "163",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvMB4nwG9hQHW8ohR69o2GlS7JtQjngijuizY4-i5UOGo4Yt7liaICWKo"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width,initial-scale=1",
+                        "og:title": "What is application program interface (API)? - Definition from WhatIs.com",
+                        "og:site_name": "SearchMicroservices",
+                        "og:url": "http://searchmicroservices.techtarget.com/definition/application-program-interface-API",
+                        "og:description": "This definition explains the meaning of application program interface, also known as API, and how APIs provide information to apps and webpages.",
+                        "fb:app_id": "870327132989388",
+                        "og:type": "article",
+                        "og:locale": "en_US",
+                        "article:publisher": "https://www.facebook.com/businessinformationmagazine",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "@microservicestt",
+                        "twitter:title": "application program interface (API)",
+                        "twitter:description": "This definition explains the meaning of application program interface, also known as API, and how APIs provide information to apps and webpages.",
+                        "og:image": "https://cdn.ttgtmedia.com/ITKE/images/logos/TTlogo-379x201.png",
+                        "twitter:creator": "@whatisdotcom"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.ttgtmedia.com/ITKE/images/logos/TTlogo-379x201.png"
+                    }
+                ],
+                "article": [
+                    {
+                        "name": "What is application program interface (API)? - Definition from WhatIs.com",
+                        "description": "This definition explains the meaning of application program interface, also known as API, and how APIs provide information to apps and webpages.",
+                        "image": "https://cdn.ttgtmedia.com/ITKE/images/logos/TTlogo-379x201.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "What is an API? In English, please. – freeCodeCamp",
+            "htmlTitle": "What is an <b>API</b>? In English, please. – freeCodeCamp",
+            "link": "https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82",
+            "displayLink": "medium.freecodecamp.org",
+            "snippet": "Aug 13, 2016 ... I meet lots of people, both working in tech and elsewhere, who have a rather \nvague or incorrect idea about what this fairly common term means. Technically, \nAPI stands for Application Programming…",
+            "htmlSnippet": "Aug 13, 2016 <b>...</b> I meet lots of people, both working in tech and elsewhere, who have a rather <br>\nvague or incorrect idea about what this fairly common term means. Technically, <br>\n<b>API</b> stands for Application Programming…",
+            "cacheId": "3Vyvo7lu-iAJ",
+            "formattedUrl": "https://medium.freecodecamp.org/what-is-an-api-in-english-please- b880a3214a82",
+            "htmlFormattedUrl": "https://medium.freecodecamp.org/what-is-an-<b>api</b>-in-english-please- b880a3214a82",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "355",
+                        "height": "142",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSi3qbylugcQ-IG3cn3Xrw6bHdTK_KesH5-i2MlxjrAu1tEtBYiZAJ1tH0"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "title": "What is an API? In English, please. – freeCodeCamp",
+                        "referrer": "always",
+                        "theme-color": "#000000",
+                        "og:title": "What is an API? In English, please. – freeCodeCamp",
+                        "og:url": "https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82",
+                        "og:image": "https://cdn-images-1.medium.com/max/1200/1*F8R-PEI9iVJ-sY3qFZemCg.png",
+                        "fb:app_id": "542599432471018",
+                        "og:description": "Before I learned software development, API sounded like a kind of beer.",
+                        "twitter:description": "Before I learned software development, API sounded like a kind of beer.",
+                        "twitter:image:src": "https://cdn-images-1.medium.com/max/1200/1*F8R-PEI9iVJ-sY3qFZemCg.png",
+                        "author": "Petr Gazarov",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "article:publisher": "https://www.facebook.com/freecodecamp",
+                        "article:author": "1279607215397876",
+                        "article:published_time": "2016-08-13T08:02:18.559Z",
+                        "twitter:creator": "@PetrGazarov",
+                        "twitter:site": "@freecodecamp",
+                        "og:site_name": "freeCodeCamp",
+                        "twitter:app:name:iphone": "Medium",
+                        "twitter:app:id:iphone": "828256236",
+                        "twitter:app:url:iphone": "medium://p/b880a3214a82",
+                        "al:ios:app_name": "Medium",
+                        "al:ios:app_store_id": "828256236",
+                        "al:android:package": "com.medium.reader",
+                        "al:android:app_name": "Medium",
+                        "al:ios:url": "medium://p/b880a3214a82",
+                        "al:android:url": "medium://p/b880a3214a82",
+                        "al:web:url": "https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn-images-1.medium.com/max/1200/1*F8R-PEI9iVJ-sY3qFZemCg.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Study Abroad - Academic Programs International",
+            "htmlTitle": "Study Abroad - <b>Academic Programs International</b>",
+            "link": "https://www.apistudyabroad.com/",
+            "displayLink": "www.apistudyabroad.com",
+            "snippet": "API offers comprehensive study abroad, intern, teach, work, volunteer, high \nschool and gap year programs in almost 30 countries around the world!",
+            "htmlSnippet": "<b>API</b> offers comprehensive study abroad, intern, teach, work, volunteer, high <br>\nschool and gap year programs in almost 30 countries around the world!",
+            "cacheId": "QhOiw2DN0j8J",
+            "formattedUrl": "https://www.apistudyabroad.com/",
+            "htmlFormattedUrl": "https://www.<b>apis</b>tudyabroad.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "202",
+                        "height": "249",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwkmyiv3qD7miBdS8VphJHav6buUDn53j7FoFgo0a422fcTLXGYRoJKRGc"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:locale": "en_US",
+                        "og:type": "website",
+                        "og:title": "Study Abroad and More!",
+                        "og:description": "API offers study abroad, intern, teach, work, volunteer, high school, and gap year programs around the world!",
+                        "og:url": "https://www.apistudyabroad.com/",
+                        "og:site_name": "API Study Abroad",
+                        "fb:admins": "1036063717",
+                        "twitter:card": "summary",
+                        "twitter:description": "API offers comprehensive study abroad, intern, teach, work, volunteer, high school and gap year programs in almost 30 countries around the world!",
+                        "twitter:title": "Study Abroad - Academic Programs International",
+                        "twitter:site": "@apiabroad",
+                        "twitter:creator": "@apiabroad",
+                        "p:domain_verify": "fcfb169fd7a7a93b309457accfa579a9",
+                        "fb:page_id": "129069242813"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://apistudyabroad-wpengine.netdna-ssl.com/wp-content/themes/API-custom/images/study_abroad.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "What is an API? - What is an API? | HowStuffWorks",
+            "htmlTitle": "What is an <b>API</b>? - What is an <b>API</b>? | HowStuffWorks",
+            "link": "https://money.howstuffworks.com/business-communications/how-to-leverage-an-api-for-conferencing1.htm",
+            "displayLink": "money.howstuffworks.com",
+            "snippet": "An application-programming interface (API) is a set of programming instructions \nand standards for accessing a Web-based software application or Web tool. A \nsoftware company releases its API to the public so that other software developers \ncan design products that are powered by its service. For example, Amazon.com ...",
+            "htmlSnippet": "An <b>application-programming interface</b> (<b>API</b>) is a set of programming instructions <br>\nand standards for accessing a Web-based software application or Web tool. A <br>\nsoftware company releases its <b>API</b> to the public so that other software developers <br>\ncan design products that are powered by its service. For example, Amazon.com&nbsp;...",
+            "cacheId": "X2_h_Yy41tEJ",
+            "formattedUrl": "https://money.howstuffworks.com/.../how-to-leverage-an-api-for- conferencing1.htm",
+            "htmlFormattedUrl": "https://money.howstuffworks.com/.../how-to-leverage-an-<b>api</b>-for- conferencing1.htm",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "100",
+                        "height": "60",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXK55CIVfYhPgxadiciKiTgEsoJhKV2qYn4pk-Ij_p3cNON77ki_I9Lw"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "template": "Article",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "og:title": "How to Leverage an API for Conferencing",
+                        "og:url": "https://money.howstuffworks.com/business-communications/how-to-leverage-an-api-for-conferencing.htm",
+                        "og:site_name": "HowStuffWorks",
+                        "og:description": "What is an API? Learn more about what is an API and how it is applied at HowStuffWorks.",
+                        "fb:admins": "100001675325868",
+                        "fb:app_id": "508246805972410",
+                        "og:image": "https://s.hswstatic.com/gif/leverage-an-api-for-conferencing.gif",
+                        "og:image:width": "100",
+                        "og:image:height": "60",
+                        "og:type": "article",
+                        "article:publisher": "https://www.howstuffworks.com",
+                        "article:published_time": "2007-11-23T03:00:00-05:00",
+                        "article:author": "http://www.howstuffworks.com/https://www.howstuffworks.com/about-dave-roos.htm",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "howstuffworks",
+                        "twitter:image": "https://r.hswstatic.com/u_0/w_480/gif/web-conference-security-5-90x130.jpg",
+                        "apple-itunes-app": "app-id=401986544",
+                        "google-play-app": "app-id=com.twentythreedivide.hsw",
+                        "msapplication-config": "//s.hswstatic.com/en-us/hsw/img/browserconfig.xml",
+                        "msapplication-tilecolor": "#da532c",
+                        "msapplication-tileimage": "//s.hswstatic.com/en-us/hsw/img/mstile-144x144.png",
+                        "theme-color": "#ffffff"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s.hswstatic.com/gif/leverage-an-api-for-conferencing.gif"
+                    }
+                ],
+                "sitenavigationelement": [
+                    {
+                        "name": "Health",
+                        "url": "Health"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "HowStuffWorks",
+                        "name": "HowStuffWorks",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Money",
+                        "name": "Money",
+                        "position": "2"
+                    },
+                    {
+                        "item": "Business",
+                        "name": "Business",
+                        "position": "3"
+                    },
+                    {
+                        "item": "Business Communications",
+                        "name": "Business Communications",
+                        "position": "4"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "API: Automated Processes, Inc.",
+            "htmlTitle": "<b>API</b>: <b>Automated Processes, Inc</b>.",
+            "link": "https://www.apiaudio.com/",
+            "displayLink": "www.apiaudio.com",
+            "snippet": "\"As an educational facility, MacEwan wanted to choose a brand that fits with their \nphilosophy of how audio engineering should be taught. The school strongly \nbelieves in API's brand, and in the analog console market, we fully believe API is \nthe best out there.\" — David Kotch, Principal Architect, MacEwan University ...",
+            "htmlSnippet": "&quot;As an educational facility, MacEwan wanted to choose a brand that fits with their <br>\nphilosophy of how audio engineering should be taught. The school strongly <br>\nbelieves in <b>API&#39;s</b> brand, and in the analog console market, we fully believe <b>API</b> is <br>\nthe best out there.&quot; — David Kotch, Principal Architect, MacEwan University&nbsp;...",
+            "cacheId": "NJ_ZFq3R1nIJ",
+            "formattedUrl": "https://www.apiaudio.com/",
+            "htmlFormattedUrl": "https://www.<b>api</b>audio.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "434",
+                        "height": "116",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvebZSgSNzaqItk8H6zOeojMqulkf-Q5dL6UyLIokOdxlhMuXUP-lh0Eg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=1015, maximum-scale=4"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.apiaudio.com/img2x/hp_rotator_09_512v.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "What is an API? - YouTube",
+            "htmlTitle": "What is an <b>API</b>? - YouTube",
+            "link": "https://www.youtube.com/watch?v=s7wmiS2mSXY",
+            "displayLink": "www.youtube.com",
+            "snippet": "Jun 19, 2015 ... What exactly is an API? Finally learn for yourself in this helpful video from \nMuleSoft, the API experts. https://www.mulesoft.com/platform/api The textbook d...",
+            "htmlSnippet": "Jun 19, 2015 <b>...</b> What exactly is an <b>API</b>? Finally learn for yourself in this helpful video from <br>\nMuleSoft, the <b>API</b> experts. https://www.mulesoft.com/platform/<b>api</b> The textbook d...",
+            "cacheId": "QC63N4dVzWUJ",
+            "formattedUrl": "https://www.youtube.com/watch?v=s7wmiS2mSXY",
+            "htmlFormattedUrl": "https://www.youtube.com/watch?v=s7wmiS2mSXY",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiLGI8UPXyfX29xxg4oHzeiDxFzq2HMnPsKI7XhllQtG1Xsjf6bOENirAQ"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://i.ytimg.com/vi/s7wmiS2mSXY/maxresdefault.jpg",
+                        "width": "1280",
+                        "height": "720"
+                    }
+                ],
+                "person": [
+                    {
+                        "url": "http://www.youtube.com/user/mulesoftvids"
+                    },
+                    {
+                        "url": "https://plus.google.com/109579054098346041729"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "title": "What is an API?",
+                        "theme-color": "#ff0000",
+                        "og:site_name": "YouTube",
+                        "og:url": "https://www.youtube.com/watch?v=s7wmiS2mSXY",
+                        "og:title": "What is an API?",
+                        "og:image": "https://i.ytimg.com/vi/s7wmiS2mSXY/maxresdefault.jpg",
+                        "og:description": "What exactly is an API? Finally learn for yourself in this helpful video from MuleSoft, the API experts. https://www.mulesoft.com/platform/api The textbook d...",
+                        "al:ios:app_store_id": "544007664",
+                        "al:ios:app_name": "YouTube",
+                        "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=s7wmiS2mSXY&feature=applinks",
+                        "al:android:url": "vnd.youtube://www.youtube.com/watch?v=s7wmiS2mSXY&feature=applinks",
+                        "al:android:app_name": "YouTube",
+                        "al:android:package": "com.google.android.youtube",
+                        "al:web:url": "https://www.youtube.com/watch?v=s7wmiS2mSXY&feature=applinks",
+                        "og:type": "video",
+                        "og:video:url": "https://www.youtube.com/embed/s7wmiS2mSXY",
+                        "og:video:secure_url": "https://www.youtube.com/embed/s7wmiS2mSXY",
+                        "og:video:type": "text/html",
+                        "og:video:width": "1280",
+                        "og:video:height": "720",
+                        "og:video:tag": "Application Programming Interface (Literature Subject)"
+                    }
+                ],
+                "videoobject": [
+                    {
+                        "url": "https://www.youtube.com/watch?v=s7wmiS2mSXY",
+                        "name": "What is an API?",
+                        "description": "What exactly is an API? Finally learn for yourself in this helpful video from MuleSoft, the API experts. https://www.mulesoft.com/platform/api The textbook d...",
+                        "paid": "False",
+                        "channelid": "UCdKHAtrkG11idCHbuDEfJ5A",
+                        "videoid": "s7wmiS2mSXY",
+                        "duration": "PT3M25S",
+                        "unlisted": "False",
+                        "thumbnailurl": "https://i.ytimg.com/vi/s7wmiS2mSXY/maxresdefault.jpg",
+                        "embedurl": "https://www.youtube.com/embed/s7wmiS2mSXY",
+                        "playertype": "HTML5 Flash",
+                        "width": "1280",
+                        "height": "720",
+                        "isfamilyfriendly": "True",
+                        "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+                        "interactioncount": "1089689",
+                        "datepublished": "2015-06-19",
+                        "genre": "Science & Technology"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.ytimg.com/vi/s7wmiS2mSXY/maxresdefault.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "What is API - Application Program Interface? Webopedia",
+            "htmlTitle": "What is <b>API</b> - <b>Application Program Interface</b>? Webopedia",
+            "link": "https://www.webopedia.com/TERM/A/API.html",
+            "displayLink": "www.webopedia.com",
+            "snippet": "The application program interface (API) specifies how software components \ninteract and are used when programming graphical user interface components.",
+            "htmlSnippet": "The <b>application program interface</b> (<b>API</b>) specifies how software components <br>\ninteract and are used when programming graphical user interface components.",
+            "cacheId": "UJSVMHiSxvoJ",
+            "formattedUrl": "https://www.webopedia.com/TERM/A/API.html",
+            "htmlFormattedUrl": "https://www.webopedia.com/TERM/A/<b>API</b>.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "147",
+                        "height": "129",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMcJkbKpCWta3ugI8MUHYZ7NggU4Wn_EaaM0iSIro23v80kTaPyCldqa8u"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "wt.qs_dlk": "WiCWqQrIhEIAACgcn40AAABD",
+                        "wt.qs_shmv": "hv20150423-clarkson.sf.quinstreet.net",
+                        "inject_params": "WT.qs_dlk=WiCWqQrIhEIAACgcn40AAABD&",
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                        "dcsext.tax": "product communications",
+                        "dcsext.qse_b2b_tax": "product communications",
+                        "msvalidate.01": "C392FA607C4CFFB2CDBC0094C5A54042",
+                        "cache-creation-time": "2017-11-30 10:13:00.000 -0800"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.webopedia.com/imagesvr_ce/5853/api.JPG"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Slack API | Slack",
+            "htmlTitle": "Slack <b>API</b> | Slack",
+            "link": "https://api.slack.com/",
+            "displayLink": "api.slack.com",
+            "snippet": "Slack APIs allow you to integrate complex services with Slack to go beyond the \nintegrations we provide out of the box.",
+            "htmlSnippet": "Slack <b>APIs</b> allow you to integrate complex services with Slack to go beyond the <br>\nintegrations we provide out of the box.",
+            "cacheId": "Vfa10MM7D7gJ",
+            "formattedUrl": "https://api.slack.com/",
+            "htmlFormattedUrl": "https://<b>api</b>.slack.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200",
+                        "height": "200",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAyCxXJms_l3lSI_hdeH6LEdGYrmcRWxBn78O77PegJTw5xFjeiCpAvvBf"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "author": "Slack",
+                        "handheldfriendly": "true",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:type": "website",
+                        "og:site_name": "Slack",
+                        "og:image": "https://a.slack-edge.com/f30f/img/services/api_200.png",
+                        "og:title": "Slack API",
+                        "og:description": "Slack APIs allow you to integrate complex services with Slack to go beyond the integrations we provide out of the box.",
+                        "twitter:site": "@slackapi",
+                        "twitter:card": "summary",
+                        "msapplication-tilecolor": "#FFFFFF",
+                        "msapplication-tileimage": "https://a.slack-edge.com/436da/marketing/img/meta/app-144.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://a.slack-edge.com/f30f/img/services/api_200.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

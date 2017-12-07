@@ -1,0 +1,312 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - api",
+                "totalResults": "214000000",
+                "searchTerms": "api",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "previousPage": [
+            {
+                "title": "Google Custom Search - api",
+                "totalResults": "214000000",
+                "searchTerms": "api",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - api",
+                "totalResults": "214000000",
+                "searchTerms": "api",
+                "count": 10,
+                "startIndex": 21,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ]
+    },
+    "context": {
+        "title": "News Home Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.251677,
+        "formattedSearchTime": "0.25",
+        "totalResults": "214000000",
+        "formattedTotalResults": "214,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "API",
+            "htmlTitle": "<b>API</b>",
+            "link": "https://webpack.js.org/api/",
+            "displayLink": "webpack.js.org",
+            "snippet": "A variety of interfaces are available to customize the compilation process. Some \nfeatures overlap between interfaces, e.g. a configuration option may be available \nvia a CLI flag, while others exist only through a single interface. The following \nhigh-level information should get you started.",
+            "htmlSnippet": "A variety of interfaces are available to customize the compilation process. Some <br>\nfeatures overlap between interfaces, e.g. a configuration option may be available <br>\nvia a CLI flag, while others exist only through a single interface. The following <br>\nhigh-level information should get you started.",
+            "cacheId": "sWCPkK7rll4J",
+            "formattedUrl": "https://webpack.js.org/api/",
+            "htmlFormattedUrl": "https://webpack.js.org/<b>api</b>/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "theme-color": "#2B3A42"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Stripe API Reference",
+            "htmlTitle": "Stripe <b>API</b> Reference",
+            "link": "https://stripe.com/docs/api",
+            "displayLink": "stripe.com",
+            "snippet": "The Stripe API is organized around REST. Our API has predictable, resource-\noriented URLs, and uses HTTP response codes to indicate API errors. We use \nbuilt-in HTTP features, like HTTP authentication and HTTP verbs, which are \nunderstood by off-the-shelf HTTP clients. We support cross-origin resource \nsharing, ...",
+            "htmlSnippet": "The Stripe <b>API</b> is organized around REST. Our <b>API</b> has predictable, resource-<br>\noriented URLs, and uses HTTP response codes to indicate <b>API</b> errors. We use <br>\nbuilt-in HTTP features, like HTTP authentication and HTTP verbs, which are <br>\nunderstood by off-the-shelf HTTP clients. We support cross-origin resource <br>\nsharing,&nbsp;...",
+            "formattedUrl": "https://stripe.com/docs/api",
+            "htmlFormattedUrl": "https://stripe.com/docs/<b>api</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, user-scalable=no"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Google+ API | Google+ Platform for Web | Google Developers",
+            "htmlTitle": "Google+ <b>API</b> | Google+ Platform for Web | Google Developers",
+            "link": "https://developers.google.com/+/web/api/rest/",
+            "displayLink": "developers.google.com",
+            "snippet": "Aug 4, 2017 ... API. View the Google+ API reference overview with resources People, Activities, \nand Comments. Note: The Google+ API currently provides read-only access to \npublic data. All API calls require either an OAuth 2.0 token or an API key.",
+            "htmlSnippet": "Aug 4, 2017 <b>...</b> <b>API</b>. View the Google+ <b>API</b> reference overview with resources People, Activities, <br>\nand Comments. Note: The Google+ <b>API</b> currently provides read-only access to <br>\npublic data. All <b>API</b> calls require either an OAuth 2.0 token or an <b>API</b> key.",
+            "cacheId": "NKyOafR0Bb4J",
+            "formattedUrl": "https://developers.google.com/+/web/api/rest/",
+            "htmlFormattedUrl": "https://developers.google.com/+/web/<b>api</b>/rest/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "xsrf_token": "LkXYMKR8C9zmHiST9E20MvtMxaeiJ7QWbyhWWB1fOJs6MTUxMjEyODc0MDE0NzQ0MA",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:site_name": "Google Developers",
+                        "og:type": "website",
+                        "og:url": "https://developers.google.com/+/web/api/rest/",
+                        "og:locale": "en",
+                        "og:title": "Google+ API  |  Google+ Platform for Web        |  Google Developers"
+                    }
+                ],
+                "article": [
+                    {
+                        "name": "Google+ API",
+                        "articlebody": "API Quota Authorization API Calls Data Formats Pagination Partial Responses The Google+ API is the programming interface to Google+. You can use the API to integrate your app or website with...",
+                        "datepublished": "2017-08-04T18:30:40.927350"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "API documentation",
+            "htmlTitle": "<b>API</b> documentation",
+            "link": "https://developers.digitalocean.com/documentation/v2/",
+            "displayLink": "developers.digitalocean.com",
+            "snippet": "API v2 Introduction. Welcome to the DigitalOcean API documentation. The \nDigitalOcean API allows you to manage Droplets and resources within the \nDigitalOcean cloud in a simple, programmatic way using conventional HTTP \nrequests. The endpoints are intuitive and powerful, allowing you to easily make \ncalls to retrieve ...",
+            "htmlSnippet": "<b>API</b> v2 Introduction. Welcome to the DigitalOcean <b>API</b> documentation. The <br>\nDigitalOcean <b>API</b> allows you to manage Droplets and resources within the <br>\nDigitalOcean cloud in a simple, programmatic way using conventional HTTP <br>\nrequests. The endpoints are intuitive and powerful, allowing you to easily make <br>\ncalls to retrieve&nbsp;...",
+            "formattedUrl": "https://developers.digitalocean.com/documentation/v2/",
+            "htmlFormattedUrl": "https://developers.digitalocean.com/documentation/v2/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "216",
+                        "height": "234",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQK6-5lwbP1trD9E2ZSdG72XxtBy-uYDKnVoGwNv3gsoYchUi5wfHdIdvo"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width = device-width, initial-scale = 1.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.digitalocean.com/assets/media/homepage/flexible-api-443d11a8.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Flickr API",
+            "htmlTitle": "Flickr <b>API</b>",
+            "link": "https://www.flickr.com/services/api/",
+            "displayLink": "www.flickr.com",
+            "snippet": "Flickr is almost certainly the best online photo management and sharing \napplication in the world. Show off your favorite photos and videos to the world, \nsecurely and privately show content to your friends and family, or blog the photos \nand videos you take with a cameraphone.",
+            "htmlSnippet": "Flickr is almost certainly the best online photo management and sharing <br>\napplication in the world. Show off your favorite photos and videos to the world, <br>\nsecurely and privately show content to your friends and family, or blog the photos <br>\nand videos you take with a cameraphone.",
+            "formattedUrl": "https://www.flickr.com/services/api/",
+            "htmlFormattedUrl": "https://www.flickr.com/services/<b>api</b>/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=1036",
+                        "application-name": "Flickr Services",
+                        "msapplication-tilecolor": "#ffffff",
+                        "msapplication-tileimage": "https://s.yimg.com/pw/images/favicon-msapplication-tileimage.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "API Evangelist",
+            "htmlTitle": "<b>API</b> Evangelist",
+            "link": "https://apievangelist.com/",
+            "displayLink": "apievangelist.com",
+            "snippet": "This is my online domain where I work to understand the world of the Application \nProgramming Interfaces, also known as APIs. This new way of sharing data using \nthe web is touching almost every aspect of our increasingly digital lives, providing \naccess to the bits and bytes that make our personal and professional worlds ...",
+            "htmlSnippet": "This is my online domain where I work to understand the world of the Application <br>\nProgramming Interfaces, also known as <b>APIs</b>. This new way of sharing data using <br>\nthe web is touching almost every aspect of our increasingly digital lives, providing <br>\naccess to the bits and bytes that make our personal and professional worlds&nbsp;...",
+            "cacheId": "P4AWgv2srgcJ",
+            "formattedUrl": "https://apievangelist.com/",
+            "htmlFormattedUrl": "https://<b>api</b>evangelist.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "348",
+                        "height": "145",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJ9Yk1RYhv53XjeN5dsiFmkV-nTzwnmwi5teOxBHHLQ2gU_Hlxbi8WD2Zg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, user-scalable=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://apievangelist.com/images/kin-lane-api-evangelist-cartoon.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Drupal API: Drupal 8.4.x | API reference",
+            "htmlTitle": "Drupal <b>API</b>: Drupal 8.4.x | <b>API</b> reference",
+            "link": "https://api.drupal.org/",
+            "displayLink": "api.drupal.org",
+            "snippet": "Other essential APIs. Plugins · Services and the Dependency Injection Container \n· Events · Internationalization · Caching · Utility classes and functions · User \naccounts, permissions, and roles · Render API · Theme system · Update API · \nMigration ...",
+            "htmlSnippet": "Other essential <b>APIs</b>. Plugins &middot; Services and the Dependency Injection Container <br>\n&middot; Events &middot; Internationalization &middot; Caching &middot; Utility classes and functions &middot; User <br>\naccounts, permissions, and roles &middot; Render <b>API</b> &middot; Theme system &middot; Update <b>API</b> &middot; <br>\nMigration&nbsp;...",
+            "cacheId": "iSdfeWf2lGQJ",
+            "formattedUrl": "https://api.drupal.org/",
+            "htmlFormattedUrl": "https://<b>api</b>.drupal.org/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "handheldfriendly": "true",
+                        "viewport": "width=device-width",
+                        "mobileoptimized": "width"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Instagram API",
+            "htmlTitle": "Instagram <b>API</b>",
+            "link": "https://www.instagram.com/developer/",
+            "displayLink": "www.instagram.com",
+            "snippet": "Hello Developers. The Instagram API Platform can be used to build non-\nautomated, authentic, high-quality apps and services that: Help individuals share \ntheir own content with 3rd party apps. Help brands and advertisers understand, \nmanage their audience and media rights. Help broadcasters and publishers \ndiscover ...",
+            "htmlSnippet": "Hello Developers. The Instagram <b>API</b> Platform can be used to build non-<br>\nautomated, authentic, high-quality apps and services that: Help individuals share <br>\ntheir own content with 3rd party apps. Help brands and advertisers understand, <br>\nmanage their audience and media rights. Help broadcasters and publishers <br>\ndiscover&nbsp;...",
+            "formattedUrl": "https://www.instagram.com/developer/",
+            "htmlFormattedUrl": "https://www.instagram.com/developer/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "mobile-web-app-capable": "yes",
+                        "theme-color": "#000000",
+                        "viewport": "width=device-width, user-scalable=no, initial-scale=1, minimum-scale=1, maximum-scale=1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "API:Main page - MediaWiki",
+            "htmlTitle": "<b>API</b>:Main page - MediaWiki",
+            "link": "https://www.mediawiki.org/wiki/API:Main_page",
+            "displayLink": "www.mediawiki.org",
+            "snippet": "Oct 4, 2017 ... The MediaWiki action API is a web service that provides convenient access to \nwiki features, data, and meta-data over HTTP, via a URL usually at api.php \nManual:api.php. Clients request particular \"actions\" by specifying an action \nparameter, mainly action=query to get information. It was known as the ...",
+            "htmlSnippet": "Oct 4, 2017 <b>...</b> The MediaWiki action <b>API</b> is a web service that provides convenient access to <br>\nwiki features, data, and meta-data over HTTP, via a URL usually at <b>api</b>.php <br>\nManual:<b>api</b>.php. Clients request particular &quot;actions&quot; by specifying an action <br>\nparameter, mainly action=query to get information. It was known as the&nbsp;...",
+            "cacheId": "J7dwhvGJROcJ",
+            "formattedUrl": "https://www.mediawiki.org/wiki/API:Main_page",
+            "htmlFormattedUrl": "https://www.mediawiki.org/wiki/<b>API</b>:Main_page",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "referrer": "origin-when-cross-origin"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "API - Instant Articles",
+            "htmlTitle": "<b>API</b> - Instant Articles",
+            "link": "https://developers.facebook.com/docs/instant-articles/api",
+            "displayLink": "developers.facebook.com",
+            "snippet": "Instant Articles API. Instant Articles support syndication using the Instant Articles \nAPI. This API allows you to create, publish, update and delete Instant Articles \ndirectly from your content management system. Automated publication in the \nInstant Articles format on Facebook also occurs in real time. Publish new stories \nvia the ...",
+            "htmlSnippet": "Instant Articles <b>API</b>. Instant Articles support syndication using the Instant Articles <br>\n<b>API</b>. This <b>API</b> allows you to create, publish, update and delete Instant Articles <br>\ndirectly from your content management system. Automated publication in the <br>\nInstant Articles format on Facebook also occurs in real time. Publish new stories <br>\nvia the&nbsp;...",
+            "cacheId": "ph4RkvwG6JMJ",
+            "formattedUrl": "https://developers.facebook.com/docs/instant-articles/api",
+            "htmlFormattedUrl": "https://developers.facebook.com/docs/instant-articles/<b>api</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "310",
+                        "height": "163",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLRPjqxAoSGEZiWRAPlvoY2DmAVrKwyq37cFcDHAr7VAej0XCmowyhXGJU"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "default",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "fb:app_id": "113869198637480",
+                        "og:site_name": "Facebook for Developers",
+                        "og:title": "API - Instant Articles - Documentation - Facebook for Developers",
+                        "og:type": "article",
+                        "og:url": "https://developers.facebook.com/docs/instant-articles/api",
+                        "og:image": "https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/lWB96Z8sFtt.png",
+                        "og:locale": "en_US",
+                        "twitter:site:id": "63359297",
+                        "twitter:card": "summary"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/lWB96Z8sFtt.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

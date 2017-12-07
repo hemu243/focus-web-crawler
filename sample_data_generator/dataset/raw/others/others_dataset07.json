@@ -1,0 +1,707 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - new area",
+                "totalResults": "752000000",
+                "searchTerms": "new area",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - new area",
+                "totalResults": "752000000",
+                "searchTerms": "new area",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ]
+    },
+    "context": {
+        "title": "News Home Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.259525,
+        "formattedSearchTime": "0.26",
+        "totalResults": "752000000",
+        "formattedTotalResults": "752,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "New Era Cap US | HOMEPAGE",
+            "htmlTitle": "<b>New</b> Era Cap US | HOMEPAGE",
+            "link": "https://www.neweracap.com/",
+            "displayLink": "www.neweracap.com",
+            "snippet": "New Era Cap Co. is an international lifestyle brand with an authentic sports \nheritage that dates back over 90 years.",
+            "htmlSnippet": "<b>New</b> Era Cap Co. is an international lifestyle brand with an authentic sports <br>\nheritage that dates back over 90 years.",
+            "cacheId": "hoByI86i94AJ",
+            "formattedUrl": "https://www.neweracap.com/",
+            "htmlFormattedUrl": "https://www.<b>new</b>eracap.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "438",
+                        "height": "115",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIeI7LF79rv0oRfm4opoZ78l89yF0rl8M7ipDDLLwOqAX4nBuRBce02wc"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, user-scalable=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://images.lids.com/lch/neweracap/homepage/newEra-NExYou-745x196.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Arcane River Expands With New Area: Morass | Official MapleStory ...",
+            "htmlTitle": "Arcane River Expands With <b>New Area</b>: Morass | Official MapleStory ...",
+            "link": "http://maplestory.nexon.net/micro-site/nova/25423/arcane-river-expands-with-new-area-morass",
+            "displayLink": "maplestory.nexon.net",
+            "snippet": "Arcane River Expands With New Area: Morass. Get ready to adventure deeper \ninto Arcane River as you travel to Morass, the Swamp of Memory. This brand-new \nregion is available to players Lv. 230 and above who have completed the \nquestline in Arcana. Morass is a mysterious swamp that takes its appearance \nfrom the ...",
+            "htmlSnippet": "Arcane River Expands With <b>New Area</b>: Morass. Get ready to adventure deeper <br>\ninto Arcane River as you travel to Morass, the Swamp of Memory. This brand-new <br>\nregion is available to players Lv. 230 and above who have completed the <br>\nquestline in Arcana. Morass is a mysterious swamp that takes its appearance <br>\nfrom the&nbsp;...",
+            "cacheId": "VFQpKbtIcAUJ",
+            "formattedUrl": "maplestory.nexon.net/.../arcane-river-expands-with-new-area-morass",
+            "htmlFormattedUrl": "maplestory.nexon.net/.../arcane-river-expands-with-<b>new</b>-<b>area</b>-morass",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "310",
+                        "height": "163",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-xWKUglxHErbBqEK5m2bACNLGbGrhb4SCetnXR-5XRnot0AdrOoDu2Io"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                        "og:site_name": "MapleStory",
+                        "og:type": "website",
+                        "og:url": "http://maplestory.nexon.net/micro-site/nova/25423/arcane-river-expands-with-new-area-morass",
+                        "og:title": "Arcane River Expands With New Area: Morass | Official MapleStory Website",
+                        "og:image": "http://nxcache.nexon.net/cms/2017/1209/171121mrsfbtw1200x630c.jpg",
+                        "og:description": "Travel down Arcane River to Morass, the Swamp of Memory, and meet Tana!",
+                        "twitter:card": "summary",
+                        "twitter:site": "@maplestory",
+                        "twitter:title": "Arcane River Expands With New Area: Morass | Official MapleStory Website",
+                        "twitter:description": "Travel down Arcane River to Morass, the Swamp of Memory, and meet Tana!",
+                        "twitter:image": "http://nxcache.nexon.net/cms/2017/1395/171121mrstw512x512o.jpg",
+                        "twitter:url": "http://maplestory.nexon.net/micro-site/nova/25423/arcane-river-expands-with-new-area-morass",
+                        "com.silverpop.brandeddomains": "www.pages08.net,firstassault.nexon.net,icarus.nexon.net,lawbreakers.nexon.net,mabinogi.nexon.net,maplestory.nexon.net,vindictus.nexon.net,www.nexon.net"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://nxcache.nexon.net/cms/2017/1209/171121mrsfbtw1200x630c.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Primitive Technology: New area starting from scratch - YouTube",
+            "htmlTitle": "Primitive Technology: <b>New area</b> starting from scratch - YouTube",
+            "link": "https://www.youtube.com/watch?v=qQTVuRrZO8w",
+            "displayLink": "www.youtube.com",
+            "snippet": "6 days ago ... I bought a new property to shoot primitive technology videos on. The new area is \ndense tropical rainforest with a permanent creek. Starting completely from scratch\n, my first project was to build a simple dome hut and make a fire. First, I took some \nwood, Abroma mollis, for fire sticks. I knapped a small stone ...",
+            "htmlSnippet": "6 days ago <b>...</b> I bought a new property to shoot primitive technology videos on. The <b>new area</b> is <br>\ndense tropical rainforest with a permanent creek. Starting completely from scratch<br>\n, my first project was to build a simple dome hut and make a fire. First, I took some <br>\nwood, Abroma mollis, for fire sticks. I knapped a small stone&nbsp;...",
+            "cacheId": "PHdwRIxdtS4J",
+            "formattedUrl": "https://www.youtube.com/watch?v=qQTVuRrZO8w",
+            "htmlFormattedUrl": "https://www.youtube.com/watch?v=qQTVuRrZO8w",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEMGeUuZOz1FkuuxCesXXU46GRYG2BpcZYcGAzmA83bShL5Asy-6HsGMSC"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://i.ytimg.com/vi/qQTVuRrZO8w/maxresdefault.jpg",
+                        "width": "1280",
+                        "height": "720"
+                    }
+                ],
+                "person": [
+                    {
+                        "url": "http://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA"
+                    },
+                    {
+                        "url": "https://plus.google.com/114600495506931540196"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "title": "Primitive Technology: New area starting from scratch",
+                        "theme-color": "#ff0000",
+                        "og:site_name": "YouTube",
+                        "og:url": "https://www.youtube.com/watch?v=qQTVuRrZO8w",
+                        "og:title": "Primitive Technology: New area starting from scratch",
+                        "og:image": "https://i.ytimg.com/vi/qQTVuRrZO8w/maxresdefault.jpg",
+                        "og:description": "I bought a new property to shoot primitive technology videos on. The new area is dense tropical rainforest with a permanent creek. Starting completely from s...",
+                        "al:ios:app_store_id": "544007664",
+                        "al:ios:app_name": "YouTube",
+                        "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=qQTVuRrZO8w&feature=applinks",
+                        "al:android:url": "vnd.youtube://www.youtube.com/watch?v=qQTVuRrZO8w&feature=applinks",
+                        "al:android:app_name": "YouTube",
+                        "al:android:package": "com.google.android.youtube",
+                        "al:web:url": "https://www.youtube.com/watch?v=qQTVuRrZO8w&feature=applinks",
+                        "og:type": "video",
+                        "og:video:url": "https://www.youtube.com/embed/qQTVuRrZO8w",
+                        "og:video:secure_url": "https://www.youtube.com/embed/qQTVuRrZO8w",
+                        "og:video:type": "text/html",
+                        "og:video:width": "1280",
+                        "og:video:height": "720",
+                        "fb:app_id": "87741124305",
+                        "twitter:card": "player",
+                        "twitter:site": "@youtube",
+                        "twitter:url": "https://www.youtube.com/watch?v=qQTVuRrZO8w",
+                        "twitter:title": "Primitive Technology: New area starting from scratch",
+                        "twitter:description": "I bought a new property to shoot primitive technology videos on. The new area is dense tropical rainforest with a permanent creek. Starting completely from s...",
+                        "twitter:image": "https://i.ytimg.com/vi/qQTVuRrZO8w/maxresdefault.jpg",
+                        "twitter:app:name:iphone": "YouTube",
+                        "twitter:app:id:iphone": "544007664",
+                        "twitter:app:name:ipad": "YouTube",
+                        "twitter:app:id:ipad": "544007664",
+                        "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=qQTVuRrZO8w&feature=applinks",
+                        "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=qQTVuRrZO8w&feature=applinks",
+                        "twitter:app:name:googleplay": "YouTube",
+                        "twitter:app:id:googleplay": "com.google.android.youtube",
+                        "twitter:app:url:googleplay": "https://www.youtube.com/watch?v=qQTVuRrZO8w",
+                        "twitter:player": "https://www.youtube.com/embed/qQTVuRrZO8w",
+                        "twitter:player:width": "1280",
+                        "twitter:player:height": "720"
+                    }
+                ],
+                "videoobject": [
+                    {
+                        "url": "https://www.youtube.com/watch?v=qQTVuRrZO8w",
+                        "name": "Primitive Technology: New area starting from scratch",
+                        "description": "I bought a new property to shoot primitive technology videos on. The new area is dense tropical rainforest with a permanent creek. Starting completely from s...",
+                        "paid": "False",
+                        "channelid": "UCAL3JXZSzSm8AlZyD3nQdBA",
+                        "videoid": "qQTVuRrZO8w",
+                        "duration": "PT8M20S",
+                        "unlisted": "False",
+                        "thumbnailurl": "https://i.ytimg.com/vi/qQTVuRrZO8w/maxresdefault.jpg",
+                        "embedurl": "https://www.youtube.com/embed/qQTVuRrZO8w",
+                        "playertype": "HTML5 Flash",
+                        "width": "1280",
+                        "height": "720",
+                        "isfamilyfriendly": "True",
+                        "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+                        "interactioncount": "5036260",
+                        "datepublished": "2017-11-24",
+                        "genre": "People & Blogs"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://i.ytimg.com/vi/qQTVuRrZO8w/maxresdefault.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New areas - Wikipedia",
+            "htmlTitle": "<b>New areas</b> - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/New_areas",
+            "displayLink": "en.wikipedia.org",
+            "snippet": "The new areas or new districts of the People's Republic of China are new urban \ndistricts that are given special economic and development supported by the \ncentral government or regional government. New areas are divided into two \nvarieties: administrative or management and further divided into levels: state-\nlevel, ...",
+            "htmlSnippet": "The <b>new areas</b> or new districts of the People&#39;s Republic of China are new urban <br>\ndistricts that are given special economic and development supported by the <br>\ncentral government or regional government. <b>New areas</b> are divided into two <br>\nvarieties: administrative or management and further divided into levels: state-<br>\nlevel,&nbsp;...",
+            "cacheId": "FKnbDj-s29YJ",
+            "formattedUrl": "https://en.wikipedia.org/wiki/New_areas",
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>New</b>_<b>areas</b>",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "referrer": "origin-when-cross-origin"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Welcome, 820: New area code starts this Friday - KSBY.com | San ...",
+            "htmlTitle": "Welcome, 820: <b>New area</b> code starts this Friday - KSBY.com | San ...",
+            "link": "http://www.ksby.com/story/36935654/welcome-820-new-area-code-starts-this-friday",
+            "displayLink": "www.ksby.com",
+            "snippet": "3 days ago ... Get ready, a new area code goes into effect Dec. 1, so it's time to begin the habit \nof dialing all 10 digits. Beginning this Friday, residents in San Luis Obispo, Santa \nBarbara, and Ventura counties, as well as parts of Monterey and Kern counties, \ncan start dialing \"1\" plus the three-digit area code when calling ...",
+            "htmlSnippet": "3 days ago <b>...</b> Get ready, a <b>new area</b> code goes into effect Dec. 1, so it&#39;s time to begin the habit <br>\nof dialing all 10 digits. Beginning this Friday, residents in San Luis Obispo, Santa <br>\nBarbara, and Ventura counties, as well as parts of Monterey and Kern counties, <br>\ncan start dialing &quot;1&quot; plus the three-digit area code when calling&nbsp;...",
+            "formattedUrl": "www.ksby.com/story/.../welcome-820-new-area-code-starts-this-friday",
+            "htmlFormattedUrl": "www.ksby.com/story/.../welcome-820-<b>new</b>-<b>area</b>-code-starts-this-friday",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "266",
+                        "height": "190",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6I8bjgyfNmfBKDToCNYWRIcXkl6NcPiAEv98l8N9jEkoLrWMldkG9kWo"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "news_keywords": "KSBY, news, central California, San Luis Obispo, Santa Barbara, Santa Maria, NBC",
+                        "date": "2017/11/27",
+                        "owner": "KSBY",
+                        "wn-version": "ContainerE-Story",
+                        "wn-build": "7.4.1.4",
+                        "wn-base": "IIS20",
+                        "wnreadableurl": "welcome-820-new-area-code-starts-this-friday",
+                        "og:title": "Welcome, 820: New area code starts this Friday",
+                        "og:type": "article",
+                        "og:url": "http://www.ksby.com/story/36935654/welcome-820-new-area-code-starts-this-friday",
+                        "og:image": "http://KSBY.images.worldnow.com/images/15331389_G.jpg",
+                        "og:description": "Get ready, the new area code goes into effect Dec. 1. Welcome, 820! ",
+                        "author": "Kayla Cash",
+                        "twitter:card": "summary",
+                        "twitter:title": "Welcome, 820: New area code starts this Friday",
+                        "twitter:description": "Get ready, the new area code goes into effect Dec. 1. Welcome, 820! ",
+                        "twitter:image": "http://KSBY.images.worldnow.com/images/15331389_G.jpg",
+                        "fb:pages": "234148723311265",
+                        "fb:app_id": "218251818215636"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://ksby.images.worldnow.com/images/15513282_G.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The New Area-Wide Model of the euro area: a micro-founded open ...",
+            "htmlTitle": "The <b>New Area</b>-Wide Model of the euro area: a micro-founded open ...",
+            "link": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp944.pdf",
+            "displayLink": "www.ecb.europa.eu",
+            "snippet": "THE NEW AREA-WIDE MODEL. OF THE EURO AREA. A MICRO-FOUNDED \nOPEN-ECONOMY. MODEL FOR FORECASTING. AND POLICY ANALYSIS1 by \nKai Christoffel, Günter Coenen and Anders Warne2. This paper can be \ndownloaded without charge from http://www.ecb.europa.eu or from the Social \nScience ...",
+            "htmlSnippet": "THE <b>NEW AREA</b>-WIDE MODEL. OF THE EURO AREA. A MICRO-FOUNDED <br>\nOPEN-ECONOMY. MODEL FOR FORECASTING. AND POLICY ANALYSIS1 by <br>\nKai Christoffel, Günter Coenen and Anders Warne2. This paper can be <br>\ndownloaded without charge from http://www.ecb.europa.eu or from the Social <br>\nScience&nbsp;...",
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat",
+            "formattedUrl": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp944.pdf",
+            "htmlFormattedUrl": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp944.pdf",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "moddate": "D:20081010184937+02'00'",
+                        "creationdate": "D:20080918130258Z",
+                        "title": "The New Area-Wide Model of the euro area: a micro-founded open-economy model for forecasting and policy analysis",
+                        "creator": "dvips(k) 5.86 Copyright 1999 Radical Eye Software",
+                        "author": "Kai Christoffel, Günter Coenen and Anders Warne",
+                        "subject": "ECB Working Paper Series No 944, October 2008",
+                        "producer": "AFPL Ghostscript 8.14"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "San Antonio's new area code goes into effect Saturday",
+            "htmlTitle": "San Antonio&#39;s <b>new area</b> code goes into effect Saturday",
+            "link": "https://www.ksat.com/news/san-antonios-new-area-code-goes-into-effect-saturday",
+            "displayLink": "www.ksat.com",
+            "snippet": "Sep 18, 2017 ... The Alamo City's iconic 210 area code is getting a little competition.",
+            "htmlSnippet": "Sep 18, 2017 <b>...</b> The Alamo City&#39;s iconic 210 <b>area</b> code is getting a little competition.",
+            "cacheId": "HIL_zGkcKZwJ",
+            "formattedUrl": "https://www.ksat.com/news/san-antonios-new-area-code-goes-into-effect- saturday",
+            "htmlFormattedUrl": "https://www.ksat.com/<b>news</b>/san-antonios-<b>new</b>-<b>area</b>-code-goes-into-effect- saturday",
+            "pagemap": {
+                "Site": [
+                    {
+                        "siteId": "800001"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCldldyBND1Rm5-MSJDDFGGOL6I7s_wOMveY9nl6Y3j_OwQKpHB4sNimzZ"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                        "og:title": "San Antonio's new area code goes into effect Saturday",
+                        "og:description": "The Alamo City's iconic 210 area code is getting a little competition.",
+                        "og:type": "article",
+                        "og:url": "https://www.ksat.com/news/san-antonios-new-area-code-goes-into-effect-saturday",
+                        "og:image": "https://media.ksat.com/photo/2014/12/26/telephone-phone-call_81430_ver1.0_1280_720.jpg",
+                        "og:image:width": "1280",
+                        "og:image:height": "720",
+                        "og:locale": "en_US",
+                        "og:site_name": "KSAT",
+                        "fb:app_id": "362904920453016",
+                        "article:section": "News",
+                        "article:tag": "phone, news, area code, 210, 726, dialing, phone number",
+                        "article:published_time": "2017-09-22T16:01:36+0000",
+                        "article:modified_time": "2017-09-22T16:01:35+0000",
+                        "article:expiration_time": "2042-05-10T20:45:00+0000",
+                        "page-category": "News",
+                        "endplay.categories": "News, Local, San Antonio, Tech, Top Stories, Newsreader App",
+                        "article:author": "https://www.ksat.com/author/vdarden",
+                        "sailthru.author": "Van Darden",
+                        "author": "Van Darden, RJ Marquez",
+                        "content_id": "593072144",
+                        "page-type": "article",
+                        "news_keywords": "News, 726, 210, area code, phone, dialing, phone number,",
+                        "twitter:card": "summary",
+                        "twitter:title": "Move over, 210, San Antonio's new area code is almost here",
+                        "twitter:site": "@ksatnews",
+                        "twitter:description": "The Alamo City's iconic 210 area code is getting a little competition.",
+                        "twitter:url": "https://www.ksat.com/news/san-antonios-new-area-code-goes-into-effect-saturday",
+                        "twitter:image": "https://media.ksat.com/photo/2014/12/26/telephone-phone-call_81430_ver1.0_1280_720.jpg",
+                        "twitter:image:width": "1280",
+                        "twitter:image:height": "720",
+                        "sailthru.title": "Move over, 210, San Antonio's new area code is almost here",
+                        "sailthru.description": "The Alamo City's iconic 210 area code is getting a little competition.",
+                        "sailthru.tags": "News, 726, 210, area code, phone, dialing, phone number,",
+                        "sailthru.date": "2017-09-22T16:01:36+0000",
+                        "sailthru.image.full": "https://media.ksat.com/photo/2014/12/26/telephone-phone-call_81430_ver1.0_1280_720.jpg",
+                        "sailthru.image.thumb": "https://media.ksat.com/photo/2014/12/26/telephone-phone-call_81430_ver1.0_160_90.jpg",
+                        "fb:pages": "237491153857"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://media.ksat.com/photo/2014/12/26/telephone-phone-call_81430_ver1.0_1280_720.jpg"
+                    }
+                ],
+                "PageAttr": [
+                    {
+                        "Category": "News"
+                    }
+                ],
+                "Thumbnail": [
+                    {
+                        "Name": "81430",
+                        "Credit": "None",
+                        "CompID": "76391301",
+                        "URL": "https://media.ksat.com/photo/2014/12/26/telephone-phone-call_81430_ver1.0_160_90.jpg",
+                        "Title": "telephone-phone-call.jpg_154319",
+                        "Migrated": "false"
+                    }
+                ],
+                "Story": [
+                    {
+                        "Description": "The Alamo City's iconic 210 area code is getting a little competition.",
+                        "Headline": "San Antonio's new area code goes into effect Saturday",
+                        "Keywords": "News, 726, 210, area code, phone, dialing, phone number,",
+                        "Migrated": "false",
+                        "ModDate": "20170922 16:01:35",
+                        "PubDate": "20170922 16:01:36",
+                        "type": "story"
+                    }
+                ],
+                "Date": [
+                    {
+                        "sdateformat": "20170922 16:01:36",
+                        "edate": "1506096095512",
+                        "edateformat": "20170922 16:01:35",
+                        "sdate": "1506096096334"
+                    }
+                ],
+                "Restrictions": [
+                    {
+                        "Status": "Free"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "San Antonio's New Area Code Is Almost Here | The Daily",
+            "htmlTitle": "San Antonio&#39;s <b>New Area</b> Code Is Almost Here | The Daily",
+            "link": "https://www.sacurrent.com/the-daily/archives/2017/09/20/san-antonios-new-area-code-is-almost-here",
+            "displayLink": "www.sacurrent.com",
+            "snippet": "Sep 20, 2017 ... While you might be the type to automatically type the area code when saving \ncontacts in your phone, those who aren't better do so before Saturday. With the \nimplementation of the new \"726\" area code beginning on Oct. 23, the entire 10-\ndigit number will be necessary to make calls starting this weekend to ...",
+            "htmlSnippet": "Sep 20, 2017 <b>...</b> While you might be the type to automatically type the <b>area</b> code when saving <br>\ncontacts in your phone, those who aren&#39;t better do so before Saturday. With the <br>\nimplementation of the <b>new</b> &quot;726&quot; <b>area</b> code beginning on Oct. 23, the entire 10-<br>\ndigit number will be necessary to make calls starting this weekend to&nbsp;...",
+            "cacheId": "AoBWd0SRc_cJ",
+            "formattedUrl": "https://www.sacurrent.com/.../san-antonios-new-area-code-is-almost-here",
+            "htmlFormattedUrl": "https://www.sacurrent.com/.../san-antonios-<b>new</b>-<b>area</b>-code-is-almost-here",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "https://media1.fdncms.com/sacurrent/imager/u/slideshow/5846026/screen_shot_2017-09-20_at_9.43.02_am.png"
+                    }
+                ],
+                "document": [
+                    {
+                        "releasedatetime": "20170920095000",
+                        "releasedate": "20170920",
+                        "releaseepoch": "1505919000",
+                        "title": "San Antonio's New Area Code Is Almost Here",
+                        "author": "2686735",
+                        "authorname": "Sarah Martinez",
+                        "authorsortname": "Martinez, Sarah"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=1000",
+                        "layout": "Blog Post",
+                        "oid": "5845920",
+                        "google-signin-client_id": "92167255029-gvbkq9hp48gee9gi2r3icduqmph6ikr3.apps.googleusercontent.com",
+                        "p:domain_verify": "f35a95b23d40bb6e52604d4d2b9d5a65",
+                        "title": "San Antonio's New Area Code Is Almost Here | The Daily",
+                        "author": "Sarah Martinez",
+                        "news_keywords": "210, area code, san antonio, 726",
+                        "thumbnail": "https://media1.fdncms.com/sacurrent/imager/u/slideshow/5846026/screen_shot_2017-09-20_at_9.43.02_am.png",
+                        "og:url": "https://www.sacurrent.com/the-daily/archives/2017/09/20/san-antonios-new-area-code-is-almost-here",
+                        "fb:app_id": "571229849674888",
+                        "og:site_name": "San Antonio Current",
+                        "og:title": "San Antonio's New Area Code Is Almost Here",
+                        "og:image": "https://media1.fdncms.com/sacurrent/imager/u/slideshow/5846026/screen_shot_2017-09-20_at_9.43.02_am.png",
+                        "og:image:width": "600",
+                        "og:image:height": "329",
+                        "og:description": "San Antonio, known for its immense pride in the catchy \"210\" area code, will soon receive an additional area code. It's literally going to change...",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:image": "https://media1.fdncms.com/sacurrent/imager/u/slideshow/5846026/screen_shot_2017-09-20_at_9.43.02_am.png",
+                        "twitter:site": "@SAcurrent",
+                        "twitter:title": "San Antonio's New Area Code Is Almost Here",
+                        "twitter:description": "San Antonio, known for its immense pride in the catchy \"210\" area code, will soon receive an additional area code. It's literally going to change..."
+                    }
+                ],
+                "foundation": [
+                    {
+                        "oid": "5845920",
+                        "class": "Content",
+                        "lastmodified": "20171025092720",
+                        "creationdate": "20170920091752"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://media1.fdncms.com/sacurrent/imager/u/slideshow/5846026/screen_shot_2017-09-20_at_9.43.02_am.png",
+                        "type": "1",
+                        "width": "303",
+                        "height": "166"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Frontiers | Bedtime procrastination: introducing a new area of ...",
+            "htmlTitle": "Frontiers | Bedtime procrastination: introducing a <b>new area</b> of ...",
+            "link": "https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00611/full",
+            "displayLink": "www.frontiersin.org",
+            "snippet": "Background. Procrastination is a prevalent and problematic phenomenon that \nhas mostly been studied in the domain of academic behavior. The current study \nshows that procrastination may also lead to harmful outcomes in the area of \nhealth behavior, introducing bedtime procrastination as an important factor \nrelated to ...",
+            "htmlSnippet": "Background. Procrastination is a prevalent and problematic phenomenon that <br>\nhas mostly been studied in the domain of academic behavior. The current study <br>\nshows that procrastination may also lead to harmful outcomes in the <b>area</b> of <br>\nhealth behavior, introducing bedtime procrastination as an important factor <br>\nrelated to&nbsp;...",
+            "cacheId": "Wq7oCpLtYJgJ",
+            "formattedUrl": "https://www.frontiersin.org/articles/10.3389/fpsyg.2014.../full",
+            "htmlFormattedUrl": "https://www.frontiersin.org/articles/10.3389/fpsyg.2014.../full",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "213",
+                        "height": "236",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbw11tItUyBlAZPexoeE8zCrHMjtSg2qPVmlNi9ff_WUY1h8D-eTmFS5ZR"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "og:type": "article",
+                        "frontiers:type": "Article",
+                        "site_name": "Frontiers",
+                        "title": "Bedtime procrastination: introducing a new area of procrastination",
+                        "url": "https://www.frontiersin.org/article/10.3389/fpsyg.2014.00611/full",
+                        "og:image": "https://www.frontiersin.org/files/MyHome%20Article%20Library/89333/89333_Thumb_400.jpg",
+                        "citation_volume": "5",
+                        "citation_journal_title": "Frontiers in Psychology",
+                        "citation_publisher": "Frontiers",
+                        "citation_journal_abbrev": "Front. Psychol.",
+                        "citation_issn": "1664-1078",
+                        "citation_doi": "10.3389/fpsyg.2014.00611",
+                        "citation_pages": "611",
+                        "citation_language": "English",
+                        "citation_title": "Bedtime procrastination: introducing a new area of procrastination",
+                        "citation_keywords": "procrastination; Sleep; Health; Self-regulation; MTurk",
+                        "citation_abstract": "Background. Procrastination is a prevalent and problematic phenomenon that has mostly been studied in the domain of academic behavior. The current study shows that procrastination may also lead to harmful outcomes in the area of health behavior, introducing bedtime procrastination as an important factor related to getting insufficient sleep and consequently affecting individual well-being. Bedtime procrastination is defined as failing to go to bed at the intended time, while no external circumstances prevent a person from doing so. Methods. To empirically support the conceptual introduction of bedtime procrastination, an online survey study was conducted among a community sample (N = 177). The relationship between bedtime procrastination and individual difference variables related to self-regulation and general procrastination was assessed. Moreover, it was investigated whether bedtime procrastination was a predictor of self-reported sleep outcomes (experienced insufficient sleep, hours of sleep, fatigue duri",
+                        "citation_online_date": "2014/05/30",
+                        "citation_date": "2014",
+                        "citation_publication_date": "2014/06/19",
+                        "citation_author": "Kroese, Floor M.",
+                        "citation_author_email": "f.m.kroese@uu.nl"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.frontiersin.org/files/Articles/89333/fpsyg-05-00611-HTML/image_m/fpsyg-05-00611-t001.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New York Today: Welcoming a New Area Code - The New York Times",
+            "htmlTitle": "New York Today: Welcoming a <b>New Area</b> Code - The New York Times",
+            "link": "https://www.nytimes.com/2017/06/09/nyregion/new-york-today-332-area-code-belmont-stakes.html",
+            "displayLink": "www.nytimes.com",
+            "snippet": "Jun 9, 2017 ... Updated, 9:41 a.m.. Good morning on this warming Friday. 332. Get used to it. It's \nNew York City's newest area code, which goes into effect tomorrow, joining 212 \n— the area code that New Yorkers covet — and 646. (There are, certainly, other \narea codes across the boroughs, but the 332 area code is being ...",
+            "htmlSnippet": "Jun 9, 2017 <b>...</b> Updated, 9:41 a.m.. Good morning on this warming Friday. 332. Get used to it. It&#39;s <br>\n<b>New</b> York City&#39;s newest <b>area</b> code, which goes into effect tomorrow, joining 212 <br>\n— the <b>area</b> code that <b>New</b> Yorkers covet — and 646. (There are, certainly, other <br>\n<b>area</b> codes across the boroughs, but the 332 <b>area</b> code is being&nbsp;...",
+            "formattedUrl": "https://www.nytimes.com/.../new-york-today-332-area-code-belmont-stakes. html",
+            "htmlFormattedUrl": "https://www.nytimes.com/.../<b>new</b>-york-today-332-<b>area</b>-code-belmont-stakes. html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "275",
+                        "height": "183",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR42k_y4AY42Kt0AiXolmDhAkR1-WyrrTpwUxjb2qvLf7TxjC5cGMt11c8"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://static01.nyt.com/images/2017/06/11/nyregion/09NYTODAY1/09NYTODAY1-master768.jpg",
+                        "height": "512",
+                        "width": "768",
+                        "caption": "Getting to know the 332. Credit Victor J. Blue for The New York Times",
+                        "description": "Getting to know the 332. Credit Victor J. Blue for The New York Times",
+                        "copyrightholder": "Credit Victor J. Blue for The New York Times"
+                    },
+                    {
+                        "url": "https://static01.nyt.com/images/2017/06/09/nyregion/09conversation-2-copy/09conversation-2-master675.jpg",
+                        "height": "450",
+                        "width": "675",
+                        "caption": "Gov. Chris Christie of New Jersey. Credit Matt Rourke/Associated Press",
+                        "description": "Gov. Chris Christie of New Jersey. Credit Matt Rourke/Associated Press",
+                        "copyrightholder": "Credit Matt Rourke/Associated Press"
+                    },
+                    {
+                        "url": "https://static01.nyt.com/images/2017/06/09/nyregion/09xp-firevictim_web1-copy/09xp-firevictim_web1-master675.jpg",
+                        "height": "415",
+                        "width": "675",
+                        "caption": "A bystander’s video captured the aftermath of a car chase in Jersey City. Credit Erick Roberto/Univision Channel 41, via Associated Press",
+                        "description": "A bystander’s video captured the aftermath of a car chase in Jersey City. Credit Erick Roberto/Univision Channel 41, via Associated Press",
+                        "copyrightholder": "Credit Erick Roberto/Univision Channel 41, via Associated Press"
+                    },
+                    {
+                        "url": "https://static01.nyt.com/images/2017/06/11/nyregion/11BIG1-copy/11BIG1-master675.jpg",
+                        "height": "457",
+                        "width": "675",
+                        "caption": "Mayor Bill de Blasio chooses to work out in Brooklyn, 11 miles from his official residence. Credit Kirsten Luce for The New York Times",
+                        "description": "Mayor Bill de Blasio chooses to work out in Brooklyn, 11 miles from his official residence. Credit Kirsten Luce for The New York Times",
+                        "copyrightholder": "Credit Kirsten Luce for The New York Times"
+                    },
+                    {
+                        "url": "https://static01.nyt.com/images/2017/06/11/nyregion/09NYTODAY2/09NYTODAY2-master675.jpg",
+                        "height": "383",
+                        "width": "675",
+                        "caption": "And they’re off! Credit Chang W. Lee/The New York Times",
+                        "description": "And they’re off! Credit Chang W. Lee/The New York Times",
+                        "copyrightholder": "Credit Chang W. Lee/The New York Times"
+                    }
+                ],
+                "person": [
+                    {
+                        "name": "ALEXANDRA S. LEVINE"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "The New York Times Company",
+                        "tickersymbol": "NYSE NYT"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "sourceapp": "nyt-v5",
+                        "applicationname": "article",
+                        "al:android:url": "nytimes://reader/id/100000005136499",
+                        "al:android:package": "com.nytimes.android",
+                        "al:android:app_name": "NYTimes",
+                        "twitter:app:name:googleplay": "NYTimes",
+                        "twitter:app:id:googleplay": "com.nytimes.android",
+                        "twitter:app:url:googleplay": "nytimes://reader/id/100000005136499",
+                        "al:iphone:url": "nytimes://www.nytimes.com/2017/06/09/nyregion/new-york-today-332-area-code-belmont-stakes.html",
+                        "al:iphone:app_store_id": "284862083",
+                        "al:iphone:app_name": "NYTimes",
+                        "al:ipad:url": "nytimes://www.nytimes.com/2017/06/09/nyregion/new-york-today-332-area-code-belmont-stakes.html",
+                        "al:ipad:app_store_id": "357066198",
+                        "al:ipad:app_name": "NYTimes",
+                        "genre": "briefing",
+                        "articleid": "100000005136499",
+                        "usageterms": "https://www.nytimes.com/content/help/rights/sale/terms-of-sale.html",
+                        "hdl": "New York Today: Welcoming a New Area Code",
+                        "col": "New York Today",
+                        "pdate": "20170609",
+                        "utime": "20171025101034",
+                        "ptime": "20170609060803",
+                        "displaydate": "June 9, 2017",
+                        "dat": "June 9, 2017",
+                        "lp": "Friday: 332 phone numbers, summery weather, and the Belmont Stakes.",
+                        "msapplication-starturl": "http://www.nytimes.com",
+                        "cre": "The New York Times",
+                        "slug": "09nytoday",
+                        "article:collection": "https://static01.nyt.com/services/json/sectionfronts/nyregion/index.jsonp",
+                        "sectionfront_jsonp": "https://static01.nyt.com/services/json/sectionfronts/nyregion/index.jsonp",
+                        "og:url": "https://www.nytimes.com/2017/06/09/nyregion/new-york-today-332-area-code-belmont-stakes.html",
+                        "og:type": "article",
+                        "og:title": "New York Today: Welcoming a New Area Code",
+                        "og:description": "Friday: 332 phone numbers, summery weather, and the Belmont Stakes.",
+                        "article:published": "2017-06-09T06:08:03-04:00",
+                        "article:modified": "2017-10-25T10:10:34-04:00",
+                        "article:section": "N.Y. / Region",
+                        "article:section-taxonomy-id": "C4DC8C0C-E148-4201-BF10-82F1C903DBFB",
+                        "article:section_url": "https://www.nytimes.com/section/nyregion",
+                        "article:top-level-section": "nyregion",
+                        "fb:app_id": "9869919170",
+                        "twitter:url": "https://www.nytimes.com/2017/06/09/nyregion/new-york-today-332-area-code-belmont-stakes.html",
+                        "twitter:title": "New York Today: Welcoming a New Area Code",
+                        "twitter:description": "Friday: 332 phone numbers, summery weather, and the Belmont Stakes.",
+                        "author": "Alexandra S. Levine",
+                        "tone": "news",
+                        "byl": "By ALEXANDRA S. LEVINE",
+                        "pt": "article",
+                        "cg": "nyregion"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static01.nyt.com/images/2017/06/11/nyregion/09NYTODAY1/09NYTODAY1-master768.jpg"
+                    }
+                ],
+                "newsarticle": [
+                    {
+                        "description": "Friday: 332 phone numbers, summery weather, and the Belmont Stakes.",
+                        "genre": "briefing",
+                        "identifier": "100000005136499",
+                        "usageterms": "https://www.nytimes.com/content/help/rights/sale/terms-of-sale.html",
+                        "inlanguage": "en-US",
+                        "datepublished": "2017-06-09T06:08:03-04:00",
+                        "datemodified": "2017-10-25T10:10:34-04:00",
+                        "articlesection": "N.Y. / Region",
+                        "thumbnailurl": "https://static01.nyt.com/images/2017/06/11/nyregion/09NYTODAY1/09NYTODAY1-thumbStandard.jpg",
+                        "headline": "New York Today: Welcoming a New Area Code",
+                        "copyrightnotice": "© 2017 The New York Times Company",
+                        "copyrightyear": "2017"
+                    }
+                ]
+            }
+        }
+    ]
+}

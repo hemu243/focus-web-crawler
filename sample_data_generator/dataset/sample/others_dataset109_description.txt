@@ -1,0 +1,4 @@
+When you purchase an item from Creative Tim, you are actually purchasing a 
+license to use that item. In order to understand our licenses, please read the 
+following details. All our free items are under MIT license. All our premium items 
+are covered by our Personal and Developer licenses.

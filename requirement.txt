@@ -1,0 +1,3 @@
+Scrapy>=1.4.0
+metapy
+beautifulsoup4

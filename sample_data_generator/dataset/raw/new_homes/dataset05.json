@@ -1,0 +1,775 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search -  new homes",
+                "totalResults": "1360000000",
+                "searchTerms": " new homes",
+                "count": 10,
+                "startIndex": 41,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "previousPage": [
+            {
+                "title": "Google Custom Search -  new homes",
+                "totalResults": "1360000000",
+                "searchTerms": " new homes",
+                "count": 10,
+                "startIndex": 31,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search -  new homes",
+                "totalResults": "1360000000",
+                "searchTerms": " new homes",
+                "count": 10,
+                "startIndex": 51,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ]
+    },
+    "context": {
+        "title": "News Home Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.300788,
+        "formattedSearchTime": "0.30",
+        "totalResults": "1360000000",
+        "formattedTotalResults": "1,360,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Franklin County, PA New Homes for Sale | Homes.com",
+            "htmlTitle": "Franklin County, PA <b>New Homes</b> for Sale | Homes.com",
+            "link": "https://www.homes.com/for-sale/franklin-county-pa/new-homes/",
+            "displayLink": "www.homes.com",
+            "snippet": "Results 1 - 15 of 72 ... Homes.com Franklin County PA Real Estate: Search new homes for sale, new \nconstruction, new home models and MLS listings in Franklin County, \nPennsylvania. Local information: 1515 houses for sale with 0 new home listings. \nCompare schools, property values, and mortgage rates.",
+            "htmlSnippet": "Results 1 - 15 of 72 <b>...</b> Homes.com Franklin County PA Real Estate: Search <b>new homes</b> for sale, new <br>\nconstruction, new home models and MLS listings in Franklin County, <br>\nPennsylvania. Local information: 1515 houses for sale with 0 new home listings. <br>\nCompare schools, property values, and mortgage rates.",
+            "cacheId": "IzpuKAuw_aYJ",
+            "formattedUrl": "https://www.homes.com/for-sale/franklin-county-pa/new-homes/",
+            "htmlFormattedUrl": "https://www.<b>homes</b>.com/for-sale/franklin-county-pa/<b>new</b>-<b>homes</b>/",
+            "pagemap": {
+                "country": [
+                    {
+                        "name": "United States"
+                    },
+                    {
+                        "name": "United States"
+                    }
+                ],
+                "audience": [
+                    {
+                        "audiencetype": "Home Buyers"
+                    }
+                ],
+                "specialty": [
+                    {
+                        "name": "Real Estate"
+                    }
+                ],
+                "city": [
+                    {
+                        "name": "Greencastle"
+                    }
+                ],
+                "contactpoint": [
+                    {
+                        "email": "support@homes.com",
+                        "contacttype": "customer service",
+                        "url": "https://www.homes.com/contact-us/"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "fragment": "!",
+                        "com.silverpop.brandeddomains": "www.pages05.net,homes.com",
+                        "com.silverpop.cothost": "pod5.ibmmarketingcloud.com",
+                        "msapplication-tilecolor": "#eb8900",
+                        "msapplication-tileimage": "/images/favicon/mstile-144x144.png",
+                        "theme-color": "#ffffff"
+                    }
+                ],
+                "itemlist": [
+                    {
+                        "name": "Homes for Sale in Greencastle, PA",
+                        "alternatename": "Real Estate in Greencastle, PA",
+                        "url": "https://www.homes.com/for-sale/franklin-county-pa/new-homes/",
+                        "itemlistorder": "http://schema.org/ItemListUnordered",
+                        "numberofitems": "15"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "position": "1",
+                        "name": "Homes.com"
+                    },
+                    {
+                        "position": "2",
+                        "name": "Homes For Sale"
+                    },
+                    {
+                        "position": "3",
+                        "name": "Franklin County, PA New Homes for Sale"
+                    },
+                    {
+                        "position": "1",
+                        "url": "https://www.homes.com/property/239-creekwood-drive-greencastle-pa-17225/id-3012732/"
+                    },
+                    {
+                        "position": "2",
+                        "url": "https://www.homes.com/property/waynesboro-pa-17268/id-2888599/"
+                    },
+                    {
+                        "position": "3",
+                        "url": "https://www.homes.com/property/waynesboro-pa-17268/id-2773228/"
+                    },
+                    {
+                        "position": "4",
+                        "url": "https://www.homes.com/property/waynesboro-pa-17268/id-2773234/"
+                    },
+                    {
+                        "position": "5",
+                        "url": "https://www.homes.com/property/waynesboro-pa-17268/id-2773231/"
+                    },
+                    {
+                        "position": "6",
+                        "url": "https://www.homes.com/property/waynesboro-pa-17268/id-2773232/"
+                    },
+                    {
+                        "position": "7",
+                        "url": "https://www.homes.com/property/waynesboro-pa-17268/id-2773229/"
+                    },
+                    {
+                        "position": "8",
+                        "url": "https://www.homes.com/property/waynesboro-pa-17268/id-2773230/"
+                    },
+                    {
+                        "position": "9",
+                        "url": "https://www.homes.com/property/waynesboro-pa-17268/id-2773233/"
+                    },
+                    {
+                        "position": "10",
+                        "url": "https://www.homes.com/property/waynesboro-pa-17268/id-2773235/"
+                    },
+                    {
+                        "position": "11",
+                        "url": "https://www.homes.com/property/waynesboro-pa-17268/id-2888598/"
+                    },
+                    {
+                        "position": "12",
+                        "url": "https://www.homes.com/property/waynesboro-pa-17268/id-2773236/"
+                    },
+                    {
+                        "position": "13",
+                        "url": "https://www.homes.com/property/fayetteville-pa-17222/id-3011242/"
+                    },
+                    {
+                        "position": "14",
+                        "url": "https://www.homes.com/property/fayetteville-pa-17222/id-3011238/"
+                    },
+                    {
+                        "position": "15",
+                        "url": "https://www.homes.com/property/fayetteville-pa-17222/id-3010077/"
+                    }
+                ],
+                "searchresultspage": [
+                    {
+                        "name": "Franklin County, PA New Homes for Sale",
+                        "url": "https://www.homes.com/for-sale/franklin-county-pa/new-homes/"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "contenturl": "https://cdn.homes.com/cgi-bin/readimage/6104548704"
+                    }
+                ],
+                "organization": [
+                    {
+                        "description": "As one of the nation's top online real estate destinations, Homes.com has close to 4 million homes for sale and rent. Each month over 14 million consumers visit Homes.com to search for real...",
+                        "logo": "https://www.homes.com/images/default/homescom_logo.png",
+                        "naics": "531000",
+                        "sameas": "https://www.facebook.com/homesdotcom"
+                    }
+                ],
+                "state": [
+                    {
+                        "name": "PA"
+                    }
+                ],
+                "thing": [
+                    {
+                        "url": "https://www.homes.com"
+                    },
+                    {
+                        "url": "https://www.homes.com/for-sale/"
+                    },
+                    {
+                        "url": "https://www.homes.com/for-sale/franklin-county-pa/new-homes/"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Grant Homes | Memphis New Homes | Home Builders in Memphis TN",
+            "htmlTitle": "Grant Homes | Memphis <b>New Homes</b> | Home Builders in Memphis TN",
+            "link": "http://www.grantnewhomes.com/",
+            "displayLink": "www.grantnewhomes.com",
+            "snippet": "One of the top 100 home builders in the nation and the builder of new homes in \nMemphis TN, Grant Homes has a tradition of quality over 60 years old.",
+            "htmlSnippet": "One of the top 100 home builders in the nation and the builder of <b>new homes</b> in <br>\nMemphis TN, Grant Homes has a tradition of quality over 60 years old.",
+            "cacheId": "3gaaY0bWT0oJ",
+            "formattedUrl": "www.grantnewhomes.com/",
+            "htmlFormattedUrl": "www.grant<b>newhomes</b>.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "275",
+                        "height": "183",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7btlz6fSHcn-qfX-RLXUuyxwlY_IW_rIn2E3gK48vCx_qthR8B9nNpX8s"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:image": "http://www.grantnewhomes.com/images/uploaded/224510713480412_formaldining.jpg",
+                        "og:image:type": "image/jpeg",
+                        "og:image:width": "2000",
+                        "og:image:height": "1333"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.grantnewhomes.com/images/uploaded/224510713480412_formaldining.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Homes & Townhouses for Sale in Virginia | New Homes in Northern ...",
+            "htmlTitle": "Homes &amp; Townhouses for Sale in Virginia | <b>New Homes</b> in Northern ...",
+            "link": "https://www.stanleymartin.com/our-communities/projectsallmetro.asp?MetroAreaID=1000",
+            "displayLink": "www.stanleymartin.com",
+            "snippet": "Stanley Martin Homes offers a vast selection of new homes in Northern Virginia \nin communities that reflect your way of living. From luxury condominiums and well\n-appointed garage townhomes to single-family and estate homes, Stanley Martin \nhas something for just about everyone looking for a new home throughout ...",
+            "htmlSnippet": "Stanley Martin Homes offers a vast selection of <b>new homes</b> in Northern Virginia <br>\nin communities that reflect your way of living. From luxury condominiums and well<br>\n-appointed garage townhomes to single-family and estate homes, Stanley Martin <br>\nhas something for just about everyone looking for a new home throughout&nbsp;...",
+            "cacheId": "RLqgHWJROCQJ",
+            "formattedUrl": "https://www.stanleymartin.com/our.../projectsallmetro.asp?...1000",
+            "htmlFormattedUrl": "https://www.stanleymartin.com/our.../projectsallmetro.asp?...1000",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "249",
+                        "height": "202",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTte12ZVCTGUnkzDf16jb6UALjO39_--QFtLPb48_cBN-ZqYMti-tO8wvCu"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "author": "Stanley2016"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.stanleymartin.com/images/Projects/HAE/icon.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Homes Austin | TX Home Builders - Gehan Homes",
+            "htmlTitle": "<b>New Homes</b> Austin | TX Home Builders - Gehan Homes",
+            "link": "http://www.gehanhomes.com/find-your-new-home/austin/",
+            "displayLink": "www.gehanhomes.com",
+            "snippet": "Interested in a new home in Austin TX? Gehan Homes offers the best selection of \nnew construction homes in Austin - learn about our promo offers now!",
+            "htmlSnippet": "Interested in a <b>new</b> home in Austin TX? Gehan <b>Homes</b> offers the best selection of <br>\n<b>new</b> construction <b>homes</b> in Austin - learn about our promo offers now!",
+            "cacheId": "_YEBfnyDz-cJ",
+            "formattedUrl": "www.gehanhomes.com/find-your-new-home/austin/",
+            "htmlFormattedUrl": "www.gehan<b>homes</b>.com/find-your-<b>new</b>-home/austin/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "288",
+                        "height": "175",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3X00DWK15UVIS3nenInj_fzyM9gEqs5UQJYSDcP6c5EPNiQppS2iy-1Y"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "servername": "WAW7",
+                        "apple-itunes-app": "app-id=0",
+                        "msvalidate.01": "22EBA1A8A7AEC2F786784922284D0BE6"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://nhs-dynamic.secure.footprint.net//Images/Homes/Gehan10429/21949839-170328.jpg?w=300"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Homes - Bay Area | San Francisco Home Builders | Shea Homes",
+            "htmlTitle": "<b>New Homes</b> - Bay Area | San Francisco Home Builders | Shea Homes",
+            "link": "http://www.sheahomes.com/newhomes/bayarea/",
+            "displayLink": "www.sheahomes.com",
+            "snippet": "Shea builds new homes for sale in San Francisco Bay Area, making it possible to \nown a home that is just as naturally beautiful as the city it is in.",
+            "htmlSnippet": "Shea builds <b>new homes</b> for sale in San Francisco Bay Area, making it possible to <br>\nown a home that is just as naturally beautiful as the city it is in.",
+            "cacheId": "l2AHSRLb--AJ",
+            "formattedUrl": "www.sheahomes.com/newhomes/bayarea/",
+            "htmlFormattedUrl": "www.shea<b>homes</b>.com/<b>newhomes</b>/bayarea/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "271",
+                        "height": "186",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyUDC4lhuRAqkUcQtrhJXq1FWesT0wFqRjb0jZoOeNll_-qIqp5xtjHtQ"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://cdn.sheamediaservices.com/photos/ws_1/Vista-Dorado-3_large.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Homes Fayetteville, NC | H&H Homes",
+            "htmlTitle": "<b>New Homes</b> Fayetteville, NC | H&amp;H Homes",
+            "link": "http://www.hhhomes.com/new-homes-fayetteville-nc",
+            "displayLink": "www.hhhomes.com",
+            "snippet": "Find new homes in Fayetteville, NC featuring local home builder H&H Homes.",
+            "htmlSnippet": "Find <b>new homes</b> in Fayetteville, NC featuring local home builder H&amp;H Homes.",
+            "cacheId": "i_I0jqmXpUsJ",
+            "formattedUrl": "www.hhhomes.com/new-homes-fayetteville-nc",
+            "htmlFormattedUrl": "www.hh<b>homes</b>.com/<b>new</b>-<b>homes</b>-fayetteville-nc",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "365",
+                        "height": "138",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7FoViB_QQC4oJrED4hnPOcoZQuHW4zMfcKR_maJxYaI2WyBH3nJ7LGxFL"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msvalidate.01": "919C811DE0BE591FDC9FDA6E1FEF9E2D",
+                        "viewport": "width=device-width, initial-scale=1.0, user-scalable=0",
+                        "msapplication-tilecolor": "#00aba9",
+                        "msapplication-tileimage": "/common/images/favicons/mstile-144x144.png",
+                        "theme-color": "#ffffff",
+                        "og:image": "http://www.hhhomes.com/images/uploaded/347828451078385_20171107yuleslider3.jpg",
+                        "og:image:type": "image/jpeg",
+                        "og:image:width": "1867",
+                        "og:image:height": "707"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.hhhomes.com/images/uploaded/347828451078385_20171107yuleslider3.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New homes for sale in the San Francisco Bay Area - SFGate",
+            "htmlTitle": "<b>New homes</b> for sale in the San Francisco Bay Area - SFGate",
+            "link": "http://www.sfgate.com/newhomes/",
+            "displayLink": "www.sfgate.com",
+            "snippet": "Buy and sell new homes, condos, find contractors, get mortgage rates, learn the \nlatest real estate trends in the San Francisco Bay Area at SFGate.",
+            "htmlSnippet": "Buy and sell <b>new homes</b>, condos, find contractors, get mortgage rates, learn the <br>\nlatest real estate trends in the San Francisco Bay Area at SFGate.",
+            "cacheId": "rxNidJGDbiAJ",
+            "formattedUrl": "www.sfgate.com/newhomes/",
+            "htmlFormattedUrl": "www.sfgate.com/<b>newhomes</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "311",
+                        "height": "162",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnhNZeuYzhHH78jP5kpu9YWFErFYF1-EW_3OEjzWg97d2Wyt99idxm08jm"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "format-detection": "telephone=no",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+                        "og:title": "New Homes",
+                        "og:description": "Buy and sell new homes, condos, find contractors, get mortgage rates, learn the latest real estate trends in the San Francisco Bay Area at SFGate.",
+                        "og:type": "website",
+                        "og:url": "http://www.sfgate.com/newhomes/",
+                        "og:image": "http://www.sfgate.com/img/pages/article/opengraph_default.png",
+                        "og:site_name": "SFGate",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "@SFGate",
+                        "fb:admins": "100006394927810",
+                        "fb:app_id": "1609422252616351",
+                        "fb:pages": "105702905593,307851324523,12852567813,480760515417232,288240529145,316774245761,984197758297116,7457442370,207033189701,207346283795,222959748728,207042068180,72983690774,339413234035,343689323559,345828366626,234821559861394,335699426867,10150105039485602,338983127562,364516539001,337922332042,115637335153191,372011535931,333376634908,127590790608884,141923885872653,655037391286291,320774811368833,1740489152861748,469700473093040,386754203367,556449374478585,340999853450,350771491032,1120648627959218,342017778245,338463361591,138772706196968,1641688532739111,326312697536,353120110016,343366744658,335009494554,347261603104,350924013892,257724773860,361203926417,367174215398,284154645394,334501182354,350279743224,154340691263654,147848678611852",
+                        "msvalidate.01": "9451CA04ABC9D1D5C6419C73B4C4F7B7"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.sfgate.com/img/pages/article/opengraph_default.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Homes in Reno NV - New Construction Homes | Toll Brothers®",
+            "htmlTitle": "<b>New Homes</b> in Reno NV - New Construction Homes | Toll Brothers®",
+            "link": "https://www.tollbrothers.com/luxury-homes/Reno-NV",
+            "displayLink": "www.tollbrothers.com",
+            "snippet": "Toll Brothers is pleased to offer luxurious new communities in some of the most \nsought-after locations in the Reno area. With dozens of exclusive home designs \nand styles to choose from in the region's top school districts and areas for \ncommuters, our new homes are thoughtfully constructed with your needs in mind.",
+            "htmlSnippet": "Toll Brothers is pleased to offer luxurious new communities in some of the most <br>\nsought-after locations in the Reno area. With dozens of exclusive home designs <br>\nand styles to choose from in the region&#39;s top school districts and areas for <br>\ncommuters, our <b>new homes</b> are thoughtfully constructed with your needs in mind.",
+            "cacheId": "RaC0Q8VfQy0J",
+            "formattedUrl": "https://www.tollbrothers.com/luxury-homes/Reno-NV",
+            "htmlFormattedUrl": "https://www.tollbrothers.com/luxury-<b>homes</b>/Reno-NV",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "310",
+                        "height": "163",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkhjMToIQVZAKtwHM6rXmzpwiUoZp6ifs_r_5OELBH2rSQ3nsyghI8g0uY"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msvalidate.01": "7404748865E21BB4E13C7B5E605722A6",
+                        "apple-mobile-web-app-capable": "yes",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "apple-itunes-app": "app-id=951855153",
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0",
+                        "og:title": "New Homes in Reno NV - New Construction Homes | Toll Brothers®",
+                        "og:image": "https://cdn.tollbrothers.com/tb/images/OG.jpg",
+                        "og:site_name": "Toll Brothers® Luxury Homes",
+                        "og:description": "Build your new home in Reno NV with Toll Brothers®. Choose from a great selection of new construction home designs with flexible floor plans.",
+                        "og:locale": "en_US",
+                        "fb:app_id": "416694195054721",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "@tollbrothersinc",
+                        "twitter:creator": "@tollbrothersinc",
+                        "twitter:description": "Build your new home in Reno NV with Toll Brothers®. Choose from a great selection of new construction home designs with flexible floor plans.",
+                        "twitter:title": "New Homes in Reno NV - New Construction Homes | Toll Brothers®",
+                        "twitter:image": "https://cdn.tollbrothers.com/tb/images/OG.jpg",
+                        "page_type": "search",
+                        "autocomplete_title": "Reno, NV"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.tollbrothers.com/tb/images/OG.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Tradition Homes | Custom Home Builders Vancouver WA",
+            "htmlTitle": "<b>New</b> Tradition <b>Homes</b> | Custom <b>Home Builders</b> Vancouver WA",
+            "link": "http://www.newtraditionhomes.com/",
+            "displayLink": "www.newtraditionhomes.com",
+            "snippet": "New Tradition Homes builds new homes in Washington, including Vancouver, \nRichland, Kennewick, and more.",
+            "htmlSnippet": "New Tradition Homes builds <b>new homes</b> in Washington, including Vancouver, <br>\nRichland, Kennewick, and more.",
+            "cacheId": "YJ-J6BzL0BwJ",
+            "formattedUrl": "www.newtraditionhomes.com/",
+            "htmlFormattedUrl": "www.<b>new</b>tradition<b>homes</b>.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "282",
+                        "height": "178",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3vCvjvlHcgZ5PB_VL_G62DrtuaepN9zR8shMcEycuIxWW9Ug5y5oVHCs"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0, user-scalable=0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.newtraditionhomes.com/images/uploaded/15968537423759_new-construction-vancouver-wa-cta-neighborhoods.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Homes For Sale in Tampa, FL by KB Home",
+            "htmlTitle": "<b>New Homes</b> For Sale in Tampa, FL by KB Home",
+            "link": "https://www.kbhome.com/new-homes-tampa",
+            "displayLink": "www.kbhome.com",
+            "snippet": "New Homes for sale by KB Home in the Tampa area. KB Home makes it easy to \nfind your perfect new home in Florida. Discover KB Home's sustainable energy \ndifference.",
+            "htmlSnippet": "<b>New Homes</b> for sale by KB Home in the Tampa area. KB Home makes it easy to <br>\nfind your perfect new home in Florida. Discover KB Home&#39;s sustainable energy <br>\ndifference.",
+            "cacheId": "vdZft2CCjDkJ",
+            "formattedUrl": "https://www.kbhome.com/new-homes-tampa",
+            "htmlFormattedUrl": "https://www.kbhome.com/<b>new</b>-<b>homes</b>-tampa",
+            "pagemap": {
+                "thumbnail": [
+                    {
+                        "src": "http://www.kbhome.com/images/"
+                    }
+                ],
+                "postaladdress": [
+                    {
+                        "streetaddress": "9102 Williams Rd.",
+                        "addresslocality": "Seffner",
+                        "addressregion": "FL",
+                        "postalcode": "33584"
+                    },
+                    {
+                        "streetaddress": "7763 Sunshine Bridge Ave.",
+                        "addresslocality": "Gibsonton",
+                        "addressregion": "FL",
+                        "postalcode": "33534"
+                    },
+                    {
+                        "streetaddress": "11410 Brighton Knoll Loop",
+                        "addresslocality": "Riverview",
+                        "addressregion": "FL",
+                        "postalcode": "33579"
+                    },
+                    {
+                        "streetaddress": "11410 Brighton Knoll Loop",
+                        "addresslocality": "Riverview",
+                        "addressregion": "FL",
+                        "postalcode": "33579"
+                    },
+                    {
+                        "streetaddress": "10640 Medford Lake Dr.",
+                        "addresslocality": "Riverview",
+                        "addressregion": "FL",
+                        "postalcode": "33578"
+                    },
+                    {
+                        "streetaddress": "10640 Medford Lake Dr.",
+                        "addresslocality": "Riverview",
+                        "addressregion": "FL",
+                        "postalcode": "33578"
+                    },
+                    {
+                        "streetaddress": "14316 Romeo Boulevard",
+                        "addresslocality": "Wimauma",
+                        "addressregion": "FL",
+                        "postalcode": "33598"
+                    },
+                    {
+                        "streetaddress": "11678 Fox Sparrow Rd.",
+                        "addresslocality": "Tampa",
+                        "addressregion": "FL",
+                        "postalcode": "33626"
+                    },
+                    {
+                        "streetaddress": "12336 Lake Blvd.",
+                        "addresslocality": "Trinity",
+                        "addressregion": "FL",
+                        "postalcode": "34655"
+                    },
+                    {
+                        "streetaddress": "11455 Tangle Branch Ln.",
+                        "addresslocality": "Gibsonton",
+                        "addressregion": "FL",
+                        "postalcode": "33534"
+                    },
+                    {
+                        "streetaddress": "4215 Moon Shadow Loop",
+                        "addresslocality": "Mulberry",
+                        "addressregion": "FL",
+                        "postalcode": "33860"
+                    },
+                    {
+                        "streetaddress": "4105 Crescent Park Drive",
+                        "addresslocality": "Riverview",
+                        "addressregion": "Florida",
+                        "postalcode": "33578"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "com.silverpop.brandeddomains": "www.pages04.net,kbhome.com,www.kbhome.com",
+                        "fb:admins": "1063072265",
+                        "og:locale": "en_US",
+                        "og:site_name": "KB Home",
+                        "og:url": "https://www.kbhome.com/new-homes-tampa",
+                        "og:title": "New Homes For Sale in Tampa, FL by KB Home",
+                        "og:description": "New Homes for sale by KB Home in the Tampa area. KB Home makes it easy to find your perfect new home in Florida. Discover KB Home's sustainable energy difference.",
+                        "twitter:site": "@kbhome",
+                        "twitter:creator": "@kbhome",
+                        "twitter:title": "New Homes For Sale in Tampa, FL by KB Home",
+                        "twitter:description": "New Homes for sale by KB Home in the Tampa area. KB Home makes it easy to find your perfect new home in Florida. Discover KB Home's sustainable energy difference.",
+                        "twitter:url": "https://www.kbhome.com/new-homes-tampa",
+                        "og:type": "place",
+                        "place:location:latitude": "28.034558",
+                        "place:location:longitude": "-82.34718",
+                        "og:locality": "Tampa",
+                        "og:region": "Florida",
+                        "og:image": "http://www.kbhome.com/images/",
+                        "twitter:card": "summary_large_image",
+                        "twitter:image": "http://www.kbhome.com/images/",
+                        "thumbnail": "http://www.kbhome.com/images/",
+                        "msapplication-tileimage": "/Content/images/winicon_144.png",
+                        "msapplication-tilecolor": "#000000",
+                        "application-name": "KB Home",
+                        "msapplication-square70x70logo": "/Content/images/winicon_70.png",
+                        "msapplication-square150x150logo": "/Content/images/winicon_150.png",
+                        "msapplication-wide310x150logo": "/Content/images/winicon_310x150.png",
+                        "msapplication-square310x310logo": "/Content/images/winicon_310.png"
+                    }
+                ],
+                "place": [
+                    {
+                        "url": "https://www.kbhome.com/new-homes-tampa/freedom-ridge",
+                        "description": "Freedom Ridge is a community of new homes for sale in Seffner, FL by KB Home.",
+                        "image": "https://www.kbhome.com//assets/images/Community%20Images/Florida/Tampa/40ft%20KB%202020%20Series/Elevations/1989_D_STONE_sch1.jpg?format=jpg",
+                        "name": "Freedom Ridge"
+                    },
+                    {
+                        "url": "https://www.kbhome.com/new-homes-tampa/northgate",
+                        "description": "Northgate is a community of new homes for sale in Gibsonton, FL by KB Home.",
+                        "image": "https://www.kbhome.com//assets/images/Community%20Images/Florida/Tampa/Northgate/Slideshow/KBTPA_Northgate_1346_Exterior_Slideshow.jpg?format=jpg",
+                        "name": "Northgate"
+                    },
+                    {
+                        "url": "https://www.kbhome.com/new-homes-tampa/ibis-cove-i-at-south-fork",
+                        "description": "Ibis Cove I at South Fork is a community of new homes for sale in Riverview, FL by KB Home.",
+                        "image": "https://www.kbhome.com//assets/images/Community%20Images/Florida/Tampa/Ibis%20Cove%20I%20at%20South%20Fork/KBA%20Revised%20Images_5.16.16/001KBTPA_IbisCove_1865-Exterior_2573c_180x120.jpg?format=jpg",
+                        "name": "Ibis Cove I at South Fork"
+                    },
+                    {
+                        "url": "https://www.kbhome.com/new-homes-tampa/ibis-cove-ii-at-south-fork",
+                        "description": "Ibis Cove II at South Fork is a community of new homes for sale in Riverview, FL by KB Home.",
+                        "image": "https://www.kbhome.com//assets/images/Community%20Images/Florida/Tampa/Ibis%20Cove%20II%20at%20South%20Fork/KBA%20Revised%20Images_5.16.16/KBTPA_IbisCove_2620-ExteriorPM_1974c-1200.jpg?format=jpg",
+                        "name": "Ibis Cove II at South Fork"
+                    },
+                    {
+                        "url": "https://www.kbhome.com/new-homes-tampa/medford-lakes-i",
+                        "description": "Medford Lakes I is a community of new homes for sale in Riverview, FL by KB Home.",
+                        "image": "https://www.kbhome.com//assets/images/Community%20Images/Florida/Tampa/Medford%20Lakes%20I/KBA%20Revised%20Images_5.13.16/001KBTPA_MedfordLakesI_Plan1586-Exterior_6622c_1200x800.jpg?format=jpg",
+                        "name": "Medford Lakes I"
+                    },
+                    {
+                        "url": "https://www.kbhome.com/new-homes-tampa/medford-lakes-ii",
+                        "description": "Medford Lakes II is a community of new homes for sale in Riverview, FL by KB Home.",
+                        "image": "https://www.kbhome.com//assets/images/Community%20Images/Florida/Tampa/Medford%20Lakes%20II/KBA%20Revised%20Images_5.13.16/005KBTPA_MedfordLakesII_Plan2003-Exterior_7155a_1200x800.jpg?format=jpg",
+                        "name": "Medford Lakes II"
+                    },
+                    {
+                        "url": "https://www.kbhome.com/new-homes-tampa/mirabella",
+                        "description": "Mirabella is a community of new homes for sale in Wimauma, FL by KB Home.",
+                        "image": "https://www.kbhome.com//assets/images/Community%20Images/Florida/Tampa/Mirabella/KBA%20Revised%20Images_5.23.16/KBFL_Mirabella_1989_Exterior_9471a_1200x800.jpg?format=jpg",
+                        "name": "Mirabella"
+                    },
+                    {
+                        "url": "https://www.kbhome.com/new-homes-tampa/west-lake-reserve",
+                        "description": "West Lake Reserve is a community of new homes for sale in Tampa, FL by KB Home.",
+                        "image": "https://www.kbhome.com//assets/images/Community%20Images/Florida/Tampa/West%20Lake%20Reserve/Slideshow/KBTBA_WestLakeReserve_Exterior_2442-1200.jpg?format=jpg",
+                        "name": "West Lake Reserve"
+                    },
+                    {
+                        "url": "https://www.kbhome.com/new-homes-tampa/wild-fern-village-at-trinity-lakes",
+                        "description": "Wild Fern Village at Trinity Lakes is a community of new homes for sale in Trinity, FL by KB Home.",
+                        "image": "https://www.kbhome.com//assets/images/Community%20Images/Florida/Tampa/Wild%20Fern%20Village%20at%20Trinity%20Lakes/KBA%20Revised%20Images_5.17.16/KBTPA_Wildfern_Plan2550_Exterior_3914d_1200x800.jpg?format=jpg",
+                        "name": "Wild Fern Village at Trinity Lakes"
+                    },
+                    {
+                        "url": "https://www.kbhome.com/new-homes-tampa/southgate",
+                        "description": "Southgate is a community of new homes for sale in Gibsonton, FL by KB Home.",
+                        "image": "https://www.kbhome.com//assets/images/Community%20Images/Florida/Tampa/Southgate/KBA%20Revised%20Images_5.17.16/KBTPA_Southgate-1787_Exterior_0249_1200x800.jpg?format=jpg",
+                        "name": "Southgate"
+                    },
+                    {
+                        "url": "https://www.kbhome.com/new-homes-lakeland/sundance-fields",
+                        "description": "Sundance Fields is a community of new homes for sale in Mulberry, FL by KB Home.",
+                        "image": "https://www.kbhome.com//assets/images/Community%20Images/Florida/Lakeland/Sundance%20Fields/1280_150_2003_EXT_Front4_1200_800_slideshow.jpg?format=jpg",
+                        "name": "Sundance Fields"
+                    },
+                    {
+                        "url": "https://www.kbhome.comdesign-studio",
+                        "description": "KB Home Studio is a one of a kind service that KB Home offers to potential home buyers. Get a good feel for all of the options you will want in your new home.",
+                        "openinghours": "Friday: 3:00 PM - 5:00 PM"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://maps.gstatic.com/mapfiles/api-3/images/sv9.png",
+                        "type": "1",
+                        "width": "164",
+                        "height": "175"
+                    }
+                ],
+                "geocoordinates": [
+                    {
+                        "latitude": "28.030624",
+                        "longitude": "-82.333301"
+                    },
+                    {
+                        "latitude": "27.836222",
+                        "longitude": "-82.370474"
+                    },
+                    {
+                        "latitude": "27.781644",
+                        "longitude": "-82.308241"
+                    },
+                    {
+                        "latitude": "27.781687",
+                        "longitude": "-82.308359"
+                    },
+                    {
+                        "latitude": "27.843220",
+                        "longitude": "-82.327984"
+                    },
+                    {
+                        "latitude": "27.843068",
+                        "longitude": "-82.328198"
+                    },
+                    {
+                        "latitude": "27.768805",
+                        "longitude": "-82.326908"
+                    },
+                    {
+                        "latitude": "28.053856",
+                        "longitude": "-82.589362"
+                    },
+                    {
+                        "latitude": "28.187258",
+                        "longitude": "-82.610498"
+                    },
+                    {
+                        "latitude": "27.8347698",
+                        "longitude": "-82.3742089"
+                    },
+                    {
+                        "latitude": "27.937811",
+                        "longitude": "-81.996038"
+                    }
+                ]
+            }
+        }
+    ]
+}

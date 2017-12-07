@@ -1,0 +1,3 @@
+License. Note: For the purposes of this document, the term "Project" will refer to 
+any JS Foundation project using the MIT license AND referencing this document 
+in the header of the distributed Project code or Project website source code.

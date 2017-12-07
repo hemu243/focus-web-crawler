@@ -1,0 +1,2 @@
+The application program interface (API) specifies how software components 
+interact and are used when programming graphical user interface components.

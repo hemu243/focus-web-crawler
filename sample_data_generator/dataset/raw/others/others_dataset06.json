@@ -1,0 +1,658 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - new bron",
+                "totalResults": "4150000",
+                "searchTerms": "new bron",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - new bron",
+                "totalResults": "4150000",
+                "searchTerms": "new bron",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ]
+    },
+    "context": {
+        "title": "News Home Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.539968,
+        "formattedSearchTime": "0.54",
+        "totalResults": "4150000",
+        "formattedTotalResults": "4,150,000"
+    },
+    "spelling": {
+        "correctedQuery": "newborn",
+        "htmlCorrectedQuery": "<b><i>newborn</i></b>"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Roger Bacon on new turf at Bron Bacevich Stadium",
+            "htmlTitle": "Roger Bacon on <b>new</b> turf at <b>Bron</b> Bacevich Stadium",
+            "link": "https://www.cincinnati.com/videos/sports/2017/08/02/roger-bacon-new-turf-bron-bacevich-stadium/104240644/",
+            "displayLink": "www.cincinnati.com",
+            "snippet": "Aug 2, 2017 ... Scott Springer on the 2017 Roger Bacon Spartans.",
+            "htmlSnippet": "Aug 2, 2017 <b>...</b> Scott Springer on the 2017 Roger Bacon Spartans.",
+            "cacheId": "8FSJPUDW7RgJ",
+            "formattedUrl": "https://www.cincinnati.com/videos/...new-turf-bron.../104240644/",
+            "htmlFormattedUrl": "https://www.cincinnati.com/videos/...<b>new</b>-turf-<b>bron</b>.../104240644/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300",
+                        "height": "168",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRt8KwXzGz_tjcVyaN7TXyUqs3TuMPjiu-qg35G-hIebGb7I7WDEtbVI6U"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "content-type": "text/html; charset=UTF-8",
+                        "google": "notranslate",
+                        "apple-itunes-app": "app-id=814555930",
+                        "fb:app_id": "157995810912644",
+                        "fb:pages": "109146355881, 143851392316295, 147760805252234, 321223331243188, 146112055409819, 945986872102221, 562348203875693, 124307640925620, 169908223021026, 275678631915, 105714200321, 110252103235, 50978409031, 167334979948476, 310942265948388, 25003338948, 1111939365618797, 1759866210965882, 1797367867256626, 106451856091222, 73736978810, 113056925415668, 373087836097009, 81917682064, 250325640686, 641238875940827, 148668982786, 6581478870, 130211193676772, 314817944972, 140616965982144, 121866005065, 47692649063, 48490808881, 69357466992, 119941731380546, 1413320388972813, 1561238324154800, 184741935370451, 41044579289, 281331052320274, 103678546758, 118427210363, 1596218533974035, 49896855793, 477690595750196, 87448932499, 8031989578, 190632318566, 189867939238, 141962110815, 362300531934, 110311752340743, 110936258937026, 129752560371732, 10482066215, 6271782579, 167487199962004, 184094471609920, 169571899725267, 187466604613310, 121422567927897, 154443518023678, 315461641910509, 113819202011100, 10965256905871",
+                        "og:site_name": "Cincinnati.com",
+                        "p:domain_verify": "8c50ff021dfc409ea7325f425f178799",
+                        "og:image": "https://www.gannett-cdn.com/-mm-/2e56892f6a349ad47192b530425d443fb365e5e9/r=x1803&c=3200x1800/https/media.gannett-cdn.com/35546123001/35546123001_5529495093001_5529490346001-vs.jpg?pubId=35546123001",
+                        "og:image:width": "3200",
+                        "og:image:height": "1800",
+                        "twitter:card": "summary_large_image",
+                        "twitter:image": "https://www.gannett-cdn.com/-mm-/329b5d71fe2f5b8d56bed0f237f1fb9555813558/r=x803&c=1600x800/https/media.gannett-cdn.com/35546123001/35546123001_5529495093001_5529490346001-vs.jpg?pubId=35546123001",
+                        "og:title": "Roger Bacon on new turf at Bron Bacevich Stadium",
+                        "og:description": "Scott Springer on the 2017 Roger Bacon Spartans",
+                        "og:url": "https://www.cincinnati.com/videos/sports/2017/08/02/roger-bacon-new-turf-bron-bacevich-stadium/104240644/",
+                        "duration": "30",
+                        "viewport": "width=1070"
+                    }
+                ],
+                "videoobject": [
+                    {
+                        "description": "Scott Springer on the 2017 Roger Bacon Spartans The Enquirer/Scott Springer"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.gannett-cdn.com/-mm-/2e56892f6a349ad47192b530425d443fb365e5e9/r=x1803&c=3200x1800/https/media.gannett-cdn.com/35546123001/35546123001_5529495093001_5529490346001-vs.jpg?pubId=35546123001"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Newborn Care: Feeding, Sleep & Development Tips | Parents",
+            "htmlTitle": "<b>Newborn</b> Care: Feeding, Sleep &amp; Development Tips | Parents",
+            "link": "http://www.parents.com/baby/care/",
+            "displayLink": "www.parents.com",
+            "snippet": "Get information on basic baby care, baths, burping, gas, jaundice, pediatricians, \nmedicine, shaken baby syndrome and more from the editors of Parents magazine\n.",
+            "htmlSnippet": "Get information on basic baby care, baths, burping, gas, jaundice, pediatricians, <br>\nmedicine, shaken baby syndrome and more from the editors of Parents magazine<br>\n.",
+            "cacheId": "ZRi6N5sXlaAJ",
+            "formattedUrl": "www.parents.com/baby/care/",
+            "htmlFormattedUrl": "www.parents.com/baby/care/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGHCxJJFhgbGNLLys9cYCHUg5iYJCOn7i2FUy7me3uw1uxJtasNJruqk9l"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, maximum-scale=1.0, initial-scale=1.0, user-scalable=0",
+                        "fb:pages": "63294986181",
+                        "mdp:contenttype": "category",
+                        "abstract": "abstract value",
+                        "fb:admins": "1561750258",
+                        "fb:app_id": "72125855925",
+                        "og:site_name": "Parents",
+                        "og:type": "website",
+                        "og:url": "http://www.parents.com/baby/care/",
+                        "og:title": "Newborn Care",
+                        "og:description": "Get information on basic baby care, baths, burping, gas, jaundice, pediatricians, medicine, shaken baby syndrome and more from the editors of Parents magazine."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.parents.com/sites/parents.com/files/styles/width_300/public/images/p_101402293.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Your Newborn Baby | BabyCenter",
+            "htmlTitle": "Your <b>Newborn</b> Baby | BabyCenter",
+            "link": "https://www.babycenter.com/your-newborn-baby",
+            "displayLink": "www.babycenter.com",
+            "snippet": "Knowing what to expect when you have a newborn can ease the anxiety that \nevery new parent feels and give you confidence as you bond with your new baby. \nHere you'll find advice and information on everything from bathing and feeding \nyour baby to establishing good sleep habits, interpreting your baby's cries, and ...",
+            "htmlSnippet": "Knowing what to expect when you have a <b>newborn</b> can ease the anxiety that <br>\nevery new parent feels and give you confidence as you bond with your new baby. <br>\nHere you&#39;ll find advice and information on everything from bathing and feeding <br>\nyour baby to establishing good sleep habits, interpreting your baby&#39;s cries, and&nbsp;...",
+            "cacheId": "AcAcgosEbWIJ",
+            "formattedUrl": "https://www.babycenter.com/your-newborn-baby",
+            "htmlFormattedUrl": "https://www.babycenter.com/your-<b>newborn</b>-baby",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240",
+                        "height": "180",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBOCqxFTUA-FpqPfq_su6IPkivmZZ3XLZOdt1H0WvnuKzCYxHLmQEHsLA"
+                    }
+                ],
+                "imageobject": [
+                    {
+                        "url": "https://assets.babycenter.com/ims/2011/03marb/bc_logo_color_576x126.jpg",
+                        "width": "576",
+                        "height": "126"
+                    }
+                ],
+                "organization": [
+                    {
+                        "name": "BabyCenter"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "always",
+                        "msvalidate.01": "1230FDEA702C46409321FDDB1AAD11F0",
+                        "og:title": "Your Newborn Baby | BabyCenter",
+                        "og:type": "article",
+                        "og:url": "/your-newborn-baby",
+                        "og:image": "/ims/2016/06/iStock_84443069_4x3.jpg?width=475",
+                        "og:description": "An overview of important newborn information, covering what the first weeks are like and basics about health, safety, feeding, and sleep.",
+                        "og:site_name": "BabyCenter",
+                        "fb:page_id": "6485616297"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "mainentityofpage": "http://www.babycenter.com/your-newborn-baby",
+                        "headline": "Your Newborn Baby"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.babycenter.com/images/icons/misc/ContentType_GenericImage_ExpertAnswer.svg?width=345"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "item": "Home",
+                        "name": "Home",
+                        "position": "1"
+                    },
+                    {
+                        "item": "Baby",
+                        "name": "Baby",
+                        "position": "2"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Build",
+            "htmlTitle": "<b>New</b> Build",
+            "link": "https://www.bronafon.org.uk/new-build/",
+            "displayLink": "www.bronafon.org.uk",
+            "snippet": "New Build. We have secured loans of £30.5m to build new homes: This fantastic \nnews means that we can now plan to build 450 much-needed, affordable homes \nover the coming years. Bron Afon are actively looking for new development and \nrenovation opportunities and regularly work in partnership with developers, land\n ...",
+            "htmlSnippet": "<b>New</b> Build. We have secured loans of £30.5m to build <b>new</b> homes: This fantastic <br>\n<b>news</b> means that we can now plan to build 450 much-needed, affordable homes <br>\nover the coming years. <b>Bron</b> Afon are actively looking for <b>new</b> development and <br>\nrenovation opportunities and regularly work in partnership with developers, land<br>\n&nbsp;...",
+            "cacheId": "xoN6Tw2rWr4J",
+            "formattedUrl": "https://www.bronafon.org.uk/new-build/",
+            "htmlFormattedUrl": "https://www.<b>bron</b>afon.org.uk/<b>new</b>-build/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "348",
+                        "height": "145",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyySMJ4XykCIsbK01cMhyfovIKmsXSAZfps40Y8GOKQorLAsrfxW8YUbI"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.bronafon.org.uk/images/headers/2017-05-30-63d2c.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "broncolor Blog: broncolor News",
+            "htmlTitle": "broncolor Blog: broncolor <b>News</b>",
+            "link": "http://news.broncolor.com/",
+            "displayLink": "news.broncolor.com",
+            "snippet": "The amazing Marco Justus Schöler whose outstanding work inspired me to use \nMove was able to get me connected with Bron. So I placed my order and \nyesterday was finally the day: About noon the door bell eventually rang and the \npostman happily gave me my packets. Happily, too, I accepted them. Then I \npacked all my ...",
+            "htmlSnippet": "The amazing Marco Justus Schöler whose outstanding work inspired me to use <br>\nMove was able to get me connected with <b>Bron</b>. So I placed my order and <br>\nyesterday was finally the day: About noon the door bell eventually rang and the <br>\npostman happily gave me my packets. Happily, too, I accepted them. Then I <br>\npacked all my&nbsp;...",
+            "cacheId": "oeXGubHMUEcJ",
+            "formattedUrl": "news.broncolor.com/",
+            "htmlFormattedUrl": "<b>news</b>.<b>bron</b>color.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "187",
+                        "height": "269",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShRfd4NmWeDFlBw1FOlNhr-fnCqHJyboeS5t6ffL9kDrHS9v-tzfIErcm4"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:site_name": "broncolor News",
+                        "og:type": "website",
+                        "og:locale": "en_US",
+                        "og:title": "broncolor News",
+                        "og:description": "broncolor Blog",
+                        "og:url": "http://news.broncolor.com"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://news.broncolor.com/wp-content/uploads/2017/11/final-picture-624x898.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Tekno Newbron Robotic Pets",
+            "htmlTitle": "Tekno <b>Newbron</b> Robotic Pets",
+            "link": "https://www.tekno-robotics.com/teknonewborns",
+            "displayLink": "www.tekno-robotics.com",
+            "snippet": "Tekno Newborns are adorable robotic pets that know when you're talking to them\n! Program your puppy or kitty to walk, sit, beg, sing, and even jump into hand!",
+            "htmlSnippet": "Tekno Newborns are adorable robotic pets that know when you&#39;re talking to them<br>\n! Program your puppy or kitty to walk, sit, beg, sing, and even jump into hand!",
+            "cacheId": "FFrgdDpuOJwJ",
+            "formattedUrl": "https://www.tekno-robotics.com/teknonewborns",
+            "htmlFormattedUrl": "https://www.tekno-robotics.com/tekno<b>newborn</b>s",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224",
+                        "height": "224",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZTR_VBhHhihi_RoAepFJF6JevIA0HwW8213DzLJq0U-K4D4z-poqHsyAb"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "fb_admins_meta_tag": "teknorobotics",
+                        "og:type": "website",
+                        "og:site_name": "Tekno Newborn Robotic Pets",
+                        "fb:admins": "teknorobotics",
+                        "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+                        "viewport": "width=980, user-scalable=yes",
+                        "fragment": "!",
+                        "og:title": "Tekno Newbron Robotic Pets",
+                        "og:url": "https://www.tekno-robotics.com/teknonewborns",
+                        "og:description": "Tekno Newborns are adorable robotic pets that know when you're talking to them! Program your puppy or kitty  to walk, sit, beg, sing, and even jump into hand!"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://static.wixstatic.com/media/ff95f9_a07ef567f79c46e69197fbf645fa803b~mv2.png/v1/fill/w_390,h_390,al_c/ff95f9_a07ef567f79c46e69197fbf645fa803b~mv2.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bron Structured Tie Waist Dress Black Floral Print - Womens ...",
+            "htmlTitle": "<b>Bron</b> Structured Tie Waist Dress Black Floral Print - Womens ...",
+            "link": "https://www.forevernew.com.au/struct-tie-dress-24755901",
+            "displayLink": "www.forevernew.com.au",
+            "snippet": "Complete your Forever New inspired look with our Black Floral Print Bron \nStructured Tie Waist Dress . FREE delivery within Australia for orders over AU$50\n.",
+            "htmlSnippet": "Complete your Forever <b>New</b> inspired look with our Black Floral Print <b>Bron</b> <br>\nStructured Tie Waist Dress . FREE delivery within Australia for orders over AU$50<br>\n.",
+            "cacheId": "qTRhBGRzJAkJ",
+            "formattedUrl": "https://www.forevernew.com.au/struct-tie-dress-24755901",
+            "htmlFormattedUrl": "https://www.forever<b>new</b>.com.au/struct-tie-dress-24755901",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "310",
+                        "height": "162",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSB9Tr7Xm_IiLC03sKQKX0SqOnOhv-y42X4MubqGk93Aqqj1dKnJ2-qDTU"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0",
+                        "og:title": "Bron Structured Tie Waist Dress",
+                        "og:type": "product",
+                        "og:image": "https://cdn.forevernew.com.au/media/catalog/product/cache/1/image/1910x1000/9df78eab33525d08d6e5fb8d27136e95/o/1/o17_24755901_f.jpg",
+                        "og:url": "https://www.forevernew.com.au/struct-tie-dress-24755901",
+                        "og:description": "Discover entrance-worthy elegance perfect for that special occasion, with our Bron Structured Tie Waist Dress.",
+                        "og:site_name": "Forever New Australia",
+                        "position": "0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdn.forevernew.com.au/media/catalog/product/cache/1/image/1910x1000/9df78eab33525d08d6e5fb8d27136e95/o/1/o17_24755901_f.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bron Studios Secures Revolving $50M Credit Line From Comerica ...",
+            "htmlTitle": "<b>Bron</b> Studios Secures Revolving $50M Credit Line From Comerica ...",
+            "link": "http://deadline.com/2017/09/bron-studios-revolving-50-million-credit-line-comerica-bank-1202173143/",
+            "displayLink": "deadline.com",
+            "snippet": "Sep 19, 2017 ... Denzel Washington Comes To Festival And Immediately Creates New Oscar \nBuzz For 'Roman J... Bron recently begun production on The Front Runner from \nco-writer/director Reitman starring Hugh Jackman, and just completed production \non the film The Red Sea Diving Resort from writer-director Gideon ...",
+            "htmlSnippet": "Sep 19, 2017 <b>...</b> Denzel Washington Comes To Festival And Immediately Creates <b>New</b> Oscar <br>\nBuzz For &#39;Roman J... <b>Bron</b> recently begun production on The Front Runner from <br>\nco-writer/director Reitman starring Hugh Jackman, and just completed production <br>\non the film The Red Sea Diving Resort from writer-director Gideon&nbsp;...",
+            "cacheId": "fqK9QznlBKIJ",
+            "formattedUrl": "deadline.com/.../bron-studios-revolving-50-million-credit-line-comerica- bank-1202173143/",
+            "htmlFormattedUrl": "deadline.com/.../<b>bron</b>-studios-revolving-50-million-credit-line-comerica- bank-1202173143/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "280",
+                        "height": "180",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsBVFNgKLAYksJ-UaDuQ7RIVwBjjq_oK5KLvFjPZxZkD73hlLN44gR237a"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width",
+                        "fb:page_id": "105558754896",
+                        "y_key": "a810be562637c603",
+                        "p:domain_verify": "f5dfa14b5684550478e0b704b2c372b9",
+                        "apple-itunes-app": "app-id=533209613",
+                        "news_keywords": "Bron Studios, Comerica Bank, Roman J. Israel Esq.",
+                        "og:type": "article",
+                        "og:title": "Bron Studios Secures Revolving $50M Credit Line From Comerica Bank",
+                        "og:url": "http://deadline.com/2017/09/bron-studios-revolving-50-million-credit-line-comerica-bank-1202173143/",
+                        "og:description": "Bron Studios, the Vancouver-based production company headed by Aaron L. Gilbert, has just announced it has secured a $50 million revolving credit line with Comerica Bank. The credit line, Bron said…",
+                        "article:published_time": "2017-09-19T18:59:53+00:00",
+                        "article:modified_time": "2017-09-19T19:39:54+00:00",
+                        "og:site_name": "Deadline",
+                        "og:image": "https://pmcdeadline2.files.wordpress.com/2017/03/bron-studios-logo.jpg?w=605",
+                        "og:image:width": "605",
+                        "og:image:height": "388",
+                        "og:locale": "en_US",
+                        "twitter:site": "@Deadline",
+                        "twitter:text:title": "Bron Studios Secures Revolving $50M Credit Line From Comerica Bank",
+                        "twitter:image:src": "https://pmcdeadline2.files.wordpress.com/2017/03/bron-studios-logo.jpg?w=640",
+                        "twitter:card": "summary_large_image",
+                        "twitter:creator": "@DeadlineAnita",
+                        "twitter:title": "Bron Studios Secures Revolving $50M Credit Line From Comerica Bank",
+                        "twitter:description": "Bron Studios, the production company headed by Aaron L. Gilbert, has secured a $50 million revolving credit line with Comerica Bank.",
+                        "twitter:image": "https://pmcdeadline2.files.wordpress.com/2017/03/bron-studios-logo.jpg",
+                        "author": "Anita Busch",
+                        "fb:pages": "105558754896",
+                        "title": "Bron Studios Secures Revolving $50M Credit Line From Comerica Bank",
+                        "published_at": "2017-09-19 11:59:53",
+                        "image": "https://pmcdeadline2.files.wordpress.com/2017/03/bron-studios-logo.jpg?w=300",
+                        "comment_count": "0",
+                        "tags": "Bron Studios",
+                        "topics": "Business",
+                        "body": "Bron Studios, the Vancouver-based production company headed by Aaron L. Gilbert, has just announced it has secured a $50 million revolving credit line with Comerica Bank. The credit line, Bron said, will go to help it manage its burgeoning slate of productions. This is the company that was behind Jason Reitman’s Tully (Focus), Miguel Arteta’s Beatriz at Dinner (Roadside), Denzel Washington’s Oscar-nominated Fences (Paramount) and Nate Parker’s The Birth of a Nation (Fox Searchlight).    Bron recently begun production on The Front Runner from co-writer/director Reitman starring Hugh Jackman, and just completed production on the film The Red Sea Diving Resort from writer-director Gideon Raff, starring Chris Evans. The company’s latest, Dan Gilroy’s Roman J. Israel, Esq, which stars Denzel Washington, is at Sony. The Gilroy picture just premiered at Toronto and will be released this fall.    The company is in post-production on Sam Levinson’s Assassination Nation as well as Debra Granik’s My Ab",
+                        "trueanthem.headline": "Bron Studios Secures Revolving $50M Credit Line From Comerica Bank",
+                        "application-name": "Deadline",
+                        "msapplication-window": "width=device-width;height=device-height",
+                        "msapplication-tooltip": "Hollywood Entertainment Breaking News",
+                        "msapplication-task": "name=Subscribe;action-uri=http://deadline.com/feed/;icon-uri=http://0.gravatar.com/blavatar/0d8531262d92570876b84bba1cbad7f7?s=16",
+                        "fragment": "!"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://pmcdeadline2.files.wordpress.com/2017/03/bron-studios-logo.jpg?w=605"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Bron/Broen (TV Series 2011– ) - IMDb",
+            "htmlTitle": "<b>Bron</b>/Broen (TV Series 2011– ) - IMDb",
+            "link": "http://www.imdb.com/title/tt1733785/",
+            "displayLink": "www.imdb.com",
+            "snippet": "Crime · When a body is found on the bridge between Denmark and Sweden, right \non the border, Danish inspector Martin Rohde and Swedish Saga Norén have to \nshare jurisdiction and work together to find the killer.",
+            "htmlSnippet": "Crime &middot; When a body is found on the bridge between Denmark and Sweden, right <br>\non the border, Danish inspector Martin Rohde and Swedish Saga Norén have to <br>\nshare jurisdiction and work together to find the killer.",
+            "cacheId": "yIy_vU3024oJ",
+            "formattedUrl": "www.imdb.com/title/tt1733785/",
+            "htmlFormattedUrl": "www.imdb.com/title/tt1733785/",
+            "pagemap": {
+                "tvseries": [
+                    {
+                        "name": "Bron/Broen",
+                        "contentrating": "TV-MA",
+                        "duration": "PT60M",
+                        "genre": "Crime",
+                        "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ3MDAzNDU4NV5BMl5BanBnXkFtZTgwNjE2NDQ0NzE@._V1_UY268_CR3,0,182,268_AL_.jpg",
+                        "description": "When a body is found on the bridge between Denmark and Sweden, right on the border, Danish inspector Martin Rohde and Swedish Saga Norén have to share jurisdiction and work together to find...",
+                        "headline": "Diane Kruger To Star In FX Pilot ‘The Bridge’",
+                        "datepublished": "20 September 2012 8:00 AM, -08:00",
+                        "provider": "Deadline TV",
+                        "url": "Show HTML",
+                        "awards": "6 wins & 12 nominations.",
+                        "thumbnailurl": "http://www.imdb.com/title/tt1733785/mediaviewer/rm3078563072?context=default&ref_=tt_pv_md_1",
+                        "keywords": "Plot Keywords: police | sweden | denmark | female protagonist | nordic noir | See All (10) »"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "163",
+                        "height": "310",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTU2Bk2nNXiPyA6hJLbpyf3ef3l_3TdCWiSIMoHqDU2m9-aZeccpT6dj-2i"
+                    }
+                ],
+                "audience": [
+                    {
+                        "url": "View content advisory"
+                    }
+                ],
+                "person": [
+                    {
+                        "url": "Sofia Helin",
+                        "name": "Sofia Helin"
+                    },
+                    {
+                        "url": "Rafael Pettersson",
+                        "name": "Rafael Pettersson"
+                    },
+                    {
+                        "url": "Dag Malmberg",
+                        "name": "Dag Malmberg"
+                    },
+                    {
+                        "url": "Sofia Helin",
+                        "name": "Sofia Helin"
+                    },
+                    {
+                        "url": "Rafael Pettersson",
+                        "name": "Rafael Pettersson"
+                    },
+                    {
+                        "url": "Dag Malmberg",
+                        "name": "Dag Malmberg"
+                    },
+                    {
+                        "url": "Sarah Boberg",
+                        "name": "Sarah Boberg"
+                    },
+                    {
+                        "url": "Rebecka Barkland",
+                        "name": "Rebecka Barkland"
+                    },
+                    {
+                        "url": "Kim Bodnia",
+                        "name": "Kim Bodnia"
+                    },
+                    {
+                        "url": "Puk Scharbau",
+                        "name": "Puk Scharbau"
+                    },
+                    {
+                        "url": "Lars Simonsen",
+                        "name": "Lars Simonsen"
+                    },
+                    {
+                        "url": "Henrik Lundström",
+                        "name": "Henrik Lundström"
+                    }
+                ],
+                "review": [
+                    {
+                        "name": "Great series",
+                        "author": "rugbyspelaren-2",
+                        "datepublished": "2012-01-08",
+                        "reviewbody": "I guess reviewer Smockan didn't notice that Sofia Helins odd character had Aspergers Disorder which results in a very asocial behaviour. She don't know how to socialize or communicate in a..."
+                    }
+                ],
+                "aggregaterating": [
+                    {
+                        "ratingvalue": "8.6",
+                        "bestrating": "10",
+                        "ratingcount": "37,733",
+                        "reviewcount": "73 user"
+                    },
+                    {
+                        "ratingvalue": "8.9",
+                        "bestrating": "10",
+                        "ratingcount": "527"
+                    },
+                    {
+                        "ratingvalue": "8.9",
+                        "bestrating": "10",
+                        "ratingcount": "415"
+                    },
+                    {
+                        "ratingvalue": "8.8",
+                        "bestrating": "10",
+                        "ratingcount": "544"
+                    }
+                ],
+                "organization": [
+                    {
+                        "url": "Filmlance International AB",
+                        "name": "Filmlance International AB"
+                    },
+                    {
+                        "url": "Nimbus Film Productions",
+                        "name": "Nimbus Film Productions"
+                    },
+                    {
+                        "url": "Sveriges Television (SVT)",
+                        "name": "Sveriges Television (SVT)"
+                    }
+                ],
+                "rating": [
+                    {
+                        "worstrating": "1",
+                        "ratingvalue": "8",
+                        "bestrating": "10"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=342792525, app-argument=imdb:///title/tt1733785?src=mdot",
+                        "og:url": "http://www.imdb.com/title/tt1733785/",
+                        "theme-color": "#000000",
+                        "pageid": "tt1733785",
+                        "pagetype": "title",
+                        "subpagetype": "main",
+                        "og:image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ3MDAzNDU4NV5BMl5BanBnXkFtZTgwNjE2NDQ0NzE@._V1_UY1200_CR106,0,630,1200_AL_.jpg",
+                        "og:type": "video.tv_show",
+                        "fb:app_id": "115109575169727",
+                        "og:title": "The Bridge (TV Series 2011– )",
+                        "og:site_name": "IMDb",
+                        "title": "Bron/Broen (TV Series 2011– ) - IMDb",
+                        "og:description": "With Sofia Helin, Rafael Pettersson, Dag Malmberg, Sarah Boberg. When a body is found on the bridge between Denmark and Sweden, right on the border, Danish inspector Martin Rohde and Swedish Saga Norén have to share jurisdiction and work together to find the killer.",
+                        "request_id": "1MCQC5421AD40G0JYBCV"
+                    }
+                ],
+                "episode": [
+                    {
+                        "episodenumber": "S2.E10",
+                        "name": "Episode #2.10"
+                    },
+                    {
+                        "episodenumber": "S3.E10",
+                        "name": "Episode #3.10"
+                    },
+                    {
+                        "episodenumber": "S1.E10",
+                        "name": "Episode #1.10"
+                    }
+                ],
+                "moviereview": [
+                    {
+                        "ratingstars": "4.5",
+                        "best": "10",
+                        "originalrating": "8.6",
+                        "votes": "37,733",
+                        "ratingcount": "73 user",
+                        "image_href": "https://images-na.ssl-images-amazon.com/images/M/MV5BMWRkYTY1ZmItOGViNy00MjU4LTg0ODMtMjIwY2YzZTc3ZWUxXkEyXkFqcGdeQXVyNjc5Mjg0NjU@._CR68,10,871,652_UX614_UY460._SY230_SX307_AL_.jpg",
+                        "name": "Bron/Broen",
+                        "release_date": "2012-09-20",
+                        "release_year": "2012",
+                        "genre": "Crime/Mystery",
+                        "starring": "Sofia Helin, Rafael Pettersson, Dag Malmberg",
+                        "summary": "Season 2 begins 13 months after the events of the first season. A coastal tanker leaves the Öresund waterway and is headed straight for the Øresund..."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ3MDAzNDU4NV5BMl5BanBnXkFtZTgwNjE2NDQ0NzE@._V1_UY1200_CR106,0,630,1200_AL_.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "NEW+BRON | JB - James Brown Pharma",
+            "htmlTitle": "<b>NEW</b>+<b>BRON</b> | JB - James Brown Pharma",
+            "link": "http://www.jamesbrownpharma.com/es/producto/newbron",
+            "displayLink": "www.jamesbrownpharma.com",
+            "snippet": "Suspensión. Vacuna liofilizada de virus vivo modificado contra Newcastle y \nBronquitis.",
+            "htmlSnippet": "Suspensión. Vacuna liofilizada de virus vivo modificado contra Newcastle y <br>\nBronquitis.",
+            "cacheId": "qfjJ9dFscsgJ",
+            "formattedUrl": "www.jamesbrownpharma.com/es/producto/newbron",
+            "htmlFormattedUrl": "www.jamesbrownpharma.com/es/producto/<b>newbron</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "254",
+                        "height": "198",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzQxt4NZGWYKIcV6Kp4yRl86Fpya16-5L0_7-aKZWV2tAP_sZZHkz_f2vo"
+                    }
+                ],
+                "Item": [
+                    {
+                        "encoded": "Suspensión. Vacuna liofilizada de virus vivo modificado contra Newcastle y Bronquitis.",
+                        "title": "NEW+BRON"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.jamesbrownpharma.com/sites/default/files/styles/imagen_productos/public/New%2BBron%20familia_resize.png?itok=HbIhnul7"
+                    }
+                ]
+            }
+        }
+    ]
+}

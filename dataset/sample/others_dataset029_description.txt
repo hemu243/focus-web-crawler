@@ -1,0 +1,5 @@
+Instant Articles API. Instant Articles support syndication using the Instant Articles 
+API. This API allows you to create, publish, update and delete Instant Articles 
+directly from your content management system. Automated publication in the 
+Instant Articles format on Facebook also occurs in real time. Publish new stories 
+via the ...

@@ -1,0 +1,391 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search -  new homes",
+                "totalResults": "1380000000",
+                "searchTerms": " new homes",
+                "count": 10,
+                "startIndex": 31,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "previousPage": [
+            {
+                "title": "Google Custom Search -  new homes",
+                "totalResults": "1380000000",
+                "searchTerms": " new homes",
+                "count": 10,
+                "startIndex": 21,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search -  new homes",
+                "totalResults": "1380000000",
+                "searchTerms": " new homes",
+                "count": 10,
+                "startIndex": 41,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ]
+    },
+    "context": {
+        "title": "News Home Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.620886,
+        "formattedSearchTime": "0.62",
+        "totalResults": "1380000000",
+        "formattedTotalResults": "1,380,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "New Homes In New Jersey For Sale - New Jersey Homebuilders ...",
+            "htmlTitle": "<b>New Homes</b> In New Jersey For Sale - New Jersey Homebuilders ...",
+            "link": "http://www.ryanhomes.com/find-your-home/our-communities/new-jersey",
+            "displayLink": "www.ryanhomes.com",
+            "snippet": "Ryan Homes offers a diverse catalogue of new homes in New Jersey, and our \nhomes are spread evenly between metro Philadelphia and the outskirts of New \nYork City. The state stands as one of the most affluent regions in America, and \nour New Jersey home communities have a special appeal for committed \nprofessionals.",
+            "htmlSnippet": "Ryan Homes offers a diverse catalogue of <b>new homes</b> in New Jersey, and our <br>\nhomes are spread evenly between metro Philadelphia and the outskirts of New <br>\nYork City. The state stands as one of the most affluent regions in America, and <br>\nour New Jersey home communities have a special appeal for committed <br>\nprofessionals.",
+            "cacheId": "Tk_J7-KeIvsJ",
+            "formattedUrl": "www.ryanhomes.com/find-your-home/our.../new-jersey",
+            "htmlFormattedUrl": "www.ryan<b>homes</b>.com/find-your-home/our.../<b>new</b>-jersey",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "317",
+                        "height": "159",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgeTHujBWx0_FUruX5HQDTga0GIyauLF5FmBKO46Hsj9Fn1aaoeTllh5jb"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "google": "notranslate",
+                        "viewport": "width=device-width, height=device-height, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0",
+                        "og:title": "New Homes In New Jersey For Sale - New Jersey Homebuilders - Ryan Homes",
+                        "pagename": "new-jersey",
+                        "pagereportname": "findyourhome:ourcommunities:NJ:new-jersey",
+                        "og:type": "website",
+                        "og:url": "http://www.ryanhomes.com:14080/find-your-home/our-communities/new-jersey",
+                        "og:image": "http://www.ryanhomes.com/assets/images/placeholder-search.png",
+                        "og:description": "Search community homes for sale at Ryan Homes. The only new home builder with an A+ rating.",
+                        "og:site_name": "Ryan Homes"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.ryanhomes.com/assets/images/placeholder-search.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Homes at Bayshores",
+            "htmlTitle": "<b>New Homes</b> at Bayshores",
+            "link": "https://lyonhomes.com/northern-california/masterplans/bayshores",
+            "displayLink": "lyonhomes.com",
+            "snippet": "New Homes at Bayshores. MODELS NOW OPEN. NOW SELLING. GET PRE-\nQUALIFIED WITH WILLIAM LYON MORTGAGE. Contact the Bayshores Sales \nTeam at (628) 222-7690. William Lyon Homes presents a brand new master plan \ncommunity featuring 5 distinctive neighborhoods showcased below. This brand \nnew ...",
+            "htmlSnippet": "<b>New Homes</b> at Bayshores. MODELS NOW OPEN. NOW SELLING. GET PRE-<br>\nQUALIFIED WITH WILLIAM LYON MORTGAGE. Contact the Bayshores Sales <br>\nTeam at (628) 222-7690. William Lyon Homes presents a brand new master plan <br>\ncommunity featuring 5 distinctive neighborhoods showcased below. This brand <br>\nnew&nbsp;...",
+            "cacheId": "iUOXNtDSS6cJ",
+            "formattedUrl": "https://lyonhomes.com/northern-california/masterplans/bayshores",
+            "htmlFormattedUrl": "https://lyon<b>homes</b>.com/northern-california/masterplans/bayshores",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "294",
+                        "height": "172",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXgmadVA_UbgkLPjzEJAYP3IsjwBEv6ZnjTGeQQuHLxPZCfc4leAQsjP4"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "author": "William Lyon Homes"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://lyonhomes.scdn4.secure.raxcdn.com/persistent/resources/regions/masterplans/heroes/170926_BayshoresPhaase212217.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Nocatee Homes for Sale | Master-Planned Community | Florida",
+            "htmlTitle": "Nocatee <b>Homes</b> for Sale | Master-Planned Community | Florida",
+            "link": "https://www.nocatee.com/neighborhoods",
+            "displayLink": "www.nocatee.com",
+            "snippet": "New Nocatee master planned community with homes ranging from the $200s to \n$1M! Home styles range from Coastal, Mediterranean, Modern and More!",
+            "htmlSnippet": "<b>New</b> Nocatee master planned community with <b>homes</b> ranging from the $200s to <br>\n$1M! Home styles range from Coastal, Mediterranean, Modern and More!",
+            "cacheId": "Xd5h6DqOHwMJ",
+            "formattedUrl": "https://www.nocatee.com/neighborhoods",
+            "htmlFormattedUrl": "https://www.nocatee.com/neighborhoods",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "author": "Nocatee",
+                        "og:description": "New Nocatee master planned community with homes ranging from the $200s to $1M! Home styles range from Coastal, Mediterranean, Modern and More!",
+                        "og:title": "Nocatee Homes for Sale | Master-Planned Community | Florida",
+                        "twitter:description": "New Nocatee master planned community with homes ranging from the $200s to $1M! Home styles range from Coastal, Mediterranean, Modern and More!",
+                        "twitter:title": "Nocatee Homes for Sale | Master-Planned Community | Florida",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:url": "https://www.nocatee.com/neighborhoods"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The Vale | New Homes for Sale in Sunnyvale, CA",
+            "htmlTitle": "The Vale | <b>New Homes</b> for Sale in Sunnyvale, CA",
+            "link": "https://livethevale.com/",
+            "displayLink": "livethevale.com",
+            "snippet": "The Vale is a brand new community of beautiful, 3-4 bedroom attached row \ntownhomes in two spectacular neighborhoods for sale in Sunnyvale, CA.",
+            "htmlSnippet": "The Vale is a brand <b>new</b> community of beautiful, 3-4 bedroom attached row <br>\ntownhomes in two spectacular neighborhoods for sale in Sunnyvale, CA.",
+            "cacheId": "i5gk-qqIX-sJ",
+            "formattedUrl": "https://livethevale.com/",
+            "htmlFormattedUrl": "https://livethevale.com/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width,initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:type": "website",
+                        "og:title": "The Vale | New Homes for Sale in Sunnyvale, CA",
+                        "og:description": "The Vale is a brand new community of beautiful, 3-4 bedroom attached row townhomes in two spectacular neighborhoods for sale in Sunnyvale, CA.",
+                        "og:url": "https://livethevale.com/",
+                        "og:site_name": "The Vale",
+                        "twitter:card": "summary",
+                        "twitter:description": "The Vale is a brand new community of beautiful, 3-4 bedroom attached row townhomes in two spectacular neighborhoods for sale in Sunnyvale, CA.",
+                        "twitter:title": "The Vale | New Homes for Sale in Sunnyvale, CA"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Lowder New Homes: New Construction Homes | Home Builders",
+            "htmlTitle": "Lowder <b>New Homes</b>: New Construction Homes | Home Builders",
+            "link": "https://www.lowdernewhomes.com/",
+            "displayLink": "www.lowdernewhomes.com",
+            "snippet": "Looking for new contruction homes from quality home builders? We have 50 \nyears experience in Montgomery, Pike Road, Prattville & Millbrook. Learn more!",
+            "htmlSnippet": "Looking for <b>new</b> contruction <b>homes</b> from quality <b>home builders</b>? We have 50 <br>\nyears experience in Montgomery, Pike Road, Prattville &amp; Millbrook. Learn more!",
+            "cacheId": "SBwZXhc9rwkJ",
+            "formattedUrl": "https://www.lowdernewhomes.com/",
+            "htmlFormattedUrl": "https://www.lowder<b>newhomes</b>.com/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "format-detection": "telephone=no",
+                        "og:locale": "en_US",
+                        "og:type": "website",
+                        "og:title": "New Construction Homes | Home Builders | Lowder New Homes",
+                        "og:description": "Looking for new contruction homes from quality home builders? We have 50 years experience in Montgomery, Pike Road, Prattville & Millbrook. Learn more!",
+                        "og:url": "https://www.lowdernewhomes.com/",
+                        "og:site_name": "Lowder Homes",
+                        "msvalidate.01": "F8DC602F6A17F811C2328530D67330EF"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Homes",
+            "htmlTitle": "<b>New Homes</b>",
+            "link": "http://realestate.nj.com/new-homes/",
+            "displayLink": "realestate.nj.com",
+            "snippet": "Browse thousands of new homes for sale in New Jersey. Find new homes and \nnew houses for sale in NJ. Search our local real estate listings for new homes, \nnew houses and new apartment homes at NJ.com.",
+            "htmlSnippet": "Browse thousands of <b>new homes</b> for sale in New Jersey. Find <b>new homes</b> and <br>\n<b>new houses</b> for sale in NJ. Search our local real estate listings for <b>new homes</b>, <br>\n<b>new houses</b> and new apartment homes at NJ.com.",
+            "cacheId": "RxMKSrBLwcUJ",
+            "formattedUrl": "realestate.nj.com/new-homes/",
+            "htmlFormattedUrl": "realestate.nj.com/<b>new</b>-<b>homes</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "260",
+                        "height": "100",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqKPDtcLghEGyWttbbdM1w5cL3U3kaRxW78I9CNeiNuhPP0I0jyigobA"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msvalidate.01": "DEED285EAEFADF4AB65769CE0E8DE106",
+                        "apple-itunes-app": "app-id=1021727639",
+                        "google-play-app": "app-id=com.nj.realestate",
+                        "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no",
+                        "og:image": "http://static.advance.net/static/njo/static/img/logos/logo_main_2x.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://static.advance.net/static/njo/static/img/logos/logo_main_2x.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Homes in Southwest Florida | AveMaria.com - Ave Maria",
+            "htmlTitle": "<b>New Homes</b> in Southwest Florida | AveMaria.com - Ave Maria",
+            "link": "https://www.avemaria.com/homes/",
+            "displayLink": "www.avemaria.com",
+            "snippet": "If you're searching for a new home, Ave Maria offers a wide-variety of home styles \nincluding 35 brand new floor plans from our four featured builders.",
+            "htmlSnippet": "If you&#39;re searching for a <b>new</b> home, Ave Maria offers a wide-variety of home styles <br>\nincluding 35 brand <b>new</b> floor plans from our four featured builders.",
+            "cacheId": "pABew6CLmdoJ",
+            "formattedUrl": "https://www.avemaria.com/homes/",
+            "htmlFormattedUrl": "https://www.avemaria.com/<b>homes</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "344",
+                        "height": "129",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWM4G7iIlYXGW11Dh3xnUW05HGgpW7Ozn5BJr8VO37dLY-MM-3s0A0Wmwi"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "google-translate-customization": "6f5c02442ee08913-2addbaab05448490-g29a0fec508aaacda-c",
+                        "og:locale": "en_US",
+                        "og:type": "article",
+                        "og:title": "New Homes in Southwest Florida | AveMaria.com",
+                        "og:description": "If you’re searching for a new home, Ave Maria offers a wide-variety of home styles including 35 brand new floor plans from our four featured builders.",
+                        "og:url": "https://www.avemaria.com/homes/",
+                        "og:site_name": "Ave Maria",
+                        "article:publisher": "https://www.facebook.com/amariafl",
+                        "og:image": "https://www.avemaria.com/wp-content/themes/avemaria/images/homes-logo-avalon-img.jpg",
+                        "og:image:secure_url": "https://www.avemaria.com/wp-content/themes/avemaria/images/homes-logo-avalon-img.jpg",
+                        "twitter:card": "summary",
+                        "twitter:description": "If you’re searching for a new home, Ave Maria offers a wide-variety of home styles including 35 brand new floor plans from our four featured builders.",
+                        "twitter:title": "New Homes in Southwest Florida | AveMaria.com",
+                        "twitter:site": "@AveMariaFlorida",
+                        "twitter:image": "https://www.avemaria.com/wp-content/themes/avemaria/images/homes-logo-avalon-img.jpg",
+                        "twitter:creator": "@AveMariaFlorida"
+                    }
+                ],
+                "Breadcrumb": [
+                    {
+                        "title": "Home",
+                        "url": "Home"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.avemaria.com/wp-content/themes/avemaria/images/homes-logo-avalon-img.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Home Source Professional",
+            "htmlTitle": "<b>New</b> Home Source Professional",
+            "link": "http://www.newhomesourceprofessional.com/",
+            "displayLink": "www.newhomesourceprofessional.com",
+            "snippet": "Sign Up to Access Agent-Only Tools. Send saved listings with clients via your \ncustomized ShowingNew.com site; Review available commission and \nregistration info from builders; See exclusive agent promotions and events from \nbuilders. Sign Up For Free ...",
+            "htmlSnippet": "Sign Up to Access Agent-Only Tools. Send saved listings with clients via your <br>\ncustomized ShowingNew.com site; Review available commission and <br>\nregistration info from builders; See exclusive agent promotions and events from <br>\nbuilders. Sign Up For Free&nbsp;...",
+            "cacheId": "dWICsVpQZKwJ",
+            "formattedUrl": "www.newhomesourceprofessional.com/",
+            "htmlFormattedUrl": "www.<b>newhomes</b>ourceprofessional.com/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "theme-color": "#004a7c",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "servername": "BDXW1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Homes For Sale In Orange County | Great Park Neighborhoods",
+            "htmlTitle": "<b>Homes</b> For Sale In Orange County | Great Park Neighborhoods",
+            "link": "https://www.greatparkneighborhoods.com/homes",
+            "displayLink": "www.greatparkneighborhoods.com",
+            "snippet": "We believe that finding a new place to live isn't just about searching for new \nhomes for sale. Because while that's a good way to find a house, you have to \ncome out and experience a community to truly discover where you feel at home. \nThat's why we invite you to spend some time in our neighborhoods. Beacon Park \nand ...",
+            "htmlSnippet": "We believe that finding a new place to live isn&#39;t just about searching for <b>new</b> <br>\n<b>homes</b> for sale. Because while that&#39;s a good way to find a house, you have to <br>\ncome out and experience a community to truly discover where you feel at home. <br>\nThat&#39;s why we invite you to spend some time in our neighborhoods. Beacon Park <br>\nand&nbsp;...",
+            "cacheId": "oKKMHKpHZ7cJ",
+            "formattedUrl": "https://www.greatparkneighborhoods.com/homes",
+            "htmlFormattedUrl": "https://www.greatparkneighborhoods.com/<b>homes</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRe-rNFE-amk0zV4dgu_Jkt8I8BFpkCfZr-W5hP3G6hnatf83lklqC0PlA"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "twitter:card": "summary",
+                        "og:title": "Homes For Sale In Orange County | Great Park Neighborhoods",
+                        "og:description": "Master planned communities by GPN. Learn more about new homes for sale in Orange County, CA and search by price range, bedrooms, builder, and more.",
+                        "og:image": "https://www.greatparkneighborhoods.com/media/img/layout/logo.jpg",
+                        "author": "GPN",
+                        "viewport": "width=device-width, initial-scale=1.0, user-scalable=0",
+                        "p:domain_verify": "adac7031b30667c944713a2278426e41"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.greatparkneighborhoods.com/assets/media/img/layout/gpn_map.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Brand New Homes for Sale in North Carolina - Charlotte",
+            "htmlTitle": "Brand <b>New Homes</b> for Sale in North Carolina - Charlotte",
+            "link": "https://www.truehomesusa.com/where-we-build",
+            "displayLink": "www.truehomesusa.com",
+            "snippet": "Buy New Homes in Charlotte, Charleston, Greensboro, Winston-Salem, Coastal, \nand Raleigh. Quality new constructions throughout the Carolinas.",
+            "htmlSnippet": "Buy <b>New Homes</b> in Charlotte, Charleston, Greensboro, Winston-Salem, Coastal, <br>\nand Raleigh. Quality new constructions throughout the Carolinas.",
+            "cacheId": "634UYrVu7ssJ",
+            "formattedUrl": "https://www.truehomesusa.com/where-we-build",
+            "htmlFormattedUrl": "https://www.true<b>homes</b>usa.com/where-we-build",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "284",
+                        "height": "177",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYlEysFPn-Dd9UDAPV8yPwnP4hOhiBkHK90utod69C8HddMvl_TIzIUIA"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "og:url": "https://www.truehomesusa.com/where-we-build",
+                        "og:title": "Brand New Homes for Sale in North Carolina",
+                        "og:description": "Buy New Homes in Charlotte, Charleston, Greensboro, Winston-Salem, Coastal, and Raleigh. Quality new constructions throughout the Carolinas",
+                        "og:image": "https://www.truehomesusa.com/images/site/homepage/slide-03.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.truehomesusa.com/images/site/homepage/slide-03.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}

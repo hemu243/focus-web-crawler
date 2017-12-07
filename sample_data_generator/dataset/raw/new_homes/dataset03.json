@@ -1,0 +1,518 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search -  new homes",
+                "totalResults": "1360000000",
+                "searchTerms": " new homes",
+                "count": 10,
+                "startIndex": 21,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "previousPage": [
+            {
+                "title": "Google Custom Search -  new homes",
+                "totalResults": "1360000000",
+                "searchTerms": " new homes",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search -  new homes",
+                "totalResults": "1360000000",
+                "searchTerms": " new homes",
+                "count": 10,
+                "startIndex": 31,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "009145565549379058663:26iwjephy54"
+            }
+        ]
+    },
+    "context": {
+        "title": "News Home Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.480271,
+        "formattedSearchTime": "0.48",
+        "totalResults": "1360000000",
+        "formattedTotalResults": "1,360,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "New Homes Cocoa, FL 32927 Port St. John | Maronda Homes",
+            "htmlTitle": "<b>New Homes</b> Cocoa, FL 32927 Port St. John | Maronda Homes",
+            "link": "http://www.marondahomes.com/fl/cocoa/port-st-john-32927.html",
+            "displayLink": "www.marondahomes.com",
+            "snippet": "Welcome to the Maronda Homes Port. St John community, Our homes offer a \nsingle family home design with an elegant feel at an affordable value. Our \nhomesites are located throughout the Cocoa area of Port St. John and \nconveniently located within the North Brevard County region with easy access to \nnearby Orlando.",
+            "htmlSnippet": "Welcome to the Maronda <b>Homes</b> Port. St John community, Our <b>homes</b> offer a <br>\nsingle family home design with an elegant feel at an affordable value. Our <br>\nhomesites are located throughout the Cocoa area of Port St. John and <br>\nconveniently located within the North Brevard County region with easy access to <br>\nnearby Orlando.",
+            "cacheId": "JZBF9QNq9ZIJ",
+            "formattedUrl": "www.marondahomes.com/fl/cocoa/port-st-john-32927.html",
+            "htmlFormattedUrl": "www.maronda<b>homes</b>.com/fl/cocoa/port-st-john-32927.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "299",
+                        "height": "168",
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWjERu5XSb2gYZG_lO28dqNeAGhog6BJhmjP5ld8WxwQHrlyOdhmCSoVVc"
+                    }
+                ],
+                "breadcrumb": [
+                    {
+                        "url": "Home",
+                        "title": "Home"
+                    },
+                    {
+                        "url": "Melbourne, FL",
+                        "title": "Melbourne, FL"
+                    },
+                    {
+                        "url": "http://www.marondahomes.com/fl/cocoa/port-st-john-32927.html",
+                        "title": "Port St. John"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "language": "english",
+                        "pagecache-time": "11/30/17 08:01:41 PM",
+                        "y_key": "a213b47672e47515",
+                        "msvalidate.01": "DAEC3D8857C86569F2B53461A8B96AE5",
+                        "author": "Maronda Homes",
+                        "msapplication-tilecolor": "#ffffff",
+                        "msapplication-tileimage": "/images/appicons/ms-icon-144x144.png",
+                        "theme-color": "#ffffff",
+                        "application-name": "Maronda Homes",
+                        "og:title": "New Homes Cocoa, FL 32927 Port St. John | Maronda Homes",
+                        "og:url": "http://www.marondahomes.com/fl/cocoa/port-st-john-32927.html",
+                        "og:image": "http://www.marondahomes.com/assets/community-images/42/MEN/032/42-MEN-032-LRG-58f7c40b00cf0.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.marondahomes.com/assets/community-images/42/MEN/032/42-MEN-032-LRG-58f7c40b00cf0.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Energy Efficient New Homes | ENERGY STAR",
+            "htmlTitle": "Energy Efficient <b>New Homes</b> | ENERGY STAR",
+            "link": "https://www.energystar.gov/newhomes",
+            "displayLink": "www.energystar.gov",
+            "snippet": "Photograph of a man, woman, and child standing in front of a house. ENERGY \nSTAR CERTIFIED NEW HOMES ARE: More energy efficient than typical new \nhomes; Designed and built to high standards; Inspected, tested, and verified; \nBuilt better from the ground up ...",
+            "htmlSnippet": "Photograph of a man, woman, and child standing in front of a house. ENERGY <br>\nSTAR CERTIFIED <b>NEW HOMES</b> ARE: More energy efficient than typical <b>new</b> <br>\n<b>homes</b>; Designed and built to high standards; Inspected, tested, and verified; <br>\nBuilt better from the ground up&nbsp;...",
+            "cacheId": "_M-PDCdhDyoJ",
+            "formattedUrl": "https://www.energystar.gov/newhomes",
+            "htmlFormattedUrl": "https://www.energystar.gov/<b>newhomes</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "220",
+                        "height": "223",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-2JT4BpHXb_XNiRY9Fms9qNHzTTHIC7OKAAikk2LMJn7IQl0UC56S19Y"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "handheldfriendly": "true",
+                        "mobileoptimized": "width",
+                        "viewport": "width=device-width, initial-scale=1"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.energystar.gov/sites/default/files/promo_energy_eff_apartment_opt1.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Orlando Home Builders | Orlando New Homes | CalAtlantic Homes",
+            "htmlTitle": "Orlando Home Builders | Orlando <b>New Homes</b> | CalAtlantic Homes",
+            "link": "http://www.calatlantichomes.com/find-your-new-home/25-orlando.html",
+            "displayLink": "www.calatlantichomes.com",
+            "snippet": "Shopping for a new home in Orlando? CalAtlantic offers several communities to \nchoose from. Compare neighborhoods, amenities and floorplans here.",
+            "htmlSnippet": "Shopping for a <b>new</b> home in Orlando? CalAtlantic offers several communities to <br>\nchoose from. Compare neighborhoods, amenities and floorplans here.",
+            "cacheId": "h7fY8QdXfVQJ",
+            "formattedUrl": "www.calatlantichomes.com/find-your-new-home/25-orlando.html",
+            "htmlFormattedUrl": "www.calatlantic<b>homes</b>.com/find-your-<b>new</b>-home/25-orlando.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYixJqYlkxeIqvFFLO6qsIyYL1NUNRNH5ONz4lrZxdKLckyZx4IJZc96U3"
+                    }
+                ],
+                "postaladdress": [
+                    {
+                        "streetaddress": "444 West New England Avenue",
+                        "addresslocality": "Winter Park",
+                        "addressregion": "FL",
+                        "postalcode": "32789",
+                        "addresscountry": "United States"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:title": "Orlando New Homes",
+                        "og:type": "place",
+                        "og:image": "http://cdn.calatlantichomes.com/assets/web/1.0.6514.20974/images/CA_833x833.png",
+                        "og:url": "http://www.calatlantichomes.com/find-your-new-home/25-orlando.html",
+                        "og:description": "Shopping for a new home in Orlando?  CalAtlantic offers several communities to choose from. Compare neighborhoods, amenities and floorplans here.",
+                        "og:sitename": "calatlantichomes.com",
+                        "place:location:latitude": "28.595834",
+                        "place:location:longitude": "-81.358657",
+                        "og:street-address": "444 West New England Avenue",
+                        "og:locality": "Winter Park",
+                        "og:region": "FL",
+                        "og:postal-code": "32789",
+                        "og:country-name": "United States",
+                        "og:phone_number": "(407) 645-6500",
+                        "og:website": "http://www.calatlantichomes.com/find-your-new-home/25-orlando.html",
+                        "msapplication-tilecolor": "#da532c",
+                        "msapplication-tileimage": "/mstile-144x144.png",
+                        "theme-color": "#ffffff"
+                    }
+                ],
+                "webpage": [
+                    {
+                        "breadcrumb": "Florida New Homes",
+                        "image": "http://cdn.calatlantichomes.com/images/webcommunityprevimgpath169/3a3d9d22-aac7-e611-bbd5-02bfcd947d8b/image_1940_1092.jpg?v=63618028518&q=80&p=1",
+                        "url": "Arden Park North",
+                        "name": "Arden Park North"
+                    }
+                ],
+                "generalcontractor": [
+                    {
+                        "name": "CalAtlantic Homes:",
+                        "telephone": "(407) 645-6500"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://cdn.calatlantichomes.com/assets/web/1.0.6514.20974/images/CA_833x833.png"
+                    }
+                ],
+                "brand": [
+                    {
+                        "url": "http://www.calatlantichomes.com/",
+                        "logo": "http://cdn.calatlantichomes.com/assets/web/1.0.6514.20974/images/logo-cah-horiz.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Atlanta, GA New Homes for sale | New Home Communities",
+            "htmlTitle": "Atlanta, GA <b>New Homes</b> for sale | New Home Communities",
+            "link": "https://www.fischerhomes.com/find-new-homes/atlanta/georgia/communities",
+            "displayLink": "www.fischerhomes.com",
+            "snippet": "Find Atlanta, Georgia new homes for sale by Fischer Homes Builder. Explore our \nnew home communities in Atlanta. See Atlanta new construction homes.",
+            "htmlSnippet": "Find Atlanta, Georgia <b>new homes</b> for sale by Fischer Homes Builder. Explore our <br>\nnew home communities in Atlanta. See Atlanta new construction homes.",
+            "cacheId": "lcx647Zoaz4J",
+            "formattedUrl": "https://www.fischerhomes.com/find-new-homes/atlanta/.../communities",
+            "htmlFormattedUrl": "https://www.fischer<b>homes</b>.com/find-<b>new</b>-<b>homes</b>/atlanta/.../communities",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "113",
+                        "height": "113",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkQO9Dk5zFgCWWC8zgKRqZ_srYnP3kZCjVKqO6IpU3mG7Ai-RUGBhVyg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                        "keyword": "Atlanta, GA New Homes Fischer Homes New Home Builder New Home Communities"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.fischerhomes.com/images/site/global/banner-final-opportunity.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Homes for Sale in Alabama - New Houses in AL - AL.com",
+            "htmlTitle": "<b>New Homes</b> for Sale in Alabama - <b>New Houses</b> in AL - AL.com",
+            "link": "http://realestate.al.com/new-homes/",
+            "displayLink": "realestate.al.com",
+            "snippet": "Browse thousands of new homes for sale in Alabama. Find new homes and new \nhouses for sale in AL. Search our local real estate listings for new homes, new \nhouses and new apartment homes at AL.com.",
+            "htmlSnippet": "Browse thousands of <b>new homes</b> for sale in Alabama. Find <b>new homes</b> and <b>new</b> <br>\n<b>houses</b> for sale in AL. Search our local real estate listings for <b>new homes</b>, <b>new</b> <br>\n<b>houses</b> and new apartment homes at AL.com.",
+            "cacheId": "BRlvsoD0lCEJ",
+            "formattedUrl": "realestate.al.com/new-homes/",
+            "htmlFormattedUrl": "realestate.al.com/<b>new</b>-<b>homes</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160",
+                        "height": "100",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9H51DEMwd4v4x0NDzc_zlUjz-3NRJgzdvKSA_eXmrG8AnMoEfwTObDpQ"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msvalidate.01": "DEED285EAEFADF4AB65769CE0E8DE106",
+                        "apple-itunes-app": "app-id=1046606031",
+                        "google-play-app": "app-id=com.al.realestate",
+                        "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no",
+                        "og:image": "http://static.advance.net/static/bama/static/img/logos/logo_main_2x.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://static.advance.net/static/bama/static/img/logos/logo_main_2x.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Homes in St. Charles, MO | McBride & Son Homes",
+            "htmlTitle": "<b>New Homes</b> in St. Charles, MO | McBride &amp; Son Homes",
+            "link": "http://www.mcbridehomes.com/new-homes/missouri/st-charles/",
+            "displayLink": "www.mcbridehomes.com",
+            "snippet": "McBride & Son Homes is the leading home builder in Greater St. Charles County. \nMcBride builds new homes in Wentzville Missouri, New Town Missouri, St. \nCharles Missouri, Cottleville Missouri, O'Fallon Missouri and St. Peters Missouri. \nMcBride has a variety of floor plans to choose from including: Town homes, Row\n ...",
+            "htmlSnippet": "McBride &amp; Son Homes is the leading home builder in Greater St. Charles County. <br>\nMcBride builds <b>new homes</b> in Wentzville Missouri, New Town Missouri, St. <br>\nCharles Missouri, Cottleville Missouri, O&#39;Fallon Missouri and St. Peters Missouri. <br>\nMcBride has a variety of floor plans to choose from including: Town homes, Row<br>\n&nbsp;...",
+            "cacheId": "S_XrBqnKtKwJ",
+            "formattedUrl": "www.mcbridehomes.com/new-homes/missouri/st-charles/",
+            "htmlFormattedUrl": "www.mcbride<b>homes</b>.com/<b>new</b>-<b>homes</b>/missouri/st-charles/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "164",
+                        "height": "175",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsjvoYd50rp6UMOQ1utduFW1mPbmPGeVCom5q9LLJeIIZA9a-RAkGuEnoc"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msvalidate.01": "A386DB40F9CA03FBB6AB0C325334BC3B",
+                        "category": "Business & Economy",
+                        "author": "Builder Consulting",
+                        "reply-to": "wcs@mcbridehomes.com",
+                        "rating": "Safe For Kids",
+                        "title": "New Homes in St. Charles, MO | McBride & Son Homes"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://maps.gstatic.com/mapfiles/api-3/images/sv9.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New! Home Fragrance | Bath & Body Works",
+            "htmlTitle": "<b>New</b>! Home Fragrance | Bath &amp; Body Works",
+            "link": "http://www.bathandbodyworks.com/c/home-fragrance/new-home-fragrance",
+            "displayLink": "www.bathandbodyworks.com",
+            "snippet": "Whether you're looking for the perfect gift or to treat yourself, shop New! Home \nFragrance Bath & Body Works to find exactly what you're looking for!",
+            "htmlSnippet": "Whether you&#39;re looking for the perfect gift or to treat yourself, shop <b>New</b>! Home <br>\nFragrance Bath &amp; Body Works to find exactly what you&#39;re looking for!",
+            "cacheId": "pKfAxYMTUbEJ",
+            "formattedUrl": "www.bathandbodyworks.com/c/home.../new-home-fragrance",
+            "htmlFormattedUrl": "www.bathandbodyworks.com/c/home.../<b>new</b>-home-fragrance",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225",
+                        "height": "225",
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlBLyTCOmyxV_t4z12ORxQx9HLTNYHcUyarmFwX-72cOzjoTVgeVBI0Zc"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width initial-scale=1.0",
+                        "msvalidate.01": "CA92A510F3E3E4209378F84778798A81"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.bathandbodyworks.com/on/demandware.static/-/Sites-master-catalog/default/dw19e3a468/crop/023555356_crop_i.jpg"
+                    }
+                ],
+                "thing": [
+                    {
+                        "name": "Home"
+                    },
+                    {
+                        "name": "Home Fragrance"
+                    },
+                    {
+                        "name": "New! Home Fragrance"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "position": "1"
+                    },
+                    {
+                        "position": "2"
+                    },
+                    {
+                        "position": "3"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Homes In DC Metro For Sale - DC Metro Homebuilders - Ryan ...",
+            "htmlTitle": "<b>New Homes</b> In DC Metro For Sale - DC Metro Homebuilders - Ryan ...",
+            "link": "http://www.ryanhomes.com/find-your-home/our-communities/maryland/dc-metro-area",
+            "displayLink": "www.ryanhomes.com",
+            "snippet": "Ryan Homes' new constructions in Maryland are located throughout some of \nAmerica's most sought-after neighborhoods. Encompassing locales ranging from \nLaurel to Capitol Heights, our new homes in Maryland lie within some of \nmetropolitan DC's most sought after towns. Ryan Homes has an especially \ngenerous roster ...",
+            "htmlSnippet": "Ryan Homes&#39; new constructions in Maryland are located throughout some of <br>\nAmerica&#39;s most sought-after neighborhoods. Encompassing locales ranging from <br>\nLaurel to Capitol Heights, our <b>new homes</b> in Maryland lie within some of <br>\nmetropolitan DC&#39;s most sought after towns. Ryan Homes has an especially <br>\ngenerous roster&nbsp;...",
+            "cacheId": "p8F9X43XSQ8J",
+            "formattedUrl": "www.ryanhomes.com/find-your-home/our.../dc-metro-area",
+            "htmlFormattedUrl": "www.ryan<b>homes</b>.com/find-your-home/our.../dc-metro-area",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "317",
+                        "height": "159",
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgeTHujBWx0_FUruX5HQDTga0GIyauLF5FmBKO46Hsj9Fn1aaoeTllh5jb"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "google": "notranslate",
+                        "viewport": "width=device-width, height=device-height, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0",
+                        "og:title": "New Homes In DC Metro For Sale - DC Metro Homebuilders - Ryan Homes",
+                        "pagename": "dc-metro-area",
+                        "pagereportname": "findyourhome:ourcommunities:MD:dc-metro-area",
+                        "og:type": "website",
+                        "og:url": "http://www.ryanhomes.com:14080/find-your-home/our-communities/maryland/dc-metro-area",
+                        "og:image": "http://www.ryanhomes.com/assets/images/placeholder-search.png",
+                        "og:description": "Search community homes for sale at Ryan Homes. The only new home builder with an A+ rating.",
+                        "og:site_name": "Ryan Homes"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.ryanhomes.com/assets/images/placeholder-search.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "New Homes in Ohio",
+            "htmlTitle": "<b>New Homes</b> in Ohio",
+            "link": "http://www.khov.com/find-new-homes/ohio",
+            "displayLink": "www.khov.com",
+            "snippet": "K. Hovnanian® Homes builds thoughtfully planned communities throughout the \ngreater Cleveland area offering a variety of new homes & communities. If you \nalready own that piece of land, our K. Hovnanian® Build On Your Lot Design \nStudios located in Sunbury, Cygnet, SE Columbus, Jeromesville, Youngstown ...",
+            "htmlSnippet": "K. Hovnanian® Homes builds thoughtfully planned communities throughout the <br>\ngreater Cleveland area offering a variety of <b>new homes</b> &amp; communities. If you <br>\nalready own that piece of land, our K. Hovnanian® Build On Your Lot Design <br>\nStudios located in Sunbury, Cygnet, SE Columbus, Jeromesville, Youngstown&nbsp;...",
+            "cacheId": "VJHWwgfaFB0J",
+            "formattedUrl": "www.khov.com/find-new-homes/ohio",
+            "htmlFormattedUrl": "www.khov.com/find-<b>new</b>-<b>homes</b>/ohio",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                        "og:site_name": "K. Hovnanian® Homes",
+                        "og:title": "Find New Homes in Ohio – K. Hovnanian® Homes",
+                        "og:description": "Find New Homes in Ohio from K. Hovnanian® Homes, one of the nations largest new home builders.",
+                        "og:type": "business.business",
+                        "og:business:contact_data:street_address": "110 West Front Street",
+                        "og:business:contact_data:locality": "Red Bank",
+                        "og:business:contact_data:postal_code": "07701",
+                        "og:business:contact_data:country_name": "USA",
+                        "og:business:contact_data:website": "WWW.KHOV.COM",
+                        "og:place:location:latitude": "40.351470",
+                        "og:place:location:longitude": "-74.070375",
+                        "og:url": "http://www.khov.com/find-new-homes/ohio",
+                        "twitter:card": "summary_large_image",
+                        "twitter:site": "@khov",
+                        "twitter:title": "Find New Homes in Ohio – K. Hovnanian® Homes",
+                        "twitter:description": "Find New Homes in Ohio from K. Hovnanian® Homes, one of the nations largest new home builders."
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "How to Buy in New Construction | HGTV",
+            "htmlTitle": "How to Buy in <b>New</b> Construction | HGTV",
+            "link": "http://www.hgtv.com/design/real-estate/how-to-buy-in-new-construction",
+            "displayLink": "www.hgtv.com",
+            "snippet": "You can buy a brand-new home in one of three ways: buying a house already \nbuilt on spec; having a semicustom home built as part of a development (you can \nchoose from a set palette of finishes and upgrades); or having a purely custom \nhome ... New homes are typically far from the city center; will you mind the \ncommute?",
+            "htmlSnippet": "You can buy a brand-new home in one of three ways: buying a house already <br>\nbuilt on spec; having a semicustom home built as part of a development (you can <br>\nchoose from a set palette of finishes and upgrades); or having a purely custom <br>\nhome ... <b>New homes</b> are typically far from the city center; will you mind the <br>\ncommute?",
+            "cacheId": "u7VCGrf2g8YJ",
+            "formattedUrl": "www.hgtv.com/design/real-estate/how-to-buy-in-new-construction",
+            "htmlFormattedUrl": "www.hgtv.com/design/real-estate/how-to-buy-in-<b>new</b>-construction",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259",
+                        "height": "194",
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1e3zoPczXwNT939r_olipF6w8VRS0q1ypruH8mIfLKXZR6_FeFe_fHEsg"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#0fadc4",
+                        "msapplication-tileimage": "/etc/clientlibs/assets/images/hgtv/mstile-144x144.png",
+                        "viewport": "width=1024",
+                        "og:title": "How to Buy in New Construction",
+                        "og:description": "Five steps to owning a newly-built home.",
+                        "og:url": "http://www.hgtv.com/design/real-estate/how-to-buy-in-new-construction",
+                        "og:image": "//hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2014/11/5/0/141017_HGREMODELS_SH2015_0003.jpg.rend.hgtvcom.616.411.suffix/1415219636980.jpeg",
+                        "twitter:card": "summary",
+                        "og:site_name": "HGTV",
+                        "og:type": "article",
+                        "fb:app_id": "209781266035267",
+                        "tp:baseurl": "//www.pdk.video.snidigital.com/5.7.15/pdk",
+                        "tp:initialize": "false",
+                        "tp:preferredformats": "mpeg4,m3u,flv,f4m",
+                        "tp:preferredruntimes": "Universal"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2010/3/5/0/JI-5250745_home-buying_s4x3.jpg.rend.hgtvcom.1280.960.suffix/1400946933887.jpeg"
+                    }
+                ],
+                "listitem": [
+                    {
+                        "position": "1",
+                        "item": "Home"
+                    },
+                    {
+                        "position": "2",
+                        "item": "Design"
+                    },
+                    {
+                        "position": "3",
+                        "item": "Real Estate"
+                    }
+                ]
+            }
+        }
+    ]
+}
