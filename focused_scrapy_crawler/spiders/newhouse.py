@@ -72,7 +72,7 @@ class NewhouseSpider(CrawlSpider):
                      logging.INFO)
         else:
             for link in links:
-                req = Request(link, priority=int(score * 1000),  # after the request is done, run parse_item to train the apprentice
+                req = Request(link, priority=int(score * 1000000),  # after the request is done, run parse_item to train the apprentice
                               callback=self.parse_item)
                 yield req
 

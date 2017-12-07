@@ -13,8 +13,8 @@ def getSeedUrls(args):
 	:return:
 	"""
 	if len(args) < 2:
-		print "\033[91m Error: Invalid invocation of script \033[0m \n" \
-			  "\033[95m------ Usage: ------ \033[0m \n \033[93m {0} seed_url1,seed_urls2 \033[0m \n \n \nExample:\n {0} http://newhomesource.com".format(args[0])
+		print "\033[91m Error: Seed urls needs to be passed to the script \033[0m \n" \
+			  "\033[95m------ Usage: ------ \033[0m \n \033[93m python {0} seed_url1,seed_urls2 \033[0m \n \n \nExample:\n python {0} http://newhomesource.com,https://stackoverflow.com".format(args[0])
 		return None
 	return args[1]
 

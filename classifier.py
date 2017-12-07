@@ -15,7 +15,7 @@ class WebClassifier(object):
 		Initialized basic of classifier like fwd index, index
 		:param configFile:
 		"""
-		metapy.log_to_stderr()
+		#metapy.log_to_stderr()
 
 		# Loading indexes
 		self.invertedIndex = metapy.index.make_inverted_index(configFile)
