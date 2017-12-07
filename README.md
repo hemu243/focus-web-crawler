@@ -13,8 +13,8 @@ An inherit class needs to implement getClassifier and score function of this cla
 In this project, I had implemented naive bayes based classifier (refer naive_bayes_classifier.py file) which provide score 0 if page is not related to new house development and 1 if page is related to house development.
 However you can extend base class and define your own classifier. Webcrawler components accepts instance of classifier.
 
-**_Training data set for classifier_**
-Since I could not find out training data set for classifier so I ended up creating my own training data set by using raw output of google search results and converting to metapy format.
+**_Training data set for classifier_** -
+since I could not find out training data set for classifier so I ended up creating my own training data set by using raw output of google search results and converting to metapy format.
 For more information you are refer sample_data_generator folder. In this folder you will find the following sub folders -
 
 dataset/raw/new_homes - raw google search result of new house data in json format and put into files. You can add more files in this folder and run sample_generation_script.py to generate new sample data for metapy.
@@ -122,21 +122,18 @@ Script also print out url and its relevance score to console as well.
 
 **output/log** -> contains log file.
 
-# How to stop crawling
+## How to stop crawling
 This project will keep crawling until resources is exhausted or no more relevant url to crawl. If you want to stop it then press [ctrl^c], this command will given signal to crawler to stop. crawler graceful stops in few seconds.
 If you want to stop crawling immediately then press [ctrl^c] which unsafely stop crawler immediately.
-
-# Persistence state of crawl between two runs
-Right now, crawler does not support persisted state between two runs. This could be one of enhancement of this project.
 
 # Future work
 ## Evaluation of classifier
 We can extend project and add evaluation of results of classifier
-## Training dataset
-Since this is manual defined training set, it has lot of score to improve
-## Implement better classifier
+## Refine training data set
+Since this is manual defined training set, it has lot of scope to improve.
+## Improve classifier
 We can improve classifier and output score between 0 and 1 instead of only 0 or 1
 ## Add ranking algorithm
 We can add ranking algorithm to improve output result
 ## Persistence state of crawler
-Implement persistence state of crawler so it can resume the work from previous state.
+Right now, crawler does not support persisted state between two runs. You can extend this project by implementing persistence state of crawler so it can resume the work from previous state.
