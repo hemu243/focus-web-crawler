@@ -27,7 +27,7 @@ def startCrawl(input_urls="http://newhomesource.com", classifier=None):
 	# clean output file
 	cleanFile("output/newhouse_output_all.txt")
 	cleanFile("output/newhouse_output_positive_score.txt")
-	cleanFile("output/log/newhouse_output_positive_score.txt")
+	cleanFile("output/log/crawler.log")
 
 	# Create Crawl Process which also start twisted reactor
 	process = CrawlerProcess(get_project_settings())
