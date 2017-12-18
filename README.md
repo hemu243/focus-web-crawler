@@ -134,6 +134,6 @@ Since this is manual defined training set, it has lot of scope to improve.
 ## Improve classifier
 We can improve classifier and output score between 0 and 1 instead of only 0 or 1
 ## Add ranking algorithm
-We can add ranking algorithm to improve output result
+We can add page ranking algorithm to improve output result
 ## Persistence state of crawler
 Right now, crawler does not support persisted state between two runs. You can extend this project by implementing persistence state of crawler so it can resume the work from previous state.
