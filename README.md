@@ -104,10 +104,10 @@ python run.py seed_url1,seed_url2
 
 For  example -
 ```
- python run.py http://newhomesource.com,https://stackoverflow.com
+ python run.py http://newhomesource.com,https://news.ycombinator.com/
 ```
 
-This command will generate create two folders
+This command will generate output at two folders
 * idx
 * output - empty folder might have existed
 
@@ -116,9 +116,9 @@ This command will generate create two folders
 **output** folder holds output of scripts along with log file.
 Script also print out url and its relevance score to console as well.
 
-**output/newhouse_output_all** - hold all crawled url with their relevance score.
+**output/newhouse_output_all** - hold all crawled urls with their relevance score.
 
-**output/newhouse_output_positive_score.txt** - hold all crawled url and their score where relevance score greater than zero.Since naive bayes classifier either provide score 0 or 1. So you will see all scores to 1 only in this file.
+**output/newhouse_output_positive_score.txt** - hold crawled urls where relevance score greater than zero. Since naive bayes classifier either provide score 0 or 1. So you will see all scores to 1 only in this file.
 
 **output/log** -> contains log file.
 
